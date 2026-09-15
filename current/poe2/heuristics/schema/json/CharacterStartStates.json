@@ -208,7 +208,7 @@
     "unique": false
   },
   {
-    "name": "",
+    "name": "SupportGems",
     "offset": 189,
     "unknownArray": false,
     "unique": false,
@@ -216,7 +216,8 @@
     "type": {
       "array": true,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "SupportGems"
       }
     },
     "size": 16

@@ -1,10 +1,10 @@
 # Added 4.5
 type AfflictionQuestFogBankValues {
-  _: rid
-  _: [rid]
+  _: NPCs
+  _: [NPCs]
   _: [i32]
   _: [i32]
-  _: rid
+  _: NPCs
   _: i32
-  _: [rid]
+  _: [NPCs]
 }

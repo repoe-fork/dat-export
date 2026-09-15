@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1788974136,
+  "createdAt": 1789458335,
   "tables": [
     {
       "validFor": 1,
@@ -64924,13 +64924,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "SupportGems",
           "description": null,
           "array": true,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "SupportGems"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -121685,13 +121687,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "Characters",
           "description": null,
           "array": true,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "Characters"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -126411,13 +126415,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "VariantType",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "PassiveSkillVariantTypes"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -165300,7 +165306,9 @@
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "NPCs"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -165313,7 +165321,9 @@
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "NPCs"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -165352,7 +165362,9 @@
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "NPCs"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -165378,7 +165390,9 @@
           "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "NPCs"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -191515,7 +191529,7 @@
       "enumerators": []
     },
     {
-      "validFor": 3,
+      "validFor": 1,
       "name": "Wordlists",
       "indexing": 1,
       "enumerators": [
@@ -191533,6 +191547,73 @@
         "VILLAGER_SUFFIX",
         "MERCENARY_PREFIX",
         "MERCENARY_SUFFIX"
+      ]
+    },
+    {
+      "validFor": 2,
+      "name": "Wordlists",
+      "indexing": 1,
+      "enumerators": [
+        "ITEM_PREFIX",
+        "ITEM_SUFFIX",
+        "MONSTER_PREFIX",
+        "MONSTER_SUFFIX",
+        "MONSTER_TITLE",
+        "UNIQUE_ITEM",
+        "STRONGBOX_PREFIX",
+        "STRONGBOX_SUFFIX",
+        "ESSENCE",
+        "TEST",
+        "VILLAGER_PREFIX",
+        "VILLAGER_SUFFIX",
+        "MERCENARY_PREFIX",
+        "MERCENARY_SUFFIX",
+        "INCURSION_UNIQUE_FORGEMASTER_PREFIX",
+        "INCURSION_UNIQUE_FORGEMASTER_SUFFIX",
+        "INCURSION_RARE_FORGEHAND_PREFIX",
+        "INCURSION_RARE_FORGEHAND_SUFFIX",
+        "INCURSION_RARE_SPY_MASTER_PREFIX",
+        "INCURSION_RARE_SPY_MASTER_SUFFIX",
+        "INCURSION_UNIQUE_SPY_MASTER_PREFIX",
+        "INCURSION_UNIQUE_SPY_MASTER_SUFFIX",
+        "INCURSION_RARE_DRILL_SERGEANT_PREFIX",
+        "INCURSION_RARE_DRILL_SERGEANT_SUFFIX",
+        "INCURSION_RARE_FLESH_SURGEON_PREFIX",
+        "INCURSION_RARE_FLESH_SURGEON_SUFFIX",
+        "INCURSION_T3_RARE_FLESH_SURGEON_PREFIX",
+        "INCURSION_T3_RARE_FLESH_SURGEON_SUFFIX",
+        "INCURSION_UNIQUE_QUEEN_FLESH_SURGEON_PREFIX",
+        "INCURSION_UNIQUE_QUEEN_FLESH_SURGEON_SUFFIX",
+        "INCURSION_RARE_THAUMATURGE_PREFIX",
+        "INCURSION_RARE_THAUMATURGE_SUFFIX",
+        "INCURSION_UNIQUE_THAUMATURGE_PREFIX",
+        "INCURSION_UNIQUE_THAUMATURGE_SUFFIX",
+        "INCURSION_RARE_BLOOD_PRIEST_PREFIX",
+        "INCURSION_RARE_BLOOD_PRIEST_SUFFIX",
+        "INCURSION_UNIQUE_BLOOD_PRIEST_PREFIX",
+        "INCURSION_UNIQUE_BLOOD_PRIEST_SUFFIX",
+        "INCURSION_RARE_COMMANDER_PAST_PREFIX",
+        "INCURSION_RARE_COMMANDER_PAST_SUFFIX",
+        "INCURSION_UNIQUE_COMMANDER_PAST_PREFIX",
+        "INCURSION_UNIQUE_COMMANDER_PAST_SUFFIX",
+        "INCURSION_RARE_COMMANDER_PRESENT_PREFIX",
+        "INCURSION_RARE_COMMANDER_PRESENT_SUFFIX",
+        "INCURSION_UNIQUE_COMMANDER_PRESENT_PREFIX",
+        "INCURSION_UNIQUE_COMMANDER_PRESENT_SUFFIX",
+        "INCURSION_UNIQUE_STATUE_BOSS_PREFIX",
+        "INCURSION_UNIQUE_STATUE_BOSS_SUFFIX",
+        "INCURSION_UNIQUE_QUADRILLA_PREFIX",
+        "INCURSION_UNIQUE_QUADRILLA_SUFFIX",
+        "INCURSION_UNIQUE_FUSED_SKELETON_PREFIX",
+        "INCURSION_UNIQUE_FUSED_SKELETON_SUFFIX",
+        "INCURSION_UNIQUE_SENTINEL_PREFIX",
+        "INCURSION_UNIQUE_SENTINEL_SUFFIX",
+        "INCURSION_UNIQUE_COLOSSUS_PREFIX",
+        "INCURSION_UNIQUE_COLOSSUS_SUFFIX",
+        "INCURSION_UNIQUE_SUN_PRIEST_PREFIX",
+        "INCURSION_UNIQUE_SUN_PRIEST_SUFFIX",
+        "INCURSION_UNIQUE_CHAINED_BEAST_PREFIX",
+        "INCURSION_UNIQUE_CHAINED_BEAST_SUFFIX"
       ]
     },
     {

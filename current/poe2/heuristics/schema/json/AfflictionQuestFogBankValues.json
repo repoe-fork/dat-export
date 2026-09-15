@@ -8,7 +8,8 @@
     "type": {
       "array": false,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "NPCs"
       }
     },
     "size": 16
@@ -22,7 +23,8 @@
     "type": {
       "array": true,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "NPCs"
       }
     },
     "size": 16
@@ -66,7 +68,8 @@
     "type": {
       "array": false,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "NPCs"
       }
     },
     "size": 16
@@ -95,7 +98,8 @@
     "type": {
       "array": true,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "NPCs"
       }
     },
     "size": 16

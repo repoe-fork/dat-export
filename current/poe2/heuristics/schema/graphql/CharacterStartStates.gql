@@ -15,7 +15,7 @@ type CharacterStartStates {
   _: [rid]
   _: [_] # All rows empty
   _: [_] # All rows empty
-  _: [rid]
+  SupportGems: [SupportGems]
   _: [rid]
   _: bool
 }

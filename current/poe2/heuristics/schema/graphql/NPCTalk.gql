@@ -28,7 +28,7 @@ type NPCTalk {
   ConsoleQuickAction: NPCTalkConsoleQuickActions
   Music1: Music
   _: i32
-  _: [rid]
+  Characters: [Characters]
   _: i32
   Music2: Music
   _: i32

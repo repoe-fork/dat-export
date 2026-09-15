@@ -67,7 +67,7 @@ type PassiveSkills {
   Stat7Value: i32
   _: i32
   _: i32
-  _: rid
+  VariantType: PassiveSkillVariantTypes
   _: i32
   QuestFlag: QuestFlags
   Requirement: ClientStrings
