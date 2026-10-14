@@ -11,11 +11,11 @@ type CharacterStartStates {
   _: bool
   InfoText: string
   Ascendancy: Ascendancy
-  _: [rid]
-  _: [rid]
+  _: [PassiveSkills]
+  _: [PassiveSkills]
   _: [_] # All rows empty
   _: [_] # All rows empty
-  SupportGems: [SupportGems]
-  _: [rid]
+  AttributePassives: [PassiveSkills]
+  AttributeChoices: [PassiveSkills]
   _: bool
 }

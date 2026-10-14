@@ -26,11 +26,11 @@ type NPCTalk {
   _: bool
   DialogueOption2: string
   ConsoleQuickAction: NPCTalkConsoleQuickActions
-  Music1: Music
+  WorldArea1: WorldAreas
   _: i32
   Characters: [Characters]
   _: i32
-  Music2: Music
+  WorldArea2: WorldAreas
   _: i32
   QuestFlag3: QuestFlags
   _: bool

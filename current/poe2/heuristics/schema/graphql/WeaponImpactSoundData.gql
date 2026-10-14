@@ -1,10 +1,7 @@
 # Added 4.1
 type WeaponImpactSoundData {
   Id: string @unique
-  _: i32
-  _: i32
-  _: i32
-  _: i32
+  WeaponSoundType: WeaponSoundTypes
   _: i32
   _: i32
   _: i32

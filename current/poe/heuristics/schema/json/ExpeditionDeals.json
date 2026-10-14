@@ -82,7 +82,7 @@
     "size": 16
   },
   {
-    "name": "NPCShop",
+    "name": "SoundEffect",
     "offset": 60,
     "unknownArray": false,
     "unique": false,
@@ -91,7 +91,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "NPCShop"
+        "table": "SoundEffects"
       }
     },
     "size": 16

@@ -7,11 +7,9 @@ type MapDeviceLayouts {
   _: [f32]
   _: [f32]
   MapKey: MapKeys
-  _: i32
-  _: string
   _: bool
   _: i32
-  _: i32
+  _: [i32]
   _: [i32]
   _: i32
 }

@@ -1,10 +1,10 @@
 # Added 4.5
 type AfflictionQuestFogBankValues {
-  _: NPCs
-  _: [NPCs]
+  _: EndgameMapAtlas
+  _: [EndgameMapAtlas]
   _: [i32]
   _: [i32]
-  _: NPCs
+  _: EndgameMapAtlas
   _: i32
-  _: [NPCs]
+  _: [EndgameMapAtlas]
 }

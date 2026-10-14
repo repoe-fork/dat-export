@@ -162,7 +162,8 @@
     "type": {
       "array": true,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "PassiveSkills"
       }
     },
     "size": 16
@@ -176,7 +177,8 @@
     "type": {
       "array": true,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "PassiveSkills"
       }
     },
     "size": 16
@@ -208,7 +210,7 @@
     "unique": false
   },
   {
-    "name": "SupportGems",
+    "name": "AttributePassives",
     "offset": 189,
     "unknownArray": false,
     "unique": false,
@@ -217,13 +219,13 @@
       "array": true,
       "key": {
         "foreign": true,
-        "table": "SupportGems"
+        "table": "PassiveSkills"
       }
     },
     "size": 16
   },
   {
-    "name": "",
+    "name": "AttributeChoices",
     "offset": 205,
     "unknownArray": false,
     "unique": false,
@@ -231,7 +233,8 @@
     "type": {
       "array": true,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "PassiveSkills"
       }
     },
     "size": 16

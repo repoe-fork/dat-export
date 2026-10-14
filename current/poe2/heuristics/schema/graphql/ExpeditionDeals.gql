@@ -6,8 +6,6 @@ type ExpeditionDeals {
   _: i32
   Description: string @localized
   _: [_] # All rows empty
-  _: string
-  _: i32
-  _: i32
+  SoundEffect: SoundEffects
   DealFamily: ExpeditionDealFamilies
 }

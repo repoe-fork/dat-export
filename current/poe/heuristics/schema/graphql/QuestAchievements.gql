@@ -1,7 +1,7 @@
 # Added 3.11
 type QuestAchievements {
   Id: string @unique
-  QuestStates: [i32]
+  QuestFlags: [QuestFlags]
   _: [i32]
   AchievementItems: [AchievementItems]
   NPCs: [NPCs]

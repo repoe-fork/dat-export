@@ -12,16 +12,16 @@
     "size": 8
   },
   {
-    "name": "QuestStates",
+    "name": "QuestFlags",
     "offset": 8,
     "unknownArray": false,
     "unique": false,
     "interval": false,
     "type": {
       "array": true,
-      "integer": {
-        "unsigned": false,
-        "size": 4
+      "key": {
+        "foreign": true,
+        "table": "QuestFlags"
       }
     },
     "size": 16
