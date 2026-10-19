@@ -14,9 +14,9 @@
 12,"MTXGhostLevelUp",10277,1239,24409,"","","","",1
 13,"MTXOracleDruidLevelUp","",1253,24517,"","","PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/OracleDruid/ao/oracle_druid_lvl_up.ao' );","",1
 14,"MTXBloodHowlLevelUp","","",24518,"","","PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/blood_howl/blood_howl_lvlup.ao' );","",1
-15,"MTXVerisiumLevelUp","",1372,25988,1105,"","","",1
+15,"MTXVerisiumLevelUp","",1371,25988,1105,"","","",1
 16,"MTXSacredTreeLevelUp","","",26239,"","","PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/SpiritWalker/spiritwalker_lvl_up.ao' );","",1
-17,"MTXChronoLevelUp","",1438,26961,"","","Delay( 1.4, { PlayTextAudio( ZarokhBoss_Godvoice_Sekhema_Random, 'Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss' ); } );","",1
-18,"MTXKaruiAncestralLevelUp","",1456,27102,"","","","",1
+17,"MTXChronoLevelUp","",1437,26961,"","","Delay( 1.4, { PlayTextAudio( ZarokhBoss_Godvoice_Sekhema_Random, 'Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss' ); } );","",1
+18,"MTXKaruiAncestralLevelUp","",1454,27102,"","","","",1
 19,"MTXWaterLevelUp","","",27103,"","","PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/Ocean/ocean_levelup.ao' );","",1
-20,"MTXKingintheMistsLevelUp","",1468,27185,"","","Delay( 1.6, { PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/KingInTheMists/kinginthemist_levelup.ao' ); } );","",1
+20,"MTXKingintheMistsLevelUp","",1466,27185,"","","Delay( 1.6, { PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/KingInTheMists/kinginthemist_levelup.ao' ); } );","",1

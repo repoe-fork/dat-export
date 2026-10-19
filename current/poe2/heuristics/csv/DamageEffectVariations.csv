@@ -281,12 +281,12 @@
 279,"MTXStygianBlunt",[],"[""Metadata/Effects/Spells/hit_and_blood/FX/theme_variants/FIRE_blunt_Stygian.pet""]",1,4,[],[],"","",""
 280,"MTXStygianSlash",[],"[""Metadata/Effects/Spells/hit_and_blood/FX/theme_variants/FIRE_slash_Stygian.pet""]",1,4,[],[],"","",""
 281,"MTXStygianPierce",[],"[""Metadata/Effects/Spells/hit_and_blood/FX/theme_variants/FIRE_pierce_Stygian.pet""]",1,4,[],[],"","",""
-282,"RunicFortressHit",[11037],[],1,0,[],[],1418,1,1
+282,"RunicFortressHit",[11037],[],1,0,[],[],1417,1,1
 283,"GlacialLancePierceSpiritWalker",[11054],[],1,4,[],[],"","",""
 284,"RapidShotImpactPiercingVerisium",[11072],[],1,4,[],[],"","",""
 285,"BurstShotImpactPiercingVerisium",[11073],[],1,4,[],[],"","",""
 286,"PowerShotImpactPiercingVerisium",[11074],[],1,4,[],[],"","",""
-287,"WardboundMinionSpellHit",[],[],1,0,[],[],1436,"",""
+287,"WardboundMinionSpellHit",[],[],1,0,[],[],1435,"",""
 288,"PowerShotImpactPiercingVampiric",[11164],[],1,4,[],[],"","",""
 289,"PowerShotPassThroughPiercingVampiric",[11165],[],1,0,[],[],"","",""
 290,"RapidShotImpactPiercingVampiric",[11166],[],1,0,[],[],"","",""
