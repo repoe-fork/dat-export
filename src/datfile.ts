@@ -210,7 +210,7 @@ export class CdnBundleLoader implements IBundleLoader {
   async fetchCDN(name: string) {
     const webpath = `${this.patchVer}/${BUNDLE_DIR}/${name}`;
     const response = await retryFetch(
-      `https://patch${this.patchVer.startsWith("4") ? "-poe2" : ""}.poecdn.com/${webpath}`,
+      `https://patch${this.patchVer.startsWith("3") ? "" : "-poe2"}.poecdn.com/${webpath}`,
     );
     return await response.arrayBuffer();
   }
