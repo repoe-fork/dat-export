@@ -12,7 +12,7 @@ type QuestRewards @tags(list: ["item:reward"]) {
   RewardStack: i32
   _: bool
   _: bool
-  _: [_]
+  Archetypes: [Archetypes]
   _: i32
   _: i32
   _: [rid]

@@ -12,8 +12,8 @@ type ExecuteGEAL {
   _: i32
   _: i32
   _: bool
-  _: [_] # All rows empty
   _: bool
+  _: [_] # All rows empty
   _: i32
   _: i32
   _: i32

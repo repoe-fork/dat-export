@@ -45,7 +45,7 @@ type ItemVisualIdentity {
   _: string
   IsAtlasOfWorldsMapIcon: bool
   IsTier16Icon: bool
-  _: [i32]
+  _: [AchievementItems]
   _: bool
   _: [AchievementItems]
   _: [string]

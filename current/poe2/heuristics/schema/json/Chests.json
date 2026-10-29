@@ -303,7 +303,7 @@
     "size": 16
   },
   {
-    "name": "Environment",
+    "name": "LockedError",
     "offset": 193,
     "unknownArray": false,
     "unique": false,
@@ -312,7 +312,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "Environments"
+        "table": "BackendErrors"
       }
     },
     "size": 16

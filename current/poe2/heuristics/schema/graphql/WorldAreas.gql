@@ -31,20 +31,17 @@ type WorldAreas {
   MaxLevel: i32
   _: i32
   IsHideout: bool
-  _: i32 @localized
-  _: i32
+  _: string @localized
   Tags: [Tags]
   _: rid
   _: rid
-  _: i32 @localized
-  _: i32
+  _: string
   _: rid
-  _: [string]
+  _: [AchievementItems]
   IsUniqueMapArea: bool
   _: rid
   _: rid
-  _: i32 @localized
-  _: i32
+  _: string
   _: i32
   Environment: Environments
   _: i32

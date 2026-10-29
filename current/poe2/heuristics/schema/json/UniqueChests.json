@@ -141,7 +141,7 @@
     "size": 16
   },
   {
-    "name": "AppearanceChestsKey",
+    "name": "LockedError",
     "offset": 105,
     "unknownArray": false,
     "unique": false,
@@ -150,7 +150,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "Chests"
+        "table": "BackendErrors"
       }
     },
     "size": 16

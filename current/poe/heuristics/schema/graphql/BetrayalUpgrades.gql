@@ -9,7 +9,7 @@ type BetrayalUpgrades {
   _: [i32]
   ItemVisualIdentityKey0: ItemVisualIdentity
   ItemVisualIdentityKey1: ItemVisualIdentity
-  GrantedEffectsKey: GrantedEffects
+  ItemVisualIdentityKey2: ItemVisualIdentity
   _: i32
   ItemClassesKey: ItemClasses
 }

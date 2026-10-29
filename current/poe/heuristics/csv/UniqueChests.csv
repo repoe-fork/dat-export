@@ -1,4 +1,4 @@
-"rownum","Id","WordsKey","FlavourTextKey","MinLevel","ModsKeys","SpawnWeight","[i32]_64","AOFile","bool_88","[i32]_89","AppearanceChestsKey","ChestsKey","Achievement"
+"rownum","Id","WordsKey","FlavourTextKey","MinLevel","ModsKeys","SpawnWeight","[i32]_64","AOFile","bool_88","DaemonMods","LockedError","ChestsKey","Achievement"
 0,"UniqueChestTest1",370,0,0,"[7940,7951,7930]",0,[],"Metadata/Chests/StrongBoxes/ArmoryStrongBox.ao","",[],"",284,[]
 1,"PerandusBank",376,383,20,"[7975,7963,8014,8022,8846]",0,[],"Metadata/Chests/StrongBoxes/PerandusBox.ao","",[],"",279,"[9356,9918]"
 2,"KaomsCache",377,384,20,"[7966,7960,7988,8021,8846]",60,[],"Metadata/Chests/StrongBoxes/KaomBox.ao","",[],"",266,"[9356,9918]"

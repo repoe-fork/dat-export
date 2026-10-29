@@ -1,4 +1,4 @@
-"rownum","Id","WordsKey","FlavourTextKey","MinLevel","ModsKeys","SpawnWeight","[i32]_64","AOFile","bool_88","DaemonMods","AppearanceChestsKey","ChestsKey","Achievement","i32_153","i32_157","bool_161","RequiredMapStat"
+"rownum","Id","WordsKey","FlavourTextKey","MinLevel","ModsKeys","SpawnWeight","[i32]_64","AOFile","bool_88","DaemonMods","LockedError","ChestsKey","Achievement","i32_153","i32_157","bool_161","RequiredMapStat"
 0,"ForgottenReliquaryChest",905,1189,0,[10746],0,[],"Metadata/Chests/CopperChests/ClassicVault.ao",1,[],"","",[],76,0,"",""
 1,"ForgottenReliquaryChest2",906,1190,0,[10747],0,[],"Metadata/Chests/CopperChests/ClassicVault.ao",1,[],"","",[],76,0,"",""
 2,"ForgottenReliquaryChestVaal",907,1191,0,[10748],0,[],"Metadata/Chests/CopperChests/ClassicVault.ao",1,[],"","",[],76,0,"",""

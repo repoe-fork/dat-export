@@ -125,7 +125,7 @@
     "size": 16
   },
   {
-    "name": "GrantedEffectsKey",
+    "name": "ItemVisualIdentityKey2",
     "offset": 100,
     "unknownArray": false,
     "unique": false,
@@ -134,7 +134,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "GrantedEffects"
+        "table": "ItemVisualIdentity"
       }
     },
     "size": 16

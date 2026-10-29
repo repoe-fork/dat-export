@@ -1,13 +1,13 @@
 # Added 4.1
 type BloodTypes {
   Id: string @unique
-  GroundEffect: [GroundEffects]
+  Gibs: [MiscAnimated]
   Visual: BuffVisuals
   VisualMoving: BuffVisuals
   _: f32
   _: f32
   _: f32
   DeathEffect: [MiscEffectPacks]
-  _: [string]
+  CorpseStain: [MiscEffectPacks]
   CorpseExplodeEffect: MiscEffectPacks
 }

@@ -15,7 +15,7 @@
     "size": 16
   },
   {
-    "name": "ShapeShiftVisualIdentity",
+    "name": "ShapeShiftForm",
     "offset": 16,
     "unknownArray": false,
     "unique": false,
@@ -24,13 +24,13 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "ShapeShiftVisualIdentity"
+        "table": "ShapeShiftForms"
       }
     },
     "size": 16
   },
   {
-    "name": "",
+    "name": "ShapeShiftVisualIdentity",
     "offset": 32,
     "unknownArray": false,
     "unique": false,
@@ -38,7 +38,8 @@
     "type": {
       "array": false,
       "key": {
-        "foreign": true
+        "foreign": true,
+        "table": "ShapeShiftVisualIdentity"
       }
     },
     "size": 16

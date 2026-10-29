@@ -1,6 +1,6 @@
 [
   {
-    "name": "Icon",
+    "name": "Rarity",
     "offset": 0,
     "unknownArray": false,
     "unique": true,
@@ -9,7 +9,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "EndgameMapPinIcons"
+        "table": "Rarity"
       }
     },
     "size": 16

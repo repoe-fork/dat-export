@@ -156,24 +156,13 @@
     "unique": false,
     "interval": false,
     "type": {
-      "array": false,
-      "key": {
-        "foreign": false
+      "array": true,
+      "integer": {
+        "unsigned": false,
+        "size": 4
       }
     },
-    "size": 8
-  },
-  {
-    "name": "",
-    "offset": 100,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "string": {}
-    },
-    "size": 8
+    "size": 16
   },
   {
     "name": "",

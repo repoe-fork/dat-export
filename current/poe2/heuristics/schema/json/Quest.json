@@ -178,7 +178,7 @@
     "size": 16
   },
   {
-    "name": "QuestFlag",
+    "name": "WorldAreas",
     "offset": 103,
     "unknownArray": false,
     "unique": false,
@@ -187,7 +187,7 @@
       "array": true,
       "key": {
         "foreign": true,
-        "table": "QuestFlags"
+        "table": "WorldAreas"
       }
     },
     "size": 16

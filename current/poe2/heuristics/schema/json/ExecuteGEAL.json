@@ -171,21 +171,8 @@
     "size": 1
   },
   {
-    "type": {
-      "array": true,
-      "key": {
-        "foreign": true
-      }
-    },
-    "offset": 58,
-    "size": 16,
-    "noData": true,
-    "unknownArray": true,
-    "unique": false
-  },
-  {
     "name": "",
-    "offset": 74,
+    "offset": 58,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -194,6 +181,19 @@
       "boolean": true
     },
     "size": 1
+  },
+  {
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true
+      }
+    },
+    "offset": 59,
+    "size": 16,
+    "noData": true,
+    "unknownArray": true,
+    "unique": false
   },
   {
     "name": "",

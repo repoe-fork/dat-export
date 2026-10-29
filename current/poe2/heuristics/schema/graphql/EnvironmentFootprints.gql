@@ -1,6 +1,6 @@
 # Added 4.1
 type EnvironmentFootprints {
-  Environment: Environments
+  FootstepAudio: FootstepAudio
   _: i32
   AOFile: [string] @file(ext: ".ao")
 }

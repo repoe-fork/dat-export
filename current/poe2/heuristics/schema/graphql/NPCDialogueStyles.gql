@@ -11,8 +11,7 @@ type NPCDialogueStyles {
   _: i32
   _: i32
   _: [i32]
-  _: NPCDialogueStyles
-  _: string
+  _: [i32]
   _: [i32]
   _: [i32]
   _: i32

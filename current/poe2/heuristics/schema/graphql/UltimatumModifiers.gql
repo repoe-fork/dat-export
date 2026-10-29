@@ -9,7 +9,7 @@ type UltimatumModifiers {
   Name: string @localized
   Icon: string
   HASH16: u16
-  _: [string]
+  _: [UltimatumModifierTypes]
   BuffTemplates: [BuffTemplates]
   Tier: i32
   Description: string @localized

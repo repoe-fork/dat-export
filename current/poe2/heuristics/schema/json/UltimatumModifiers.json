@@ -130,7 +130,10 @@
     "interval": false,
     "type": {
       "array": true,
-      "string": {}
+      "key": {
+        "foreign": true,
+        "table": "UltimatumModifierTypes"
+      }
     },
     "size": 16
   },

@@ -10,7 +10,7 @@ type UniqueChests {
   AOFile: string @file(ext: ".ao")
   _: bool
   DaemonMods: [Mods]
-  AppearanceChestsKey: Chests
+  LockedError: BackendErrors
   ChestsKey: Chests
   Achievement: [AchievementItems]
   _: i32

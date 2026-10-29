@@ -7,7 +7,7 @@ type NPCMaster {
   _: bool
   SpawnWeight_TagsKeys: [Tags]
   SpawnWeight_Values: [i32]
-  Audio: NPCAudio
+  Currency: CurrencyItems
   _: i32
   AreaDescription: string @localized
   AwardDisplay: AwardDisplay

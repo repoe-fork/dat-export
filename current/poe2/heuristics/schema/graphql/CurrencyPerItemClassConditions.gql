@@ -1,7 +1,7 @@
 # Added 4.4
 type CurrencyPerItemClassConditions {
+  Currency: CurrencyItems
   ItemClass: ItemClasses
-  _: rid
   _: i32
   _: rid
 }

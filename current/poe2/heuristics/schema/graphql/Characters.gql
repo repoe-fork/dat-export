@@ -20,12 +20,9 @@ type Characters {
   Description: string @localized
   StartSkillGem: BaseItemTypes
   _: rid
-  _: i32
+  WeaponSoundType: WeaponSoundTypes
   _: i32
   CharacterSize: i32
-  _: i32
-  _: i32
-  _: i32
   IntroSoundFile: string @file(ext: ".ogg")
   StartWeapons: [BaseItemTypes]
   Gender: string

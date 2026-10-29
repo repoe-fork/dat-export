@@ -437,7 +437,7 @@
       "array": true,
       "key": {
         "foreign": true,
-        "table": "ItemClasses"
+        "table": "WieldableClasses"
       }
     },
     "size": 16

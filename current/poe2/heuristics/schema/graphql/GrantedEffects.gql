@@ -36,7 +36,7 @@ type GrantedEffects {
   _: bool
   _: [i32]
   _: i32
-  SupportWeaponRestrictions: [ItemClasses]
+  SupportWeaponRestrictions: [WieldableClasses]
   _: string
   MinionType: MinionType
   _: f32

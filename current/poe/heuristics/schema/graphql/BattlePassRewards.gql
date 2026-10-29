@@ -15,10 +15,7 @@ type BattlePassRewards {
   _: bool
   RewardTitle: string @localized
   ItemFrameType: ItemFrameType
-  _: i32
-  _: i32
-  _: i32
-  _: i32
+  Track: BattlePassTracks
   BaseItemTypeReward: BaseItemTypes
   _: i32
 }

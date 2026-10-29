@@ -9,8 +9,8 @@ type UniqueChests {
   _: [i32]
   AOFile: string @file(ext: ".ao")
   _: bool
-  _: [i32]
-  AppearanceChestsKey: Chests
+  DaemonMods: [Mods]
+  LockedError: BackendErrors
   ChestsKey: Chests
   Achievement: [AchievementItems]
 }

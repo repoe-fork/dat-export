@@ -15,7 +15,7 @@
     "size": 16
   },
   {
-    "name": "NPC",
+    "name": "Faction",
     "offset": 16,
     "unknownArray": false,
     "unique": true,
@@ -24,7 +24,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "ExpeditionNPCs"
+        "table": "ExpeditionFactions"
       }
     },
     "size": 16

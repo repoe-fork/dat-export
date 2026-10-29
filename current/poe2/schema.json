@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1791971088,
+  "createdAt": 1793267659,
   "tables": [
     {
       "validFor": 1,
@@ -13583,14 +13583,14 @@
           "interval": false
         },
         {
-          "name": "GrantedEffectsKey",
+          "name": "ItemVisualIdentityKey2",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "GrantedEffects"
+            "table": "ItemVisualIdentity"
           },
           "until": null,
           "file": null,
@@ -26909,10 +26909,12 @@
           "name": null,
           "description": null,
           "array": true,
-          "type": "string",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "UltimatumModifierTypes"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -28164,14 +28166,14 @@
           "interval": false
         },
         {
-          "name": "NPC",
+          "name": "Faction",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "ExpeditionNPCs"
+            "table": "ExpeditionFactions"
           },
           "until": null,
           "file": null,
@@ -57369,14 +57371,14 @@
           "interval": false
         },
         {
-          "name": "GroundEffect",
+          "name": "Gibs",
           "description": null,
           "array": true,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "GroundEffects"
+            "table": "MiscAnimated"
           },
           "until": null,
           "file": null,
@@ -57468,13 +57470,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "CorpseStain",
           "description": null,
           "array": true,
-          "type": "string",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "MiscEffectPacks"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -58789,10 +58793,12 @@
           "name": null,
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "AchievementItems"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -62153,13 +62159,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "StatDescriptionFunctions",
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "StatDescriptionFunctions"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -62313,13 +62321,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "StatDescriptionFunctions",
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "StatDescriptionFunctions"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -63695,13 +63705,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "WeaponSoundType",
           "description": null,
           "array": false,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "WeaponSoundTypes"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -63722,45 +63734,6 @@
         },
         {
           "name": "CharacterSize",
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
           "description": null,
           "array": false,
           "type": "i32",
@@ -65877,14 +65850,14 @@
           "interval": false
         },
         {
-          "name": "Environment",
+          "name": "LockedError",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "Environments"
+            "table": "BackendErrors"
           },
           "until": null,
           "file": null,
@@ -66433,14 +66406,14 @@
           "interval": false
         },
         {
-          "name": "Environment",
+          "name": "LockedError",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "Environments"
+            "table": "BackendErrors"
           },
           "until": null,
           "file": null,
@@ -74341,8 +74314,8 @@
         {
           "name": null,
           "description": null,
-          "array": true,
-          "type": "array",
+          "array": false,
+          "type": "bool",
           "unique": false,
           "localized": false,
           "references": null,
@@ -74354,8 +74327,8 @@
         {
           "name": null,
           "description": null,
-          "array": false,
-          "type": "bool",
+          "array": true,
+          "type": "array",
           "unique": false,
           "localized": false,
           "references": null,
@@ -82143,7 +82116,7 @@
           "unique": false,
           "localized": false,
           "references": {
-            "table": "ItemClasses"
+            "table": "WieldableClasses"
           },
           "until": null,
           "file": null,
@@ -92754,34 +92727,34 @@
         {
           "name": null,
           "description": null,
-          "array": true,
-          "type": "foreignrow",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": true,
-          "type": "foreignrow",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
           "array": false,
           "type": "bool",
+          "unique": false,
+          "localized": false,
+          "references": null,
+          "until": null,
+          "file": null,
+          "files": null,
+          "interval": false
+        },
+        {
+          "name": null,
+          "description": null,
+          "array": true,
+          "type": "foreignrow",
+          "unique": false,
+          "localized": false,
+          "references": null,
+          "until": null,
+          "file": null,
+          "files": null,
+          "interval": false
+        },
+        {
+          "name": null,
+          "description": null,
+          "array": true,
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": null,
@@ -93450,10 +93423,12 @@
           "name": null,
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "AchievementItems"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -94388,14 +94363,14 @@
           "interval": false
         },
         {
-          "name": "Rarity",
+          "name": "ItemFrameType",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "Rarity"
+            "table": "ItemFrameType"
           },
           "until": null,
           "file": null,
@@ -113394,10 +113369,12 @@
           "name": null,
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "MultiPartAchievements"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -114787,10 +114764,12 @@
           "name": null,
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "MultiPartAchievements"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -118316,23 +118295,8 @@
         {
           "name": null,
           "description": null,
-          "array": false,
-          "type": "row",
-          "unique": false,
-          "localized": false,
-          "references": {
-            "table": "NPCDialogueStyles"
-          },
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "string",
+          "array": true,
+          "type": "i32",
           "unique": false,
           "localized": false,
           "references": null,
@@ -119464,14 +119428,14 @@
           "interval": false
         },
         {
-          "name": "Audio",
+          "name": "Currency",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "NPCAudio"
+            "table": "CurrencyItems"
           },
           "until": null,
           "file": null,
@@ -130928,14 +130892,14 @@
           "interval": false
         },
         {
-          "name": "QuestFlag",
+          "name": "WorldAreas",
           "description": null,
           "array": true,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "QuestFlags"
+            "table": "WorldAreas"
           },
           "until": null,
           "file": null,
@@ -131655,13 +131619,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "Archetypes",
           "description": null,
           "array": true,
-          "type": "array",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "Archetypes"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -131796,52 +131762,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "Characters",
           "description": null,
-          "array": false,
-          "type": "i32",
+          "array": true,
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
+          "references": {
+            "table": "Characters"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -131907,7 +131836,7 @@
           "name": null,
           "description": null,
           "array": false,
-          "type": "i32",
+          "type": "string",
           "unique": false,
           "localized": false,
           "references": null,
@@ -131919,63 +131848,13 @@
         {
           "name": null,
           "description": null,
-          "array": false,
-          "type": "i32",
+          "array": true,
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
+          "references": {
+            "table": "Mods"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -132062,47 +131941,8 @@
         {
           "name": null,
           "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
+          "array": true,
+          "type": "array",
           "unique": false,
           "localized": false,
           "references": null,
@@ -133429,14 +133269,14 @@
           "interval": false
         },
         {
-          "name": "Achievement",
+          "name": "CompletionNotification",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "QuestAchievements"
+            "table": "CompletionNotifications"
           },
           "until": null,
           "file": null,
@@ -145207,27 +145047,29 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "DaemonMods",
           "description": null,
           "array": true,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "Mods"
+          },
           "until": null,
           "file": null,
           "files": null,
           "interval": false
         },
         {
-          "name": "AppearanceChestsKey",
+          "name": "LockedError",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "Chests"
+            "table": "BackendErrors"
           },
           "until": null,
           "file": null,
@@ -145410,14 +145252,14 @@
           "interval": false
         },
         {
-          "name": "AppearanceChestsKey",
+          "name": "LockedError",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "Chests"
+            "table": "BackendErrors"
           },
           "until": null,
           "file": null,
@@ -148314,20 +148156,7 @@
           "name": null,
           "description": null,
           "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
+          "type": "string",
           "unique": false,
           "localized": false,
           "references": null,
@@ -148381,20 +148210,7 @@
           "name": null,
           "description": null,
           "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
+          "type": "string",
           "unique": false,
           "localized": false,
           "references": null,
@@ -148420,10 +148236,12 @@
           "name": null,
           "description": null,
           "array": true,
-          "type": "string",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
+          "references": {
+            "table": "AchievementItems"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -148472,20 +148290,7 @@
           "name": null,
           "description": null,
           "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
+          "type": "string",
           "unique": false,
           "localized": false,
           "references": null,
@@ -149023,46 +148828,7 @@
         {
           "name": null,
           "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
+          "array": true,
           "type": "i32",
           "unique": false,
           "localized": false,
@@ -149628,46 +149394,7 @@
         {
           "name": null,
           "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
+          "array": true,
           "type": "i32",
           "unique": false,
           "localized": false,
@@ -151541,52 +151268,15 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "Track",
           "description": null,
           "array": false,
-          "type": "i32",
+          "type": "foreignrow",
           "unique": false,
           "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "i32",
-          "unique": false,
-          "localized": false,
-          "references": null,
+          "references": {
+            "table": "BattlePassTracks"
+          },
           "until": null,
           "file": null,
           "files": null,
@@ -167576,6 +167266,21 @@
           "interval": false
         },
         {
+          "name": "ShapeShiftForm",
+          "description": null,
+          "array": false,
+          "type": "foreignrow",
+          "unique": false,
+          "localized": false,
+          "references": {
+            "table": "ShapeShiftForms"
+          },
+          "until": null,
+          "file": null,
+          "files": null,
+          "interval": false
+        },
+        {
           "name": "ShapeShiftVisualIdentity",
           "description": null,
           "array": false,
@@ -167585,19 +167290,6 @@
           "references": {
             "table": "ShapeShiftVisualIdentity"
           },
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "foreignrow",
-          "unique": false,
-          "localized": false,
-          "references": null,
           "until": null,
           "file": null,
           "files": null,
@@ -169171,6 +168863,21 @@
       "name": "CurrencyPerItemClassConditions",
       "columns": [
         {
+          "name": "Currency",
+          "description": null,
+          "array": false,
+          "type": "foreignrow",
+          "unique": false,
+          "localized": false,
+          "references": {
+            "table": "CurrencyItems"
+          },
+          "until": null,
+          "file": null,
+          "files": null,
+          "interval": false
+        },
+        {
           "name": "ItemClass",
           "description": null,
           "array": false,
@@ -169180,19 +168887,6 @@
           "references": {
             "table": "ItemClasses"
           },
-          "until": null,
-          "file": null,
-          "files": null,
-          "interval": false
-        },
-        {
-          "name": null,
-          "description": null,
-          "array": false,
-          "type": "foreignrow",
-          "unique": false,
-          "localized": false,
-          "references": null,
           "until": null,
           "file": null,
           "files": null,
@@ -174260,14 +173954,14 @@
       "name": "EnvironmentFootprints",
       "columns": [
         {
-          "name": "Environment",
+          "name": "FootstepAudio",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "Environments"
+            "table": "FootstepAudio"
           },
           "until": null,
           "file": null,
@@ -175747,14 +175441,14 @@
           "interval": false
         },
         {
-          "name": "ExpeditionCurrency",
+          "name": "NPC",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "ExpeditionCurrency"
+            "table": "ExpeditionNPCs"
           },
           "until": null,
           "file": null,
@@ -177181,14 +176875,14 @@
       "name": "GoldVisualIdentities",
       "columns": [
         {
-          "name": "Icon",
+          "name": "Rarity",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "EndgameMapPinIcons"
+            "table": "Rarity"
           },
           "until": null,
           "file": null,
@@ -188907,14 +188601,14 @@
           "interval": false
         },
         {
-          "name": "CurrencyItem",
+          "name": "BaseItemType",
           "description": null,
           "array": false,
           "type": "foreignrow",
           "unique": false,
           "localized": false,
           "references": {
-            "table": "CurrencyItems"
+            "table": "BaseItemTypes"
           },
           "until": null,
           "file": null,

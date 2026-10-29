@@ -1,4 +1,4 @@
-"rownum","Id","BaseItemType","UniqueName","ItemVisualIdentity","FlavourText","Rarity","ItemLevel","bool_92"
+"rownum","Id","BaseItemType","UniqueName","ItemVisualIdentity","FlavourText","ItemFrameType","ItemLevel","bool_92"
 0,"FracturingOrb",203,"","","","",1,""
 1,"ExaltedOrb",18,"","","","",5,""
 2,"DivineOrb",36,"","","","",35,""

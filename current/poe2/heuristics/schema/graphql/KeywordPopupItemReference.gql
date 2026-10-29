@@ -5,7 +5,7 @@ type KeywordPopupItemReference {
   UniqueName: Words
   ItemVisualIdentity: ItemVisualIdentity
   FlavourText: FlavourText
-  Rarity: Rarity
+  ItemFrameType: ItemFrameType
   ItemLevel: i32
   _: bool
 }

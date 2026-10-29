@@ -1,5 +1,5 @@
 # Added 4.1
 type GoldVisualIdentities {
-  Icon: EndgameMapPinIcons
+  Rarity: Rarity
   VisualIdentity: ItemVisualIdentity @unique
 }

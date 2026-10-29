@@ -93,7 +93,7 @@
     "size": 16
   },
   {
-    "name": "Audio",
+    "name": "Currency",
     "offset": 59,
     "unknownArray": false,
     "unique": false,
@@ -102,7 +102,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "NPCAudio"
+        "table": "CurrencyItems"
       }
     },
     "size": 16

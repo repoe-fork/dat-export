@@ -32,7 +32,7 @@ type BuffDefinitions {
   _: bool
   IsSkillBuff: bool
   _: i32
-  _: [i32]
+  _: [AchievementItems]
   _: bool
   _: bool
   MultiPartAchievement: [MultiPartAchievements]

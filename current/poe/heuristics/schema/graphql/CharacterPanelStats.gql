@@ -8,7 +8,7 @@ type CharacterPanelStats {
   StatsKeys3: [Stats]
   CharacterPanelTabsKey: CharacterPanelTabs
   _: bool
-  _: [i32]
+  StatDescriptionFunctions: [StatDescriptionFunctions]
   _: i32
   _: bool
 }

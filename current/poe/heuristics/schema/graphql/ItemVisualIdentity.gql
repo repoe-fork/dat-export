@@ -54,9 +54,9 @@ type ItemVisualIdentity {
   UniqueStat2: Stats
   UniqueStat3: Stats
   UniqueStat4: Stats
-  _: [rid]
-  _: [rid]
   _: bool
+  _: [rid]
+  _: [rid]
   _: string
   _: string
   _: string

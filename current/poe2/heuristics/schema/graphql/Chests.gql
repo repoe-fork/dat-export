@@ -22,7 +22,7 @@ type Chests {
   _: rid
   UnlockItem: BaseItemTypes
   Encounter_AchievementItemsKeys: [AchievementItems]
-  Environment: Environments
+  LockedError: BackendErrors
   InheritsFrom: string @files(ext: [".ot", ".otc"])
   _: bool
   MinimapIcons: MinimapIcons

@@ -2,7 +2,7 @@
 type UltimatumWagerTypes {
   Id: string @unique
   HASH16: u16
-  CurrencyItem: CurrencyItems
+  BaseItemType: BaseItemTypes
   Count: i32
   DisplayText: string @localized
   _: i32

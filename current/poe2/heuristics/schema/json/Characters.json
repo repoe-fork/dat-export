@@ -268,64 +268,19 @@
     "size": 16
   },
   {
-    "name": "",
+    "name": "WeaponSoundType",
     "offset": 136,
     "unknownArray": false,
     "unique": false,
     "interval": false,
     "type": {
       "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
+      "key": {
+        "foreign": true,
+        "table": "WeaponSoundTypes"
       }
     },
-    "size": 4
-  },
-  {
-    "name": "",
-    "offset": 140,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
-      }
-    },
-    "size": 4
-  },
-  {
-    "name": "CharacterSize",
-    "offset": 144,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
-      }
-    },
-    "size": 4
-  },
-  {
-    "name": "",
-    "offset": 148,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
-      }
-    },
-    "size": 4
+    "size": 16
   },
   {
     "name": "",
@@ -343,7 +298,7 @@
     "size": 4
   },
   {
-    "name": "",
+    "name": "CharacterSize",
     "offset": 156,
     "unknownArray": false,
     "unique": false,

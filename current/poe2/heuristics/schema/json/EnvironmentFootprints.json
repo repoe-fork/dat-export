@@ -1,6 +1,6 @@
 [
   {
-    "name": "Environment",
+    "name": "FootstepAudio",
     "offset": 0,
     "unknownArray": false,
     "unique": false,
@@ -9,7 +9,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "Environments"
+        "table": "FootstepAudio"
       }
     },
     "size": 16
