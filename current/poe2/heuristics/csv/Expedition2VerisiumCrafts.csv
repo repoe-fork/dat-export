@@ -1,4 +1,4 @@
-"rownum","OriginalBaseType","UniqueName","NewBaseType","CraftingItem","CraftingItemCount","[i32]_80","[rid]_96","i32_112","rid_116"
+"rownum","OriginalBaseType","UniqueName","NewBaseType","CraftingItem","CraftingItemCount","[i32]_80","[rid]_96","i32_112","NewUniqueName"
 0,2259,18,3043,[5060],[20],[4419],[],3,""
 1,2260,18,3044,[5060],[25],[4419],[],3,""
 2,2261,18,3045,[5060],[30],[4419],[],3,""

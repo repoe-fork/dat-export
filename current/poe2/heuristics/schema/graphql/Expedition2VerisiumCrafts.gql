@@ -8,5 +8,5 @@ type Expedition2VerisiumCrafts {
   _: [i32]
   _: [_] # All rows empty
   _: i32
-  _: Words
+  NewUniqueName: Words
 }

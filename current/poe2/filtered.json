@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1793267659,
+  "createdAt": 1793893019,
   "tables": [
     {
       "validFor": 1,
@@ -176149,7 +176149,7 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "NewUniqueName",
           "description": null,
           "array": false,
           "type": "foreignrow",
