@@ -301,7 +301,7 @@
 299,"BurstShotImpactFireBuccaneer",[],"[""Metadata/Effects/Microtransactions/Spells/Mercenary/Ghostflame/projectile/fx/ghostflame_incendiary_impact.pet""]",1,4,[],[],"","",""
 300,"RapidShotImpactFireBuccaneer",[],"[""Metadata/Effects/Microtransactions/Spells/Mercenary/Ghostflame/projectile/fx/ghostflame_rapid_impact.pet""]",1,4,[],[],"","",""
 301,"RapidShotPassThroughFireBuccaneer",[],"[""Metadata/Effects/Microtransactions/Spells/Mercenary/Ghostflame/projectile/fx/ghostflame_rapid_impact.pet""]",1,4,[],[],"","",""
-302,"PowerShotImpactFireBuccaneer",[11263],[],1,4,[],[],"","",""
+302,"PowerShotImpactFireBuccaneer",[11264],[],1,4,[],[],"","",""
 303,"MTXBuccaneerBallistaHit",[],"[""Metadata/Effects/Microtransactions/Spells/Mercenary/Ghostflame/ballista/fx/ghostflame_ballista_hit.pet""]",1,4,[],[],"","",""
 304,"DivineLightning_BLUNT",[],"[""Metadata/Effects/Microtransactions/Spells/Mercenary/Divine/crossbow_shock_grenade/pet/LIGHT_blunt.pet""]",1,4,[],[],"","",""
 305,"MTXObsidianHit",[],"[""Metadata/Effects/Microtransactions/Spells/Sorceress/Obsidian/hit/FX/hit_Obsidian.pet""]",1,0,[],[],"","",""

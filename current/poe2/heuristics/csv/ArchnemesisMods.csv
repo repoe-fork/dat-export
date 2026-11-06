@@ -104,10 +104,10 @@
 102,4706,"Empowered Periodic Invulnerability Aura","Aura d'Invulnérabilité périodique améliorée","Verstärkte regelmäßige Aura der Unverwundbarkeit","強化された定期的に不死身オーラ","강화된 주기적인 무적 오라","Aura de Invulnerabilidade Periódica Fortalecida","Улучшенная аура периодической неуязвимости","Aura de invulnerabilidad periódica potenciada","ออร่าอมตะที่เสริมฤทธิ์ เป็นระยะ","強化定期無敵光環",71,[],"","",""
 103,4707,"[MonsterImmuneAura2|Empowered Periodic Invulnerability Aura]","[MonsterImmuneAura2|Aura d'Invulnérabilité périodique améliorée]","[MonsterImmuneAura2|Ermächtigte regelmäßige Aura der Unverwundbarkeit]","[MonsterImmuneAura2|強化された定期的に不死身オーラ]","[MonsterImmuneAura2|강화된 주기적인 무적 오라]","[MonsterImmuneAura2|Aura de Invulnerabilidade Periódica Fortalecida]","[MonsterImmuneAura2|Улучшенная аура периодической неуязвимости]","[MonsterImmuneAura2|Aura de invulnerabilidad periódica potenciada]","[MonsterImmuneAura2|ออร่าอมตะที่เสริมฤทธิ์ เป็นระยะ]","[MonsterImmuneAura2|強化定期無敵光環]",71,[],"","",""
 104,4708,"Increased Life","Vie augmentée","Erhöhtes Leben","ライフ増加","생명력 증가","Vida Aumentada","Увеличенное здоровье","Vida aumentada","เพิ่มพลังชีวิต","增加生命","",[],"","",""
-105,4709,"Siphons Mana and Deals Lightning Damage","Siphonne le Mana et inflige des Dégâts de foudre","Entzieht Mana und verursacht Blitzschaden","マナを吸収し雷ダメージを与える","마나 착취 및 번개 피해","Suga Mana e Causa Dano Elétrico","Вытягивает ману и наносит урон от молнии","Drena maná e inflige daño de rayo","ลักมานา และสร้างความเสียหาย สายฟ้า","吸取魔力和造成閃電傷害",67,[],"","",""
-106,4710,"[MonsterManaSiphonAura1|Siphons Mana and Deals Lightning Damage]","[MonsterManaSiphonAura1|Siphonne le Mana et inflige des Dégâts de foudre]","[MonsterManaSiphonAura1|Entzieht Mana und verursacht Blitzschaden]","[MonsterManaSiphonAura1|マナを吸収し雷ダメージを与える]","[MonsterManaSiphonAura1|마나 착취 및 번개 피해]","[MonsterManaSiphonAura1|Suga Mana e Causa Dano Elétrico]","[MonsterManaSiphonAura1|Вытягивает ману и наносит урон от молнии]","[MonsterManaSiphonAura1|Drena maná e inflige daño de rayo]","[MonsterManaSiphonAura1|ลักมานา และสร้างความเสียหาย สายฟ้า]","[MonsterManaSiphonAura1|吸取魔力和造成閃電傷害]",67,[],"","",""
-107,4711,"Siphons Mana and Deals Lightning Damage","Siphonne le Mana et inflige des Dégâts de foudre","Entzieht Mana und verursacht Blitzschaden","マナを吸収し雷ダメージを与える","마나 착취 및 번개 피해","Suga Mana e Causa Dano Elétrico","Вытягивает ману и наносит урон от молнии","Drena maná e inflige daño de rayo","ลักมานา และสร้างความเสียหาย สายฟ้า","吸取魔力和造成閃電傷害",67,[],"","",""
-108,4712,"[MonsterManaSiphonAura2|Siphons Mana and Deals Lightning Damage]","[MonsterManaSiphonAura2|Siphonne le Mana et inflige des Dégâts de foudre]","[MonsterManaSiphonAura2|Entzieht Mana und verursacht Blitzschaden]","[MonsterManaSiphonAura2|マナを吸収し雷ダメージを与える]","[MonsterManaSiphonAura2|마나 착취 및 번개 피해]","[MonsterManaSiphonAura2|Suga Mana e Causa Dano Elétrico]","[MonsterManaSiphonAura2|Вытягивает ману и наносит урон от молнии]","[MonsterManaSiphonAura2|Drena maná e inflige daño de rayo]","[MonsterManaSiphonAura2|ลักมานา และสร้างความเสียหาย สายฟ้า]","[MonsterManaSiphonAura2|吸取魔力和造成閃電傷害]",67,[],"","",""
+105,4709,"Siphons Mana and Deals Lightning Damage","Siphonne le Mana et inflige des Dégâts de foudre","Entzieht Mana und verursacht Blitzschaden","マナを吸い取り雷ダメージを与える","마나 착취 및 번개 피해","Suga Mana e Causa Dano Elétrico","Вытягивает ману и наносит урон от молнии","Drena maná e inflige daño de rayo","ลักมานา และสร้างความเสียหาย สายฟ้า","吸取魔力和造成閃電傷害",67,[],"","",""
+106,4710,"[MonsterManaSiphonAura1|Siphons Mana and Deals Lightning Damage]","[MonsterManaSiphonAura1|Siphonne le Mana et inflige des Dégâts de foudre]","[MonsterManaSiphonAura1|Entzieht Mana und verursacht Blitzschaden]","[MonsterManaSiphonAura1|マナを吸い取り雷ダメージを与える]","[MonsterManaSiphonAura1|마나 착취 및 번개 피해]","[MonsterManaSiphonAura1|Suga Mana e Causa Dano Elétrico]","[MonsterManaSiphonAura1|Вытягивает ману и наносит урон от молнии]","[MonsterManaSiphonAura1|Drena maná e inflige daño de rayo]","[MonsterManaSiphonAura1|ลักมานา และสร้างความเสียหาย สายฟ้า]","[MonsterManaSiphonAura1|吸取魔力和造成閃電傷害]",67,[],"","",""
+107,4711,"Siphons Mana and Deals Lightning Damage","Siphonne le Mana et inflige des Dégâts de foudre","Entzieht Mana und verursacht Blitzschaden","マナを吸い取り雷ダメージを与える","마나 착취 및 번개 피해","Suga Mana e Causa Dano Elétrico","Вытягивает ману и наносит урон от молнии","Drena maná e inflige daño de rayo","ลักมานา และสร้างความเสียหาย สายฟ้า","吸取魔力和造成閃電傷害",67,[],"","",""
+108,4712,"[MonsterManaSiphonAura2|Siphons Mana and Deals Lightning Damage]","[MonsterManaSiphonAura2|Siphonne le Mana et inflige des Dégâts de foudre]","[MonsterManaSiphonAura2|Entzieht Mana und verursacht Blitzschaden]","[MonsterManaSiphonAura2|マナを吸い取り雷ダメージを与える]","[MonsterManaSiphonAura2|마나 착취 및 번개 피해]","[MonsterManaSiphonAura2|Suga Mana e Causa Dano Elétrico]","[MonsterManaSiphonAura2|Вытягивает ману и наносит урон от молнии]","[MonsterManaSiphonAura2|Drena maná e inflige daño de rayo]","[MonsterManaSiphonAura2|ลักมานา และสร้างความเสียหาย สายฟ้า]","[MonsterManaSiphonAura2|吸取魔力和造成閃電傷害]",67,[],"","",""
 109,4713,"Heals Allies and Suppresses Foe Recovery","Soigne les Alliés et supprime la Récupération des Ennemis","Heilt Verbündete und unterdrückt gegnerische Wiederherstellung","味方を回復し敵の回復を抑制","아군 치유 및 적 회복 억제","Cura Aliados e Suprime a Recuperação dos Inimigos","Лечит союзников и подавляет восстановление врагов","Cura a los aliados y reprime la recuperación de los enemigos","รักษาเพื่อน และยับยั้งการเติมของศัตรู","治癒友方和壓抑敵人恢復",78,[],"","",""
 110,4714,"[MonsterHealingNova1|Heals Allies and Suppresses Foe Recovery]","[MonsterHealingNova1|Soigne les Alliés et supprime la Récupération des Ennemis]","[MonsterHealingNova1|Heilt Verbündete und unterdrückt gegnerische Wiederherstellung]","[MonsterHealingNova1|味方を回復し敵の回復を抑制]","[MonsterHealingNova1|동료 치유 및 적 회복 억제]","[MonsterHealingNova1|Cura Aliados e Suprime a Recuperação dos Inimigos]","[MonsterHealingNova1|Лечит союзников и подавляет восстановление врагов]","[MonsterHealingNova1|Cura a los aliados y reprime la recuperación de los enemigos]","[MonsterHealingNova1|รักษาเพื่อน และยับยั้งการเติมของศัตรู]","[MonsterHealingNova1|治癒友方和壓抑敵人恢復]",78,[],"","",""
 111,4715,"Siphons Flask Charges","Siphonne les charges de Flacons","Entzieht Fläschchenfüllungen","フラスコチャージを吸収","플라스크 충전 착취","Suga Cargas de Frascos","Вытягивает заряды флакона","Drena cargas de frascos","ลักชาร์จขวดยา","吸取藥劑充能",79,[],"","",""
@@ -138,8 +138,8 @@
 136,4742,"[MonsterMagmaBarrier1|Magma Barrier]","[MonsterMagmaBarrier1|Barrière magmatique]","[MonsterMagmaBarrier1|Magmabarriere]","[MonsterMagmaBarrier1|マグマバリアー]","[MonsterMagmaBarrier1|마그마 장벽]","[MonsterMagmaBarrier1|Barreira de Magma]","[MonsterMagmaBarrier1|Магмовый барьер]","[MonsterMagmaBarrier1|Barrera de magma]","[MonsterMagmaBarrier1|ม่านพลังหินหลอม]","[MonsterMagmaBarrier1|熔岩屏障]",85,[],"","",""
 137,4743,"Conjures Ice Prisons","Invoque des Prisons de glace","Beschwört Eisgefängnisse","氷の牢獄を呼び出す","얼음 감옥 생성","Conjura Prisões de Gelo","Сотворяет ледяные тюрьмы","Invoca prisiones de hielo","เสกคุกน้ำแข็ง","召喚冰牢",87,[],"","",""
 138,4744,"[MonsterGlacialPrison1|Conjures Ice Prisons]","[MonsterGlacialPrison1|Invoque des Prisons de glace]","[MonsterGlacialPrison1|Beschwört Eisgefängnisse]","[MonsterGlacialPrison1|氷の牢獄を呼び出す]","[MonsterGlacialPrison1|얼음 감옥 생성]","[MonsterGlacialPrison1|Conjura Prisões de Gelo]","[MonsterGlacialPrison1|Сотворяет ледяные тюрьмы]","[MonsterGlacialPrison1|Invoca prisiones de hielo]","[MonsterGlacialPrison1|เสกคุกน้ำแข็ง]","[MonsterGlacialPrison1|召喚冰牢]",87,[],"","",""
-139,4745,"Conjures Flamewalls","Invoque des Murs de flammes","Beschwört Flammenwälle","炎の壁を呼び出す","불길장벽 생성","Conjura Paredes de Chamas","Сотворяет огненные стены","Invoca muros de fuego","เสกกำแพงไฟ","召喚烈焰之牆",88,[],"","",""
-140,4746,"[MonsterFlamewaller1|Conjures Flamewalls]","[MonsterFlamewaller1|Invoque des Murs de flammes]","[MonsterFlamewaller1|Beschwört Flammenwälle]","[MonsterFlamewaller1|炎の壁を呼び出す]","[MonsterFlamewaller1|불길장벽 생성]","[MonsterFlamewaller1|Conjura Paredes de Chamas]","[MonsterFlamewaller1|Сотворяет огненные стены]","[MonsterFlamewaller1|Invoca muros de fuego]","[MonsterFlamewaller1|เสกกำแพงไฟ]","[MonsterFlamewaller1|召喚烈焰之牆]",88,[],"","",""
+139,4745,"Conjures Flamewalls","Invoque des Murs de flammes","Beschwört Feuermauern","炎の壁を呼び出す","불길장벽 생성","Conjura Paredes de Chamas","Сотворяет огненные стены","Invoca muros de fuego","เสกกำแพงไฟ","召喚烈焰之牆",88,[],"","",""
+140,4746,"[MonsterFlamewaller1|Conjures Flamewalls]","[MonsterFlamewaller1|Invoque des Murs de flammes]","[MonsterFlamewaller1|Beschwört Feuermauern]","[MonsterFlamewaller1|炎の壁を呼び出す]","[MonsterFlamewaller1|불길장벽 생성]","[MonsterFlamewaller1|Conjura Paredes de Chamas]","[MonsterFlamewaller1|Сотворяет огненные стены]","[MonsterFlamewaller1|Invoca muros de fuego]","[MonsterFlamewaller1|เสกกำแพงไฟ]","[MonsterFlamewaller1|召喚烈焰之牆]",88,[],"","",""
 141,4747,"Conjures Lightning Storms","Invoque des Tempêtes de foudre","Beschwört Blitzstürme","雷の嵐を呼び出す","번개 폭풍 생성","Conjura Tempestades de Raios","Сотворяет шторма молний","Invoca tormentas de rayos","เสกพายุสายฟ้า","召喚閃電風暴",89,[],"","",""
 142,4748,"Conjures [Lightning] Storms","Invoque des Tempêtes de [Lightning|Foudre]","Beschwört [Lightning|Blitz]stürme","[Lightning|雷]の嵐を呼び出す","[Lightning|번개] 폭풍 생성","Conjura Tempestades de [Lightning|Raios]","Сотворяет шторма [Lightning|молний]","Invoca tormentas de [Lightning|rayos]","เสกพายุ[Lightning|สายฟ้า]","召喚[Lightning|閃電]風暴",89,[],"","",""
 143,4751,"Volatile Crystals","Cristaux instables","Explosive Kristalle","ボラタイルクリスタル","폭발성 수정","Cristais Voláteis","Нестабильные кристаллы","Cristales volátiles","คริสตัลพร้อมระเบิด","易爆水晶",90,[],"","",""
@@ -190,72 +190,72 @@
 188,14778,"Shade Walker","Marche-ombre","Schattenläufer","シェードウォーカー","그늘 보행자","Andarilho da Penumbra","Ходящий в тенях","Caminante de la umbra","ผู้เดินกลางเงา","影魅行者","",[],"","",""
 189,14779,"Eruption of Souls","Éruption d'âmes","Eruption der Seelen","魂の噴出","영혼 분출","Erupção das Almas","Извержение душ","Erupción de almas","วิญญาณปะทุ","靈魂爆發","","[""archnemesismodabyss""]","",1,""
 190,14780,"Eruption of Souls","Éruption d'âmes","Eruption der Seelen","魂の噴出","영혼 분출","Erupção das Almas","Извержение душ","Erupción de almas","วิญญาณปะทุ","靈魂爆發","",[],"","",""
-191,15301,"","","","","","","","","","","",[],"","",""
-192,15302,"","","","","","","","","","","",[],"","",1
-193,15304,"","","","","","","","","","","",[],"","",""
-194,15305,"","","","","","","","","","","",[],"","",1
-195,15307,"","","","","","","","","","","",[],"","",""
-196,15308,"","","","","","","","","","","",[],"","",1
-197,15310,"","","","","","","","","","","",[],"","",""
-198,15311,"","","","","","","","","","","",[],"","",1
-199,15313,"","","","","","","","","","","",[],"","",""
-200,15314,"","","","","","","","","","","",[],"","",1
-201,15316,"","","","","","","","","","","",[],"","",""
-202,15317,"","","","","","","","","","","",[],"","",1
-203,15319,"","","","","","","","","","","",[],"","",""
-204,15320,"","","","","","","","","","","",[],"","",1
-205,15322,"","","","","","","","","","","",[],"","",""
-206,15323,"","","","","","","","","","","",[],"","",1
-207,15325,"","","","","","","","","","","",[],"","",""
-208,15326,"","","","","","","","","","","",[],"","",1
-209,15328,"","","","","","","","","","","",[],"","",""
-210,15329,"","","","","","","","","","","",[],"","",""
-211,15331,"","","","","","","","","","","",[],"","",""
-212,15332,"","","","","","","","","","","",[],"","",1
-213,15335,"","","","","","","","","","","",[],"","",""
-214,15336,"","","","","","","","","","","",[],"","",1
-215,15338,"","","","","","","","","","","",[],"","",""
-216,15339,"","","","","","","","","","","",[],"","",1
-217,15341,"","","","","","","","","","","",[],"","",""
-218,15342,"","","","","","","","","","","",[],"","",1
-219,15344,"","","","","","","","","","","",[],"","",""
-220,15345,"","","","","","","","","","","",[],"","",1
-221,15347,"","","","","","","","","","","",[],"","",""
-222,15348,"","","","","","","","","","","",[],"","",1
-223,15350,"","","","","","","","","","","",[],"","",""
-224,15351,"","","","","","","","","","","",[],"","",1
-225,15353,"","","","","","","","","","","",[],"","",""
-226,15354,"","","","","","","","","","","",[],"","",1
-227,15357,"","","","","","","","","","","",[],"","",""
-228,15358,"","","","","","","","","","","",[],"","",1
-229,15360,"","","","","","","","","","","",[],"","",""
-230,15361,"","","","","","","","","","","",[],"","",1
-231,15364,"","","","","","","","","","","",[],"","",""
-232,15365,"","","","","","","","","","","",[],"","",1
-233,15367,"","","","","","","","","","","",[],"","",""
-234,15368,"","","","","","","","","","","",[],"","",1
-235,15370,"","","","","","","","","","","",[],"","",""
-236,15371,"","","","","","","","","","","",[],"","",1
-237,15373,"","","","","","","","","","","",[],"","",""
-238,15374,"","","","","","","","","","","",[],"","",1
-239,15376,"","","","","","","","","","","",[],"","",""
-240,15377,"","","","","","","","","","","",[],"","",1
-241,15379,"","","","","","","","","","","",[],"","",""
-242,15380,"","","","","","","","","","","",[],"","",1
-243,15382,"","","","","","","","","","","",[],"","",""
-244,15383,"","","","","","","","","","","",[],"","",1
-245,15385,"","","","","","","","","","","",[],"","",""
-246,15386,"","","","","","","","","","","",[],"","",1
-247,15388,"","","","","","","","","","","",[],"","",""
-248,15389,"","","","","","","","","","","",[],"","",1
-249,15391,"","","","","","","","","","","",[],"","",""
-250,15392,"","","","","","","","","","","",[],"","",1
-251,15394,"","","","","","","","","","","",[],"","",""
-252,15395,"","","","","","","","","","","",[],"","",1
-253,15397,"","","","","","","","","","","",[],"","",""
-254,15398,"","","","","","","","","","","",[],"","",1
-255,15400,"","","","","","","","","","","",[],"","",""
-256,15402,"","","","","","","","","","","",[],"","",""
+191,15304,"","","","","","","","","","","",[],"","",""
+192,15305,"","","","","","","","","","","",[],"","",1
+193,15307,"","","","","","","","","","","",[],"","",""
+194,15308,"","","","","","","","","","","",[],"","",1
+195,15310,"","","","","","","","","","","",[],"","",""
+196,15311,"","","","","","","","","","","",[],"","",1
+197,15313,"","","","","","","","","","","",[],"","",""
+198,15314,"","","","","","","","","","","",[],"","",1
+199,15316,"","","","","","","","","","","",[],"","",""
+200,15317,"","","","","","","","","","","",[],"","",1
+201,15319,"","","","","","","","","","","",[],"","",""
+202,15320,"","","","","","","","","","","",[],"","",1
+203,15322,"","","","","","","","","","","",[],"","",""
+204,15323,"","","","","","","","","","","",[],"","",1
+205,15325,"","","","","","","","","","","",[],"","",""
+206,15326,"","","","","","","","","","","",[],"","",1
+207,15328,"","","","","","","","","","","",[],"","",""
+208,15329,"","","","","","","","","","","",[],"","",1
+209,15331,"","","","","","","","","","","",[],"","",""
+210,15332,"","","","","","","","","","","",[],"","",""
+211,15334,"","","","","","","","","","","",[],"","",""
+212,15335,"","","","","","","","","","","",[],"","",1
+213,15338,"","","","","","","","","","","",[],"","",""
+214,15339,"","","","","","","","","","","",[],"","",1
+215,15341,"","","","","","","","","","","",[],"","",""
+216,15342,"","","","","","","","","","","",[],"","",1
+217,15344,"","","","","","","","","","","",[],"","",""
+218,15345,"","","","","","","","","","","",[],"","",1
+219,15347,"","","","","","","","","","","",[],"","",""
+220,15348,"","","","","","","","","","","",[],"","",1
+221,15350,"","","","","","","","","","","",[],"","",""
+222,15351,"","","","","","","","","","","",[],"","",1
+223,15353,"","","","","","","","","","","",[],"","",""
+224,15354,"","","","","","","","","","","",[],"","",1
+225,15356,"","","","","","","","","","","",[],"","",""
+226,15357,"","","","","","","","","","","",[],"","",1
+227,15360,"","","","","","","","","","","",[],"","",""
+228,15361,"","","","","","","","","","","",[],"","",1
+229,15363,"","","","","","","","","","","",[],"","",""
+230,15364,"","","","","","","","","","","",[],"","",1
+231,15367,"","","","","","","","","","","",[],"","",""
+232,15368,"","","","","","","","","","","",[],"","",1
+233,15370,"","","","","","","","","","","",[],"","",""
+234,15371,"","","","","","","","","","","",[],"","",1
+235,15373,"","","","","","","","","","","",[],"","",""
+236,15374,"","","","","","","","","","","",[],"","",1
+237,15376,"","","","","","","","","","","",[],"","",""
+238,15377,"","","","","","","","","","","",[],"","",1
+239,15379,"","","","","","","","","","","",[],"","",""
+240,15380,"","","","","","","","","","","",[],"","",1
+241,15382,"","","","","","","","","","","",[],"","",""
+242,15383,"","","","","","","","","","","",[],"","",1
+243,15385,"","","","","","","","","","","",[],"","",""
+244,15386,"","","","","","","","","","","",[],"","",1
+245,15388,"","","","","","","","","","","",[],"","",""
+246,15389,"","","","","","","","","","","",[],"","",1
+247,15391,"","","","","","","","","","","",[],"","",""
+248,15392,"","","","","","","","","","","",[],"","",1
+249,15394,"","","","","","","","","","","",[],"","",""
+250,15395,"","","","","","","","","","","",[],"","",1
+251,15397,"","","","","","","","","","","",[],"","",""
+252,15398,"","","","","","","","","","","",[],"","",1
+253,15400,"","","","","","","","","","","",[],"","",""
+254,15401,"","","","","","","","","","","",[],"","",1
+255,15403,"","","","","","","","","","","",[],"","",""
+256,15405,"","","","","","","","","","","",[],"","",""
 257,12216,"","","","","","","","","","","",[],"","",""
 258,12217,"","","","","","","","","","","",[],"","",""
 259,12218,"","","","","","","","","","","",[],"","",""

@@ -71,3 +71,6 @@
 69,"SharkAttackFinisherEffect","",64,2,4173502889,"",1,"",[],[]
 70,"AbyssalCrystalFinisherEffect","",65,2,4099086640,"",1,"",[],[]
 71,"BugSwarmFinisherEffect","",66,2,357382749,"",1,"",[],[]
+72,"EdictOfAshFinisherEffect","",67,4,3352578260,"",2,"",[],[]
+73,"EdictOfTheSpearFinisherEffect","",68,4,3064264513,"",2,"",[],[]
+74,"CollossalTentacleFinisherEffect","",69,4,3636865994,"",2,"",[],[]

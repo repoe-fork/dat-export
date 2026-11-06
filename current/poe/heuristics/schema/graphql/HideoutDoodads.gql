@@ -19,4 +19,5 @@ type HideoutDoodads {
   HideoutItemLink: HideoutDoodads
   _: bool
   _: bool
+  _: bool
 }

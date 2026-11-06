@@ -8264,3 +8264,11 @@
 8262,"ChariotPetBBotBeam","Metadata/Pet/ChariotPet/Chariot/ChariotB/attachments/ropeBot.ao",[],4,0,1447961056
 8263,"DeepwaterEelBossLightningSurgeBlastRider","Metadata/Effects/Spells/monsters_effects/League_Deepwater/DeepwaterBoss/lightningSurge_Beam_small.ao",[],4,800,837667832
 8264,"DeepwaterPositiveBuffAudio","Metadata/Effects/Environment/League_Deepwater/ResourseCollection/Audio/positive_buff_audio.ao",[],4,0,1345748504
+8265,"MTXNightfowlLevelUp","Metadata/Effects/Microtransactions/char_level_up/Nightfowl/Nightfowl_lvlup.ao",[],4,0,3387995384
+8266,"MTXEdictofCorruptionPowerChargeMastery1","Metadata/Effects/Microtransactions/Spells/skill_charges/EdictOfCorruption/CorruptionCharge_P.ao",[],4,0,3114003248
+8267,"MTXEdictofCorruptionEnduranceChargeMastery1","Metadata/Effects/Microtransactions/Spells/skill_charges/EdictOfCorruption/CorruptionCharge_E.ao",[],4,0,1798669726
+8268,"MTXEdictofCorruptionFrenzyChargeMastery1","Metadata/Effects/Microtransactions/Spells/skill_charges/EdictOfCorruption/CorruptionCharge_F.ao",[],4,0,2411408403
+8269,"MTXEdictofCorruptionChargeRed","Metadata/Effects/Microtransactions/Spells/skill_charges/EdictOfCorruption/CorruptionCharge_Red.ao",[],4,0,3063089635
+8270,"CollossalTentacleFinisherEffect","Metadata/Effects/Microtransactions/on_kill/CollossalTentacleFinisher/CollossalTentacleFinisher.ao",[],4,0,3636865994
+8271,"MTXEdictofCorruptionLevelUp","Metadata/Effects/Microtransactions/char_level_up/ArchonOfCorruption/lvl_up.ao",[],4,0,691331216
+8272,"EdictOfTheSpearFinisherEffect","Metadata/Effects/Microtransactions/on_kill/EdictSpear/EdictSpearFinisher.ao",[],4,0,3064264513

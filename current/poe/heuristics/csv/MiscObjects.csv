@@ -1829,3 +1829,9 @@
 1827,"FountainHallwayMapDeviceMapToss","Metadata/MapDevices/FountainHallwayMapDevice/MapTossInteractable",[],107633326,4,1782441036
 1828,"DeepwaterEldritchObject","Metadata/Terrain/Leagues/Deepwater/Objects/EldritchRoom/EldritchAltar",[],2537954210,4,23568090
 1829,"MtxVerisiumLevelUpObject","Metadata/Effects/Microtransactions/char_level_up/Verisium/verisium_level_up",[],363688009,4,925907468
+1830,"EdictOfAshFinisherEffect","Metadata/Effects/Microtransactions/on_kill/ArbiterOfAsh/EdictOfAshFinisher",[],1735749998,4,3352578260
+1831,"DivineHideoutBuiltInMapDevice","Metadata/Terrain/Hideouts/Divine/Tiles/DivineMapDevice/Divive_Plinth_Map_Device",[],606728039,4,4092479919
+1832,"DivineHideoutDoorPortal","Metadata/Terrain/Hideouts/Divine/Tiles/Doors/DivinityGiantDoor",[],864045299,4,1137921979
+1833,"DivineHideoutBuildInPortal","Metadata/Terrain/Hideouts/Divine/Tiles/DivineMapDevice/BuiltInMapDevicePortal",[],2285472536,4,1579240622
+1834,"HideoutMazePillar","Metadata/Terrain/Hideouts/Maze/Tiles/MazeWalls/MazePillar",[],3882492523,4,3501617921
+1835,"HideoutMazeWall","Metadata/Terrain/Hideouts/Maze/Tiles/MazeWalls/MazeWall",[],388237830,4,4154669495

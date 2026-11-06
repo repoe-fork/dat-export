@@ -249,3 +249,9 @@
 247,"MTXArcaneEnduranceCharge_2",8177,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0
 248,"BrinerotBuffOrb",8196,[],[],"orb_finish","","orb_appear","orb_idle",0,"","","","","",1
 249,"LunarisAspectRebuffGlaive",8233,[],[],"glaive_end","","glaive_appear","glaive_idle",0,"","","","","",0
+250,"MTXEdictofCorruptionPowerChargeMastery1",8266,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0
+251,"MTXEdictofCorruptionEnduranceChargeMastery1",8267,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0
+252,"MTXEdictofCorruptionFrenzyChargeMastery1",8268,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0
+253,"MTXEdictofCorruptionPowerCharge2",8269,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0
+254,"MTXEdictofCorruptionEnduranceCharge2",8269,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0
+255,"MTXEdictofCorruptionFrenzyCharge2",8269,[],[],"chargeEnd_01","","chargeGain_01","chargeLoop_01",0,"","","","","",0

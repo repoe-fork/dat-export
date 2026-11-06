@@ -193,5 +193,16 @@
       }
     },
     "size": 16
+  },
+  {
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true
+      }
+    },
+    "offset": 110,
+    "size": 16,
+    "unique": false
   }
 ]

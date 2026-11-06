@@ -159605,8 +159605,7 @@
           "interval": false
         }
       ],
-      "tags": [],
-      "added": "3.18.0"
+      "tags": []
     },
     {
       "validFor": 2,

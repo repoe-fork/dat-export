@@ -106,3 +106,5 @@
 104,"DavinBossHead_Approach",300000,450000,""
 105,"DavinBossHead_Idle",300000,450000,""
 106,"TimeRewindMTX",30000,60000,""
+107,"CorruptionTrader_Approach",600000,600000,""
+108,"CorruptionTrader_Idle",1200000,1200000,""

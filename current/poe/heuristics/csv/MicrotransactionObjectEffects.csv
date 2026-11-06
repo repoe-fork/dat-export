@@ -79,3 +79,6 @@
 77,"KaruiDeepwaterFinisherEffect","","","",[],[],"",[8258],"","","",0,0,0,"[""grp_chest""]",0,"",0,1000
 78,"PustuleExplodeFinisherEffect","","this.AddEffectPack( 'Metadata/Effects/Microtransactions/on_kill/PustuleExplode/epk/corpse_fx.epk' );","",[837],[],"",[8239],"","","",0,0,0,[],0,"",0,0
 79,"BugSwarmFinisherEffect","","","",[849],[],"",[],"","","",0,0,0,[],0,"",0,500
+80,"EdictOfAshFinisherEffect","","","",[851],[1830],"",[],"","","",0,0,0,"[""grp_chest""]",0,"",2150,800
+81,"CollossalTentacleFinisherEffect","","","",[],[],"",[8270],"","","",0,0,0,[],0,"",0,0
+82,"EdictOfTheSpearFinisherEffect","","","",[],[],"",[8272],"","","",0,0,0,[],0,"",0,0

@@ -56,3 +56,5 @@
 54,"PlaceChart_Val",60000,60000,""
 55,"PlaceChartBoss_Val",60000,60000,""
 56,"TimeRewindPortal",30000,60000,""
+57,"CorruptionTrader_Approach",600000,600000,""
+58,"CorruptionTrader_Idle",1200000,1200000,""

@@ -23,5 +23,6 @@
 21,"MinExtraContentPerBlock",[1]
 22,"MaxExtraContentPerBlock",[2]
 23,"RandomMotherSoulChance",[3600]
-24,"MinExpeditionsPerOceanBlock","[0,0,1,1,1]"
-25,"MaxExpeditionsPerOceanBlock",[64]
+24,"RandomPlayerHideoutChance","[0,0,0,0,0,2500]"
+25,"MinExpeditionsPerOceanBlock","[0,0,1,1,1]"
+26,"MaxExpeditionsPerOceanBlock",[64]

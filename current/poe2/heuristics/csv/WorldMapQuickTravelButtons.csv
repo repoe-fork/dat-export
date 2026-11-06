@@ -1,10 +1,10 @@
 "rownum","Area","Description","ButtonArt","ButtonHoverArt","bool_48","EndgameArea"
-0,4,8653,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonTown","Art/2DArt/UIImages/InGame/WorldMap/MapButtonTownHover",1,424
+0,4,8653,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonTown","Art/2DArt/UIImages/InGame/WorldMap/MapButtonTownHover",1,428
 1,2,1759,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonHideout","Art/2DArt/UIImages/InGame/WorldMap/MapButtonHideoutHover","",""
 2,3,6046,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonGuildHideout","Art/2DArt/UIImages/InGame/WorldMap/MapButtonGuildHideoutHover","",""
-3,145,7110,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonSanctum","Art/2DArt/UIImages/InGame/WorldMap/MapButtonSanctumHover",1,""
-4,175,8066,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonUltimatum","Art/2DArt/UIImages/InGame/WorldMap/MapButtonUltimatumHover",1,""
-5,414,8064,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonAbyssHub","Art/2DArt/UIImages/InGame/WorldMap/MapButtonAbyssHubHover",1,""
-6,427,8065,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonIncursion","Art/2DArt/UIImages/InGame/WorldMap/MapButtonIncursionHover",1,""
-7,409,8067,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreach","Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreachHover",1,""
-8,363,8068,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreach","Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreachHover",1,""
+3,149,7110,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonSanctum","Art/2DArt/UIImages/InGame/WorldMap/MapButtonSanctumHover",1,""
+4,179,8066,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonUltimatum","Art/2DArt/UIImages/InGame/WorldMap/MapButtonUltimatumHover",1,""
+5,418,8064,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonAbyssHub","Art/2DArt/UIImages/InGame/WorldMap/MapButtonAbyssHubHover",1,""
+6,431,8065,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonIncursion","Art/2DArt/UIImages/InGame/WorldMap/MapButtonIncursionHover",1,""
+7,413,8067,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreach","Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreachHover",1,""
+8,367,8068,"Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreach","Art/2DArt/UIImages/InGame/WorldMap/MapButtonBreachHover",1,""

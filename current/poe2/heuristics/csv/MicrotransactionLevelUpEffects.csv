@@ -20,3 +20,6 @@
 18,"MTXKaruiAncestralLevelUp","",1454,27102,"","","","",1
 19,"MTXWaterLevelUp","","",27103,"","","PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/Ocean/ocean_levelup.ao' );","",1
 20,"MTXKingintheMistsLevelUp","",1466,27185,"","","Delay( 1.6, { PlayEffect( 'Metadata/Effects/Microtransactions/char_level_up/KingInTheMists/kinginthemist_levelup.ao' ); } );","",1
+21,"MTXEdictoftheSpearLevelUp","",1503,27279,"","","","",1
+22,"MTXNightfowlLevelUp",11333,"",27282,"","","","",1
+23,"MTXEdictofCorruptionLevelUp",11334,1517,27287,"","","","",""

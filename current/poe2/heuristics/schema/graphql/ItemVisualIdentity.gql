@@ -90,4 +90,7 @@ type ItemVisualIdentity {
   ShieldHeldAnimatedObject: string @file(ext: ".ao")
   SheathAnimatedObject: string @file(ext: ".ao")
   _: bool
+  _: string
+  _: string
+  _: string
 }

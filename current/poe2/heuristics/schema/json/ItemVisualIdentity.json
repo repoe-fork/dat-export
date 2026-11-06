@@ -1138,5 +1138,32 @@
       "boolean": true
     },
     "size": 1
+  },
+  {
+    "type": {
+      "array": false,
+      "string": {}
+    },
+    "offset": 968,
+    "size": 8,
+    "unique": false
+  },
+  {
+    "type": {
+      "array": false,
+      "string": {}
+    },
+    "offset": 976,
+    "size": 8,
+    "unique": false
+  },
+  {
+    "type": {
+      "array": false,
+      "string": {}
+    },
+    "offset": 984,
+    "size": 8,
+    "unique": false
   }
 ]

@@ -1159,3 +1159,11 @@
 1157,"ExpeditionBuriedStrongbox","Metadata/Terrain/Gallows/Leagues/Expedition/Objects/ExplodingFill_StrongBox",[],1525137336,4,3916308283
 1158,"PortalToggleableNew","Metadata/MiscellaneousObjects/PortalToggleableNew",[],3105149023,4,301308927
 1159,"WildwoodEntrancePortal","Metadata/Terrain/Leagues/Azmeri/Objects/WildwoodEntrancePortal",[67],3487213197,4,782328227
+1160,"EdictOfAshFinisher","Metadata/Effects/Microtransactions/on_kill/ArbiterOfAsh/EdictOfAshFinisher",[],1735749998,4,9553894
+1161,"HideoutMazePillar","Metadata/Terrain/Hideouts/Maze/Tiles/MazeWalls/MazePillar",[],3882492523,4,3501617921
+1162,"HideoutMazeWall","Metadata/Terrain/Hideouts/Maze/Tiles/MazeWalls/MazeWall",[],388237830,4,4154669495
+1163,"MicrotransactionEdictofRebirthPortal","Metadata/Effects/Microtransactions/Town_Portals/Edict_RebirthPortal/Edict_RebirthPortal",[],3124915770,4,1701396758
+1164,"MicrotransactionEdictofRebirthPortalPrespawn","Metadata/Effects/Microtransactions/Town_Portals/Edict_RebirthPortal/Edict_RebirthPortalPrespawn",[],3456049684,4,2278440150
+1165,"DivineHideoutBuiltInMapDevice","Metadata/Terrain/Hideouts/Divine/Tiles/DivineMapDevice/Divive_Plinth_Map_Device",[],606728039,4,4092479919
+1166,"DivineHideoutDoorPortal","Metadata/Terrain/Hideouts/Divine/Tiles/Doors/DivinityGiantDoor",[],864045299,4,1137921979
+1167,"DivineHideoutBuildInPortal","Metadata/Terrain/Hideouts/Divine/Tiles/DivineMapDevice/BuiltInMapDevicePortal",[],2285472536,4,1579240622
