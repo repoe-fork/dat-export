@@ -89,10 +89,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "14"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 14
     }
   ],
   "ActiveSettings": [
@@ -133,10 +129,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "338"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 338
     }
   ],
   "ActiveSkillType": [
@@ -423,10 +415,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "106"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 106
     }
   ],
   "ApplyDamageFunctions": [
@@ -781,10 +769,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "16"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 16
     }
   ],
   "BallisticBounceBehaviour": [
@@ -1233,20 +1217,12 @@
     {
       "version": "4.2.0.1",
       "row_width": "113"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 113
     }
   ],
   "BuffVisualOrbs": [
     {
       "version": "4.1.0.10.2",
       "row_width": "72"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 72
     }
   ],
   "BuffVisualOrbTypes": [
@@ -1287,20 +1263,12 @@
     {
       "version": "4.5.0.2",
       "row_width": "311"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 311
     }
   ],
   "BuffVisualsArtVariations": [
     {
       "version": "4.1.0.10.2",
       "row_width": "28"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 28
     }
   ],
   "BuffVisualSetEntries": [
@@ -1521,10 +1489,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "410"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 410
     }
   ],
   "ChooseOneUniqueNPCs": [
@@ -1549,20 +1513,12 @@
     {
       "version": "4.2.0.13",
       "row_width": "52"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 52
     }
   ],
   "ClientStrings2": [
     {
       "version": "4.1.0.10.2",
       "row_width": "52"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 52
     }
   ],
   "CloneShot": [
@@ -1652,7 +1608,7 @@
     },
     {
       "version": "0.5.5.7",
-      "row_width": 254
+      "row_width": "254"
     }
   ],
   "CorpseExplosionGibs": [
@@ -2185,10 +2141,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "24"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 24
     }
   ],
   "EndgameMapAtlas": [
@@ -2235,10 +2187,6 @@
     {
       "version": "4.3.0.1",
       "row_width": "24"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 24
     }
   ],
   "EndgameMapContent": [
@@ -2265,10 +2213,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "93"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 93
     }
   ],
   "EndgameMapContentAddition": [
@@ -2297,10 +2241,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "43"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 43
     }
   ],
   "EndgameMapContentWeightings": [
@@ -2323,16 +2263,16 @@
     {
       "version": "4.5.0.2",
       "row_width": "72"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 72
     }
   ],
   "EndgameMapNodeStats": [
     {
       "version": "4.5.0.2",
       "row_width": "117"
+    },
+    {
+      "version": "0.5.5.8",
+      "row_width": 117
     }
   ],
   "EndgameMapObjectives": [
@@ -2363,20 +2303,12 @@
     {
       "version": "4.5.5.1",
       "row_width": "168"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 168
     }
   ],
   "EndgameMapRevealTypes": [
     {
       "version": "4.5.0.2",
       "row_width": "24"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 24
     }
   ],
   "EndgameMaps": [
@@ -2411,10 +2343,6 @@
     {
       "version": "4.5.5.1",
       "row_width": "241"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 241
     }
   ],
   "EndgameMapTablets": [
@@ -2430,13 +2358,13 @@
   "endgameplayerhideoutapplymods": [
     {
       "version": "0.5.5.7",
-      "row_width": 31
+      "row_width": "31"
     }
   ],
   "endgameplayerhideoutrewards": [
     {
       "version": "0.5.5.7",
-      "row_width": 75
+      "row_width": "75"
     }
   ],
   "EndgameQuickTravelHubs": [
@@ -2493,10 +2421,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "117"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 117
     }
   ],
   "EnvironmentTransitions": [
@@ -2807,10 +2731,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "81"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 81
     }
   ],
   "FixedMissions": [
@@ -2893,20 +2813,12 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "12"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 12
     }
   ],
   "GameObjectTasksFromStats": [
     {
       "version": "4.1.0.10.2",
       "row_width": "41"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 41
     }
   ],
   "GamepadButton": [
@@ -3111,40 +3023,24 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "297"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 297
     }
   ],
   "GrantedEffectsPerLevel": [
     {
       "version": "4.1.0.10.2",
       "row_width": "116"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 116
     }
   ],
   "GrantedEffectStatSets": [
     {
       "version": "4.1.0.10.2",
       "row_width": "101"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 101
     }
   ],
   "GrantedEffectStatSetsPerLevel": [
     {
       "version": "4.1.0.10.2",
       "row_width": "185"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 185
     }
   ],
   "GrantedSkillSocketNumbers": [
@@ -3545,10 +3441,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "16"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 16
     }
   ],
   "HideoutDoodads": [
@@ -3562,7 +3454,7 @@
     },
     {
       "version": "0.5.5.7",
-      "row_width": 173
+      "row_width": "173"
     }
   ],
   "HideoutDoodadTags": [
@@ -3605,10 +3497,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "93"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 93
     }
   ],
   "HideoutSalvageBenchDoodads": [
@@ -3624,7 +3512,7 @@
     },
     {
       "version": "0.5.5.7",
-      "row_width": 50
+      "row_width": "50"
     }
   ],
   "HideoutStashDoodads": [
@@ -3921,10 +3809,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "283"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 283
     }
   ],
   "ItemisedVisualEffectExclusiveTypes": [
@@ -3977,10 +3861,6 @@
     {
       "version": "4.4.0.13",
       "row_width": "180"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 180
     }
   ],
   "ItemVisualHeldBodyModel": [
@@ -3993,10 +3873,6 @@
     {
       "version": "4.3.1.3",
       "row_width": "88"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 88
     }
   ],
   "ItemVisualIdentity": [
@@ -4022,7 +3898,7 @@
     },
     {
       "version": "0.5.5.7",
-      "row_width": 992
+      "row_width": "992"
     }
   ],
   "ItemVisualReplacement": [
@@ -4324,7 +4200,7 @@
     },
     {
       "version": "0.5.5.7",
-      "row_width": 126
+      "row_width": "126"
     }
   ],
   "MapFragmentMods": [
@@ -4577,10 +4453,6 @@
     {
       "version": "4.2.0.1",
       "row_width": "112"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 112
     }
   ],
   "MicrotransactionObjectEffects": [
@@ -4591,10 +4463,6 @@
     {
       "version": "4.2.1.7",
       "row_width": "141"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 141
     }
   ],
   "MicrotransactionOnKillBeams": [
@@ -4613,10 +4481,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "128"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 128
     }
   ],
   "MicrotransactionOnOpenChestEffects": [
@@ -4643,10 +4507,6 @@
     {
       "version": "4.4.0.2",
       "row_width": "114"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 114
     }
   ],
   "MicrotransactionRarityDisplay": [
@@ -4729,10 +4589,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "26"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 26
     }
   ],
   "MicrotransactionTrackingMapFragmentTypes": [
@@ -4753,10 +4609,6 @@
     {
       "version": "4.5.5.1",
       "row_width": "42"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 42
     }
   ],
   "MinionCommands": [
@@ -4813,10 +4665,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "44"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 44
     }
   ],
   "MiscAnimatedArtVariations": [
@@ -4841,40 +4689,24 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "17"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 17
     }
   ],
   "MiscEffectPacks": [
     {
       "version": "4.1.0.10.2",
       "row_width": "54"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 54
     }
   ],
   "MiscEffectPacksArtVariations": [
     {
       "version": "4.1.0.10.2",
       "row_width": "28"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 28
     }
   ],
   "MiscObjects": [
     {
       "version": "4.1.0.10.2",
       "row_width": "44"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 44
     }
   ],
   "MiscObjectsArtVariations": [
@@ -4917,10 +4749,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "96"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 96
     }
   ],
   "MissionTransitionTiles": [
@@ -5033,10 +4861,6 @@
     {
       "version": "4.5.5.1",
       "row_width": "693"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 693
     }
   ],
   "ModSellPriceTypes": [
@@ -5053,10 +4877,6 @@
     {
       "version": "4.3.0.1",
       "row_width": "41"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 41
     }
   ],
   "MonsterAggroAudio": [
@@ -5321,10 +5141,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "69"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 69
     }
   ],
   "MtxTypes": [
@@ -5339,10 +5155,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "180"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 180
     }
   ],
   "MultiPartAchievementAreas": [
@@ -5375,10 +5187,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "66"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 66
     }
   ],
   "MusicCategories": [
@@ -5419,10 +5227,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "108"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 108
     }
   ],
   "NPCConversations": [
@@ -5497,10 +5301,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "191"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 191
     }
   ],
   "NPCShop": [
@@ -5537,10 +5337,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "423"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 423
     }
   ],
   "NPCTalkCategory": [
@@ -5567,20 +5363,12 @@
     {
       "version": "4.3.0.1",
       "row_width": "44"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 44
     }
   ],
   "NPCTalkDialogueSteps": [
     {
       "version": "4.3.0.1",
       "row_width": "52"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 52
     }
   ],
   "NPCTalkDialogueTextAudio": [
@@ -5591,10 +5379,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "256"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 256
     }
   ],
   "NPCTalkMobileGroup": [
@@ -5617,10 +5401,6 @@
     {
       "version": "4.3.0.1",
       "row_width": "143"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 143
     }
   ],
   "NPCType": [
@@ -5637,10 +5417,6 @@
     {
       "version": "4.5.4.5",
       "row_width": "72"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 72
     }
   ],
   "NPCVendorDialogueConditions": [
@@ -5971,10 +5747,6 @@
     {
       "version": "4.5.4.4",
       "row_width": "131"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 131
     }
   ],
   "PlayerBuffsFromMapStats": [
@@ -6089,10 +5861,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "119"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 119
     }
   ],
   "QuestAchievements": [
@@ -6105,10 +5873,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "12"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 12
     }
   ],
   "QuestFlagVisuals": [
@@ -6171,10 +5935,6 @@
     {
       "version": "4.3.0.1",
       "row_width": "208"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 208
     }
   ],
   "QuestStaticRewards": [
@@ -6435,10 +6195,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "50"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 50
     }
   ],
   "SafehouseBYOCrafting": [
@@ -6575,10 +6331,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "16"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 16
     }
   ],
   "ShaperGuardians": [
@@ -6591,10 +6343,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "117"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 117
     }
   ],
   "ShapeShiftBoneMappings": [
@@ -6645,10 +6393,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "185"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 185
     }
   ],
   "ShapeShiftTransformData": [
@@ -6663,20 +6407,12 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "63"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 63
     }
   ],
   "ShapeShiftVisualIdentity": [
     {
       "version": "4.4.0.1.3",
       "row_width": "16"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 16
     }
   ],
   "ShieldTypes": [
@@ -6705,10 +6441,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "51"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 51
     }
   ],
   "Shrines": [
@@ -6775,10 +6507,6 @@
     {
       "version": "4.4.0.2",
       "row_width": "284"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 284
     }
   ],
   "SkillCraftingData": [
@@ -7021,10 +6749,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "33"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 33
     }
   ],
   "SpawnAdditionalChestsOrClusters": [
@@ -7241,10 +6965,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "106"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 106
     }
   ],
   "StatsAffectingGeneration": [
@@ -7255,10 +6975,6 @@
     {
       "version": "4.2.0.1",
       "row_width": "21"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 21
     }
   ],
   "StatsFromSkillStats": [
@@ -7493,10 +7209,6 @@
     {
       "version": "4.2.1.1",
       "row_width": "167"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 167
     }
   ],
   "TieredMicrotransactionsVisuals": [
@@ -7507,10 +7219,6 @@
     {
       "version": "4.2.1.1",
       "row_width": "48"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 48
     }
   ],
   "TimeTrackingMapDeviceInterfaceArtVariation": [
@@ -7541,10 +7249,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "68"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 68
     }
   ],
   "TormentModColours": [
@@ -7955,10 +7659,6 @@
     {
       "version": "4.5.5.1",
       "row_width": "736"
-    },
-    {
-      "version": "0.5.5.7",
-      "row_width": 736
     }
   ],
   "WorldDescriptionButton": [

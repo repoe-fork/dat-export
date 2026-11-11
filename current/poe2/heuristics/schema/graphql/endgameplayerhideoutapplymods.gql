@@ -1,3 +1,4 @@
+# Added 0.5
 type endgameplayerhideoutapplymods {
   _: string @unique
   _: i32
