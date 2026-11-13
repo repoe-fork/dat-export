@@ -1,5 +1,5 @@
 # Added 3.11
 type Dances {
-  MtxTypeKey: MtxTypes
+  MtxTypeKey: MtxTypeGameSpecific
   CharactersKey: Characters
 }

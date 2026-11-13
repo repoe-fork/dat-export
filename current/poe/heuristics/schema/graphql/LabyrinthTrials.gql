@@ -7,8 +7,5 @@ type LabyrinthTrials {
   NPCTextAudioKey: NPCTextAudio
   _: string
   _: string
-  _: i32
-  _: i32
-  _: i32
-  _: i32
+  QuestFlag: QuestFlags
 }

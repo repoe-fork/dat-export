@@ -32,10 +32,7 @@ type AtlasNode {
   _: bool
   _: f32
   _: bool
-  _: i32
-  _: i32
-  _: i32
-  _: i32
+  MapNodeHeader: MapNodeHeader
   _: bool
   _: i32
 }

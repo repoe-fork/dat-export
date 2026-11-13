@@ -2,6 +2,6 @@
 type ExpeditionCurrency @tags(list: ["item:def"]) {
   BaseItemType: BaseItemTypes
   Tier: i32
-  NPC: ExpeditionNPCs
+  Faction: ExpeditionFactions
   LootSound: SoundEffects
 }

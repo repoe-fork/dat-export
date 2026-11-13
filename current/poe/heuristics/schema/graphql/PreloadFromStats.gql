@@ -6,5 +6,5 @@ type PreloadFromStats {
   BuffVisual: [BuffVisuals]
   EffectPack: [MiscEffectPacks]
   _: i32
-  GroundEffect: [GroundEffects]
+  GroundEffectTypes: [GroundEffectTypes]
 }

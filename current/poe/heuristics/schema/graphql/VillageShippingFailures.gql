@@ -2,7 +2,7 @@
 type VillageShippingFailures {
   Id: string @unique
   Text: string @localized
-  Resource: [VillageResources]
+  Exports: [VillageExports]
   ResourceLostPercent: i32
   PortBonusLostPercent: i32
   _: i32

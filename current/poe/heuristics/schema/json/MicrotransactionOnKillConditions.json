@@ -21,7 +21,7 @@
       "array": true,
       "key": {
         "foreign": true,
-        "table": "MicrotransactionRarityDisplay"
+        "table": "Rarity"
       }
     },
     "size": 16

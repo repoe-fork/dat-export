@@ -7,5 +7,5 @@ type VillageTownLayout {
   Name: string @localized
   PositionX: i32
   PositionY: i32
-  Resource: VillageResources
+  Export: VillageExports
 }

@@ -90,7 +90,7 @@
     "size": 4
   },
   {
-    "name": "GroundEffect",
+    "name": "GroundEffectTypes",
     "offset": 84,
     "unknownArray": false,
     "unique": false,
@@ -99,7 +99,7 @@
       "array": true,
       "key": {
         "foreign": true,
-        "table": "GroundEffects"
+        "table": "GroundEffectTypes"
       }
     },
     "size": 16

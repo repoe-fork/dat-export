@@ -1,4 +1,4 @@
-"rownum","Id","BaseItemType","UniqueName","ItemVisualIdentity","FlavourText","Rarity","ItemLevel","bool_92"
+"rownum","Id","BaseItemType","UniqueName","ItemVisualIdentity","FlavourText","FrameType","ItemLevel","bool_92"
 0,"ScryingOrb",49,"","","","",78,""
 1,"DeadMansSulphur",5421,"","","","",1,""
 2,"MurderousEyeJewel",2470,"","","","",1,""

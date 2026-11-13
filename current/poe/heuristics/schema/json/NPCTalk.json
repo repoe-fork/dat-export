@@ -368,7 +368,7 @@
     "size": 16
   },
   {
-    "name": "Music1",
+    "name": "WorldArea1",
     "offset": 276,
     "unknownArray": false,
     "unique": false,
@@ -377,7 +377,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "Music"
+        "table": "WorldAreas"
       }
     },
     "size": 16
@@ -426,7 +426,7 @@
     "size": 4
   },
   {
-    "name": "Music2",
+    "name": "WorldArea2",
     "offset": 316,
     "unknownArray": false,
     "unique": false,
@@ -435,7 +435,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "Music"
+        "table": "WorldAreas"
       }
     },
     "size": 16

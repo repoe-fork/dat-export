@@ -13,7 +13,7 @@ type CraftingBenchOptions @tags(list: ["crafting"]) {
   SocketColours: string
   Sockets: i32
   ItemQuantity: i32
-  _: [i32]
+  _: [ItemClasses]
   Description: string @localized
   IsDisabled: bool
   IsAreaOption: bool

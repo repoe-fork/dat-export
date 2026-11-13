@@ -197,9 +197,9 @@
     "interval": false,
     "type": {
       "array": true,
-      "integer": {
-        "unsigned": false,
-        "size": 4
+      "key": {
+        "foreign": true,
+        "table": "ItemClasses"
       }
     },
     "size": 16

@@ -1,6 +1,6 @@
 # Added 3.24
 type NecropolisPacksPerArea {
-  Id: NecropolisPacks @unique
-  _: [rid]
+  WorldArea: WorldAreas
+  Packs: [NecropolisPacks]
   _: [i32]
 }

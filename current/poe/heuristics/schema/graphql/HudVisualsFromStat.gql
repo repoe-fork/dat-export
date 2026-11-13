@@ -3,8 +3,8 @@ type HudVisualsFromStat {
   Stat: Stats @unique
   LifeVisual: HudLifeVisuals
   EnergyShieldVisual: HudEnergyShieldVisuals
-  ManaVisual: HudManaVisuals
+  DivinationVisual: DivinationWindowVisuals
   TradeVisual: TradeWindowVisuals
-  ManaFlaskVisual: HudManaVisuals
+  ManaVisual: HudManaVisuals
   _: bool
 }

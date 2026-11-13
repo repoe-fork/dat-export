@@ -1,6 +1,6 @@
 # Added 3.25
 type VillageAssignWorkerTextAudio {
-  Job: VillageJobs
+  JobType: VillageJobTypes
   _: NPCTextAudio
   _: NPCTextAudio
   _: NPCTextAudio

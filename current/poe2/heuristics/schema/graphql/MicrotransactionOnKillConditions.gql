@@ -1,7 +1,7 @@
 # Added 4.1
 type MicrotransactionOnKillConditions {
   Id: string @unique
-  Rarity: [MicrotransactionRarityDisplay]
+  Rarity: [Rarity]
   _: [_] # All rows empty
   _: [_] # All rows empty
   _: i32

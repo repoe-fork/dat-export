@@ -1,4 +1,4 @@
-"rownum","BaseItemType","Tier","NPC","LootSound"
+"rownum","BaseItemType","Tier","Faction","LootSound"
 0,4222,1,0,335
 1,4226,1,1,335
 2,4230,1,2,335

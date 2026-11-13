@@ -1,4 +1,4 @@
-"rownum","Stat","LifeVisual","EnergyShieldVisual","ManaVisual","TradeVisual","ManaFlaskVisual","bool_96"
+"rownum","Stat","LifeVisual","EnergyShieldVisual","DivinationVisual","TradeVisual","ManaVisual","bool_96"
 0,18391,1,"","","","",1
 1,18396,"",2,"","","",1
 2,18969,"","",1,"","",1

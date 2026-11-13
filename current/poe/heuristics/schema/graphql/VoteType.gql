@@ -4,8 +4,5 @@ type VoteType {
   Text: string @localized
   AcceptText: string @localized
   RejectText: string @localized
-  _: i32
-  _: i32
-  _: i32
-  _: i32
+  QuestFlag: QuestFlags
 }

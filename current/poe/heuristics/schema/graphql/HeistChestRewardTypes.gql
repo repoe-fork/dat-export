@@ -3,8 +3,7 @@ type HeistChestRewardTypes {
   Id: string @unique
   Art: string
   RewardTypeName: string @localized
-  _: HeistChestRewardTypes
-  RewardRoomName: string @localized
+  _: [rid]
   MinLevel: i32
   MaxLevel: i32
   Weight: i32
