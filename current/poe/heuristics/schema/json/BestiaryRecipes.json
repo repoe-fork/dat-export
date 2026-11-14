@@ -122,7 +122,7 @@
     "size": 4
   },
   {
-    "name": "",
+    "name": "GameMode",
     "offset": 78,
     "unknownArray": false,
     "unique": false,
@@ -137,23 +137,8 @@
     "size": 4
   },
   {
-    "name": "GameMode",
-    "offset": 82,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
-      }
-    },
-    "size": 4
-  },
-  {
     "name": "FlaskMod",
-    "offset": 86,
+    "offset": 82,
     "unknownArray": false,
     "unique": false,
     "interval": false,

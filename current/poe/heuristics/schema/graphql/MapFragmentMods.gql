@@ -15,4 +15,5 @@ type MapFragmentMods {
   MapFragmentLimit: i32
   _: bool
   _: [i32]
+  _: bool
 }

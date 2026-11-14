@@ -2,4 +2,6 @@
 type StatDescriptionFunctions {
   Id: string @unique
   TranslationId: string @unique
+  _: i32
+  _: bool
 }

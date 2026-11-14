@@ -1,0 +1,8 @@
+type AuguryCardTiers {
+  Card: AuguryCards
+  Tier: i32
+  Description: string @localized
+  Mod: Mods
+  _: rid
+  Body: string @localized
+}

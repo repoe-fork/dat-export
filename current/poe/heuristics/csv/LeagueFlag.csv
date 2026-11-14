@@ -207,3 +207,11 @@
 205,"DeepwaterHardmodeHardcore","Art/2DArt/UIImages/Common/LeagueHardmodeDeepwaterHC",1,"","Art/2DArt/UIImages/Login/BannerHardcoreHardmodeDeepwater",1
 206,"DeepwaterHardmodeStandardSSF","Art/2DArt/UIImages/Common/LeagueStandardHardmodeDeepwaterSSF","",1,"Art/2DArt/UIImages/Login/BannerStandardHardmodeDeepwaterSSF",1
 207,"DeepwaterHardmodeHardcoreSSF","Art/2DArt/UIImages/Common/LeagueStandardHardmodeDeepwaterHCSSF",1,1,"Art/2DArt/UIImages/Login/BannerHardcoreHardmodeDeepwaterHCSSF",1
+208,"AuguryStandard","Art/2DArt/UIImages/Common/LeagueCovensofUmbra","","","Art/2DArt/UIImages/Login/BannerCovensofUmbra",""
+209,"AuguryHardcore","Art/2DArt/UIImages/Common/LeagueCovensofUmbraHC",1,"","Art/2DArt/UIImages/Login/BannerHardcoreCovensofUmbra",""
+210,"AuguryStandardSSF","Art/2DArt/UIImages/Common/LeagueCovensofUmbraSSF","",1,"Art/2DArt/UIImages/Login/LeagueCovensofUmbraSSF",""
+211,"AuguryHardcoreSSF","Art/2DArt/UIImages/Common/LeagueCovensofUmbraHCSSF",1,1,"Art/2DArt/UIImages/Login/LeagueCovensofUmbraHCSSF",""
+212,"AuguryHardmodeStandard","Art/2DArt/UIImages/Common/LeagueStandardHardmodeCovensofUmbra","","","Art/2DArt/UIImages/Login/BannerStandardHardmodeCovensofUmbra",1
+213,"AuguryHardmodeHardcore","Art/2DArt/UIImages/Common/LeagueHardmodeCovensofUmbraHC",1,"","Art/2DArt/UIImages/Login/BannerHardcoreHardmodeCovensofUmbra",1
+214,"AuguryHardmodeStandardSSF","Art/2DArt/UIImages/Common/LeagueStandardHardmodeCovensofUmbraSSF","",1,"Art/2DArt/UIImages/Login/BannerStandardHardmodeCovensofUmbraSSF",1
+215,"AuguryHardmodeHardcoreSSF","Art/2DArt/UIImages/Common/LeagueStandardHardmodeCovensofUmbraHCSSF",1,1,"Art/2DArt/UIImages/Login/BannerHardcoreHardmodeCovensofUmbraHCSSF",1

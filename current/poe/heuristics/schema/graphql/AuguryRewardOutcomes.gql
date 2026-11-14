@@ -1,0 +1,15 @@
+type AuguryRewardOutcomes {
+  Id: string @unique
+  Tier: i32
+  _: i32
+  Description: string @localized
+  MinLevel: i32
+  MaxLevel: i32
+  _: [_] # All rows empty
+  _: [rid]
+  Icon: string
+  _: [_] # All rows empty
+  _: bool
+  _: i32
+  Achievements: [AchievementItems]
+}

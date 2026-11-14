@@ -37,4 +37,5 @@ type CraftingBenchOptions @tags(list: ["crafting"]) {
   PassiveSkills: [PassiveSkills]
   Tags: [Tags]
   _: [i32]
+  _: bool
 }

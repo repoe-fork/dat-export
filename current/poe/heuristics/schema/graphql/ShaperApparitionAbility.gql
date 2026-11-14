@@ -1,0 +1,5 @@
+type ShaperApparitionAbility {
+  _: i32
+  GrantedEffect: GrantedEffects
+  Name: string @localized
+}

@@ -40,4 +40,5 @@ type Chests {
   _: bool
   ObjectQuickAction: [WorldObjectQuickActions]
   _: bool
+  _: i32
 }

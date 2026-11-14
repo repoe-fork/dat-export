@@ -241,5 +241,35 @@
       "string": {}
     },
     "size": 8
+  },
+  {
+    "name": "",
+    "offset": 75,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true,
+        "table": "PassiveSkillTreeUIArt"
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 91,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true,
+        "table": "PassiveSkillTreeUIArt"
+      }
+    },
+    "size": 16
   }
 ]

@@ -3,4 +3,5 @@ type MinionDoublingStatTypes {
   Id: i32 @unique
   Stat: Stats
   MinionType: MinionType
+  Name: string @localized
 }

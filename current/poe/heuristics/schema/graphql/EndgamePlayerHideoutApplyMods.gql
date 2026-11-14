@@ -1,0 +1,6 @@
+type EndgamePlayerHideoutApplyMods {
+  Id: string @unique
+  _: i16
+  _: bool
+  MissionType: AtlasMissionTypes
+}

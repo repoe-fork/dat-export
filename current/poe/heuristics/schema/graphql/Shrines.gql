@@ -22,4 +22,5 @@ type Shrines {
   _: bool
   Mods: Mods
   MonsterPacks: [MonsterPacks]
+  _: rid
 }

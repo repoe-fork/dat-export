@@ -288,5 +288,35 @@
       }
     },
     "size": 16
+  },
+  {
+    "name": "",
+    "offset": 188,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true,
+        "table": "Mods"
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 204,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true,
+        "table": "Mods"
+      }
+    },
+    "size": 16
   }
 ]

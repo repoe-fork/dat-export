@@ -1,8 +1,9 @@
-"rownum","Id","Signature_ModsKey","SpawnWeight_TagsKeys","SpawnWeight_Values","Stat","Achievement","AfflictionAchievement","League"
+"rownum","Id","Signature_ModsKey","SpawnWeight_TagsKeys","SpawnWeight_Values","Currency","Achievement","AfflictionAchievement","League"
 0,"Navali_RECLAIM","",[0],[0],"",[],[],""
 1,"Einhar","",[0],[0],"",[11214],[11542],11
 2,"Alva","",[0],[0],"",[11216],[11544],12
 3,"Helena","",[0],[0],"",[],[],""
 4,"Niko","",[0],[0],"",[11213],[11541],13
 5,"Jun","",[0],[0],"",[11215],[11543],14
-6,"Kirac",12707,"[33,57,0]","[0,1000,0]","",[9261],[9991],""
+6,"Kirac",12782,"[33,57,0]","[0,1000,0]","",[9261],[9991],""
+7,"Whakano","",[0],[0],"",[],[],19

@@ -1,0 +1,29 @@
+"rownum","Version","i32_16","Conqueror","Conqueror (French)","Conqueror (German)","Conqueror (Japanese)","Conqueror (Korean)","Conqueror (Portuguese)","Conqueror (Russian)","Conqueror (Spanish)","Conqueror (Thai)","Conqueror (Traditional Chinese)","i32_28"
+0,1,1,"Xibaqua","Xibaqua","Xibaqua","シバクア","지바콰","Xibaqua","Шибаквы","Xibaqua","ซิบาคัว","賽巴昆",0
+1,1,2,"Zerphi","Zerphi","Zerphi","ゼルフィ","제르피","Zerphi","Зерфи","Zerphi","เซอร์ฟี","澤佛伊",0
+2,1,2,"Mazcotl","Mazcotl","Mazcotl","マズコトル","마스코틀","Mazcotl","Мазкотля","Mazcotl","มาสโคทัล","瑪茲科特爾",1
+3,1,3,"Doryani","Doryani","Doryani","ドリヤニ","도리아니","Doryani","Дориани","Doryani","ดอร์ยานี","多里亞尼",0
+4,2,1,"Kaom","Kaom","Kaom","カオム","카옴","Kaom","Каома","Kaom","คอมม์","岡姆",0
+5,2,2,"Rakiata","Rakiata","Rakiata","ラキアタ","라키아타","Rakiata","Ракиаты","Rakiata","ราคียาตา","萊基亞塔",0
+6,2,3,"Kiloava","Kiloava","Kiloava","キロアヴァ","킬로아바","Kiloava","Килоавы","Kiloava","คีโลอาวา","基洛阿瓦",0
+7,2,3,"Akoya","Akoya","Akoya","アコヤ","아코야","Akoya","Акойи","Akoya","อะโคยา","艾古亞",1
+8,3,1,"Deshret","Deshret","Deshret","デシュレット","데쉬렛","Deshret","Дешрет","Deshret","เดสเชรท","迪虛瑞特",0
+9,3,1,"Balbala","Balbala","Balbala","バルバラ","발바라","Balbala","Балбалы","Balbala","บัลบาล่า","芭芭拉",1
+10,3,2,"Asenath","Asenath","Asenath","アセナス","아세나스","Asenath","Азенат","Asenath","แอเซแนธ","安賽娜絲",0
+11,3,3,"Nasima","Nasima","Nasima","ナシマ","나시마","Nasima","Насимы","Nasima","นาซิมา","納西瑪",0
+12,4,1,"High Templar Venarius","Haut Templier Vénarius","den Hohen Templer Venarius","ハイテンプラーヴェナリウス","고위 템플러 베나리우스","Sumo Templário Venarius","Верховного жреца Венария","Alto templario Venarius","เทมพลาร์ระดับสูงเวนาริอุส","聖宗維那利斯",0
+13,4,1,"High Templar Maxarius","Haut Templier Maxarius","den Hohen Templer Maxarius","ハイテンプラーマキサリウス","고위 템플러 막사리우스","Sumo Templário Maxarius","Верховного жреца Макерия","Alto templario Maxarius","เทมพลาร์ระดับสูงแม็กซาเรียส","聖宗馬克薩留斯",1
+14,4,2,"High Templar Dominus","Haut Templier Dominus","den Hohen Templer Dominus","ハイテンプラードミナス","고위 템플러 도미누스","Sumo Templário Dominus","Верховного жреца Владыки","Alto templario Dóminus","เทมพลาร์ระดับสูงโดมินัส","聖宗領導人神主",0
+15,4,3,"High Templar Avarius","Haut Templier Avarius","den Hohen Templer Avarius","ハイテンプラーアヴァリウス","고위 템플러 아배리우스","Sumo Templário Avarius","Верховного жреца Авария","Alto templario Avarius","เทมพลาร์ระดับสูงอาวาริอุส","聖宗伊爾莉斯",0
+16,5,1,"Cadiro","Cadiro","Cadiro","カディロ","카디로","Cadiro","Кадиро","Cadiro","คาดิโร","卡迪羅",0
+17,5,2,"Victario","Victario","Victario","ヴィクタリオ","빅타리오","Victario","Виктарио","Victario","วิคทาริโอ","維多里奧",0
+18,5,3,"Chitus","Chitus","Chitus","チタス","치투스","Chitus","Титуса","Chitus","ชิตัส","切特斯",0
+19,5,3,"Caspiro","Caspiro","Caspiro","カスピロ","카스피로","Caspiro","Каспиро","Caspiro","แคสปีโร","卡斯皮羅",1
+20,6,1,"Vorana","Vorana","Vorana","ヴォラナ","보라나","Vorana","Вораны","Vorana","วอราน่า","沃拉娜",0
+21,6,2,"Uhtred","Uhtred","Uhtred","ウートレッド","우트레드","Uhtred","Утреда","Uhtred","เออห์เทร็ด","烏特雷",0
+22,6,3,"Medved","Medved","Medved","メドヴェッド","메드베드","Medved","Медведя","Medved","เม็ดเว็ด","梅德偉",0
+23,7,1,"Tecrod","Tecrod","Tecrod","テクロッド","테크로드","Tecrod","Текрода","Tecrod","เทคร็อด","特克羅德",0
+24,8,1,"Ulaman","Ulaman","Ulaman","ウラマン","울라만","Ulaman","Уламана","Ulaman","อูลามาน","烏拉曼",0
+25,9,1,"Kurgal","Kurgal","Kurgal","クルガル","쿠르갈","Kurgal","Каргала","Kurgal","เคอร์กัล","柯戈",0
+26,10,1,"Amanamu","Amanamu","Amanamu","アマナム","아마나무","Amanamu","Аманаму","Amanamu","อามานามู","阿姆那姆",0
+27,11,1,"Zorath","Zorath","Zorath","ゾラス","조라스","Zorath","Зората","Zorath","โซราธ","澤洛斯",0

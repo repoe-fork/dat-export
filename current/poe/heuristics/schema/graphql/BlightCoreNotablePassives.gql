@@ -1,0 +1,5 @@
+type BlightCoreNotablePassives {
+  Passive: PassiveSkills
+  Stat: Stats
+  JewelStat: Stats
+}

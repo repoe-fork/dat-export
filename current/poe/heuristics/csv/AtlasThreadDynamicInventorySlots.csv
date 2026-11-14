@@ -1,0 +1,4 @@
+"rownum","Id","ThreadType","i32_24","string_28","i32_36","i32_40","i32_44","BaseItemTypes"
+0,"RitualVesselSlot1",6,1,"Art/2DArt/UIImages/InGame/AtlasScreen/AtlasRitualVesselSlot",78,0,1,[3105]
+1,"RitualVesselSlot2",6,4,"Art/2DArt/UIImages/InGame/AtlasScreen/AtlasRitualVesselSlot",78,1,0,[3105]
+2,"RitualVesselSlot3",6,8,"Art/2DArt/UIImages/InGame/AtlasScreen/AtlasRitualVesselSlot",78,1,1,[3105]

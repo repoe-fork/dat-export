@@ -5,4 +5,6 @@ type AtlasExiles {
   InfluencedItemIncrStat: Stats
   MapIcon: string @file(ext: ".dds")
   MapIcon2: string @file(ext: ".dds")
+  Title: string @localized
+  CitadelName: string @localized
 }

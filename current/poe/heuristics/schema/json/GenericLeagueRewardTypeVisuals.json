@@ -33,7 +33,7 @@
     "name": "Animation",
     "offset": 32,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -74,7 +74,7 @@
     "name": "Name",
     "offset": 60,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,

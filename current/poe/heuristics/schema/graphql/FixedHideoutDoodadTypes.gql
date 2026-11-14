@@ -8,4 +8,5 @@ type FixedHideoutDoodadTypes {
   _: bool
   UnlockQuest: Quest
   WorldArea: WorldAreas
+  _: bool
 }

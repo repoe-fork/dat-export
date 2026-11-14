@@ -27,7 +27,7 @@ type Mods @tags(list: ["crafting"]) {
   AuraFlags: [ModAuraFlags]
   MonsterMetadata: string
   MonsterKillAchievements: [AchievementItems]
-  ArchnemesisType: [ModType]
+  ChestOpenAchievements: [AchievementItems]
   Stat5Min: i32
   Stat5Max: i32
   StatsKey5: Stats
@@ -78,4 +78,9 @@ type Mods @tags(list: ["crafting"]) {
   GameMode: GameModes
   GrantedEffectRuthless: [GrantedEffectsPerLevel]
   IsUnscalable: bool
+  _: [GrantedEffects]
+  _: [GrantedEffects]
+  _: bool
+  _: i32
+  _: bool
 }

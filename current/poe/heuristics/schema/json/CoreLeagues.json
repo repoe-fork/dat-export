@@ -261,5 +261,20 @@
       }
     },
     "size": 16
+  },
+  {
+    "name": "SurpassingChanceStat",
+    "offset": 194,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true,
+        "table": "Stats"
+      }
+    },
+    "size": 16
   }
 ]

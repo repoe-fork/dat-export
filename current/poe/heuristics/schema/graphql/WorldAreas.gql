@@ -64,7 +64,6 @@ type WorldAreas {
   LeagueChance1: WorldAreaLeagueChances
   _: i32
   LeagueChance2: WorldAreaLeagueChances
-  MusicCategory: MusicCategories
   Ruleset: Rulesets
   _: i32
   QuestFlag: QuestFlags

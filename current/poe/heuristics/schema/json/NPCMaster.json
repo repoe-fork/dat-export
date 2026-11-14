@@ -57,7 +57,7 @@
     "size": 16
   },
   {
-    "name": "Stat",
+    "name": "Currency",
     "offset": 56,
     "unknownArray": false,
     "unique": false,
@@ -66,7 +66,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "Stats"
+        "table": "CurrencyItems"
       }
     },
     "size": 16

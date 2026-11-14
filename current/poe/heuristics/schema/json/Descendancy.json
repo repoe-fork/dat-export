@@ -132,7 +132,7 @@
     "size": 4
   },
   {
-    "name": "PassiveTreeUIArt",
+    "name": "UIArt",
     "offset": 92,
     "unknownArray": false,
     "unique": false,
@@ -141,14 +141,26 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "PassiveSkillTreeUIArtAscendancy"
+        "table": "UIArtAscendancy"
       }
     },
     "size": 16
   },
   {
-    "name": "UIArt",
+    "name": "",
     "offset": 108,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "boolean": true
+    },
+    "size": 1
+  },
+  {
+    "name": "PassiveTreeUIArt",
+    "offset": 109,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -156,7 +168,7 @@
       "array": false,
       "key": {
         "foreign": true,
-        "table": "UIArtAscendancy"
+        "table": "PassiveSkillTreeUIArt"
       }
     },
     "size": 16

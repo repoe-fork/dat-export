@@ -1,0 +1,1203 @@
+"rownum","Id","i16_8","rid_10","i32_26","string_30","bool_38","Rarity","rid_55","i32_71"
+0,"CurrencyFlaskQualityx20",1,"",0,"20x Glassblower's Bauble","",864,"",0
+1,"CurrencyAddEquipmentSocketx10",2,"",0,"10x Artificer's Orb","",864,"",0
+2,"CurrencyUpgradeToMagic2x5",3,"",0,"5x Greater Orb of Transmutation","",864,"",0
+3,"CurrencyUpgradeToMagic2x10",4,"",0,"10x Greater Orb of Transmutation","",864,"",0
+4,"CurrencyUpgradeToMagic3x1",5,"",0,"Perfect Orb of Transmutation","",864,"",0
+5,"CurrencyUpgradeToMagic3x3",6,"",0,"3x Perfect Orb of Transmutation","",865,"",0
+6,"CurrencyUpgradeToMagic3x10",7,"",0,"10x Perfect Orb of Transmutation","",865,"",0
+7,"CurrencyAddModToMagic2x5",8,"",0,"5x Greater Orb of Augmentation","",864,"",0
+8,"CurrencyAddModToMagic2x10",9,"",0,"10x Greater Orb of Augmentation","",864,"",0
+9,"CurrencyAddModToMagic3x1",10,"",0,"Perfect Orb of Augmentation","",864,"",0
+10,"CurrencyAddModToMagic3x3",11,"",0,"3x Perfect Orb of Augmentation","",865,"",0
+11,"CurrencyAddModToMagic3x10",12,"",0,"10x Perfect Orb of Augmentation","",865,"",0
+12,"CurrencyUpgradeMagicToRare2x3",13,"",0,"3x Greater Regal Orb","",864,"",0
+13,"CurrencyUpgradeMagicToRare2x10",14,"",0,"10x Greater Regal Orb","",865,"",0
+14,"CurrencyUpgradeMagicToRare3x1",15,"",0,"Perfect Regal Orb","",864,"",0
+15,"CurrencyUpgradeMagicToRare3x5",16,"",0,"5x Perfect Regal Orb","",865,"",0
+16,"CurrencyAddModToRarex10",17,"",0,"10x Exalted Orb","",864,"",0
+17,"CurrencyAddModToRarex20",18,"",0,"20x Exalted Orb","",864,"",0
+18,"CurrencyAddModToRare2x1",19,"",0,"Greater Exalted Orb","",864,"",0
+19,"CurrencyAddModToRare2x3",20,"",0,"3x Greater Exalted Orb","",865,"",0
+20,"CurrencyAddModToRare2x10",21,"",0,"10x Greater Exalted Orb","",865,"",0
+21,"CurrencyAddModToRare3x1",22,"",0,"Perfect Exalted Orb","",865,"",0
+22,"CurrencyAddModToRare3x3",23,"",0,"3x Perfect Exalted Orb","",865,"",0
+23,"CurrencyAddModToRare3x10",24,"",0,"10x Perfect Exalted Orb","",865,"",0
+24,"CurrencyRerollRarex1",25,"",0,"Chaos Orb","",864,"",0
+25,"CurrencyRerollRarex3",26,"",0,"3x Chaos Orb","",864,"",0
+26,"CurrencyRerollRarex10",27,"",0,"10x Chaos Orb","",865,"",0
+27,"CurrencyRerollRare2x1",28,"",0,"Greater Chaos Orb","",864,"",0
+28,"CurrencyRerollRare2x3",29,"",0,"3x Greater Chaos Orb","",865,"",0
+29,"CurrencyRerollRare2x10",30,"",0,"10x Greater Chaos Orb","",865,"",0
+30,"CurrencyRerollRare3x1",31,"",0,"Perfect Chaos Orb","",865,"",0
+31,"CurrencyRerollRare3x3",32,"",0,"3x Perfect Chaos Orb","",865,"",0
+32,"CurrencyRerollRare3x10",33,"",0,"10x Perfect Chaos Orb","",865,"",0
+33,"CurrencyAddSkillGemSocket5x1",34,"",0,"Perfect Jeweller's Orb","",864,"",0
+34,"CurrencyAddSkillGemSocket5x3",35,"",0,"3x Perfect Jeweller's Orb","",865,"",0
+35,"CurrencyUpgradeToRarex20",36,"",0,"20x Orb of Alchemy","",864,"",0
+36,"CurrencyCorruptx10",37,"",0,"10x Vaal Orb","",864,"",0
+37,"CurrencyCorruptx20",38,"",0,"20x Vaal Orb","",865,"",0
+38,"CurrencyGemQualityx4",39,"",0,"4x Gemcutter's Prism","",864,"",0
+39,"CurrencyGemQualityx8",40,"",0,"8x Gemcutter's Prism","",864,"",0
+40,"CurrencyUpgradeRandomlyx1",41,"",0,"Orb of Chance","",864,"",0
+41,"CurrencyUpgradeRandomlyx3",42,"",0,"3x Orb of Chance","",864,"",0
+42,"CurrencyUpgradeRandomlyx10",43,"",0,"10x Orb of Chance","",865,"",0
+43,"CurrencyModValuesx1",44,"",0,"Divine Orb","",864,"",0
+44,"CurrencyModValuesx3",45,"",0,"3x Divine Orb","",865,"",0
+45,"CurrencyModValuesx5",46,"",0,"5x Divine Orb","",865,"",0
+46,"CurrencyModValuesx10",47,"",0,"10x Divine Orb","",865,"",0
+47,"CurrencyRemoveModx1",48,"",0,"Orb of Annulment","",864,"",0
+48,"CurrencyRemoveModx3",49,"",0,"3x Orb of Annulment","",865,"",0
+49,"CurrencyRemoveModx10",50,"",0,"10x Orb of Annulment","",865,"",0
+50,"CurrencyFractureRarex1",51,"",0,"Fracturing Orb","",865,"",0
+51,"CurrencyFractureRarex3",52,"",0,"3x Fracturing Orb","",865,"",0
+52,"CurrencyHinekorasLockx1",53,"",0,"Hinekora's Lock","",865,"",0
+53,"CurrencyDuplicatex1",54,"",0,"Mirror of Kalandra","",865,"",0
+54,"StrongboxKeyx1",55,"",0,"Cryptic Key","",865,"",0
+55,"GreaterEssenceLifex3",56,"",0,"3x Greater Essence of the Body","",864,"",0
+56,"GreaterEssenceManax3",57,"",0,"3x Greater Essence of the Mind","",864,"",0
+57,"GreaterEssenceDefencesx3",58,"",0,"3x Greater Essence of Enhancement","",864,"",0
+58,"GreaterEssencePhysicalx3",59,"",0,"3x Greater Essence of Abrasion","",864,"",0
+59,"GreaterEssenceFirex3",60,"",0,"3x Greater Essence of Flames","",864,"",0
+60,"GreaterEssenceColdx3",61,"",0,"3x Greater Essence of Ice","",864,"",0
+61,"GreaterEssenceLightningx3",62,"",0,"3x Greater Essence of Electricity","",864,"",0
+62,"GreaterEssenceChaosx3",63,"",0,"3x Greater Essence of Ruin","",864,"",0
+63,"GreaterEssenceAttackx3",64,"",0,"3x Greater Essence of Battle","",864,"",0
+64,"GreaterEssenceCasterx3",65,"",0,"3x Greater Essence of Sorcery","",864,"",0
+65,"GreaterEssenceSpeedx3",66,"",0,"3x Greater Essence of Haste","",864,"",0
+66,"GreaterEssenceAttributex3",67,"",0,"3x Greater Essence of the Infinite","",864,"",0
+67,"GreaterEssenceFireResistx3",68,"",0,"3x Greater Essence of Insulation","",864,"",0
+68,"GreaterEssenceColdResistx3",69,"",0,"3x Greater Essence of Thawing","",864,"",0
+69,"GreaterEssenceLightningResistx3",70,"",0,"3x Greater Essence of Grounding","",864,"",0
+70,"GreaterEssenceSpeedCasterx3",71,"",0,"3x Greater Essence of Alacrity","",864,"",0
+71,"GreaterEssenceRarityx3",72,"",0,"3x Greater Essence of Opulence","",864,"",0
+72,"GreaterEssenceAllyx3",73,"",0,"3x Greater Essence of Command","",864,"",0
+73,"GreaterEssenceCriticalx3",74,"",0,"3x Greater Essence of Seeking","",864,"",0
+74,"PerfectEssenceLifex3",75,"",0,"3x Perfect Essence of the Body","",864,"",0
+75,"PerfectEssenceManax3",76,"",0,"3x Perfect Essence of the Mind","",864,"",0
+76,"PerfectEssenceDefencesx3",77,"",0,"3x Perfect Essence of Enhancement","",864,"",0
+77,"PerfectEssencePhysicalx3",78,"",0,"3x Perfect Essence of Abrasion","",864,"",0
+78,"PerfectEssenceFirex3",79,"",0,"3x Perfect Essence of Flames","",864,"",0
+79,"PerfectEssenceColdx3",80,"",0,"3x Perfect Essence of Ice","",864,"",0
+80,"PerfectEssenceLightningx3",81,"",0,"3x Perfect Essence of Electricity","",864,"",0
+81,"PerfectEssenceChaosx3",82,"",0,"3x Perfect Essence of Ruin","",864,"",0
+82,"PerfectEssenceAttackx3",83,"",0,"3x Perfect Essence of Battle","",864,"",0
+83,"PerfectEssenceCasterx3",84,"",0,"3x Perfect Essence of Sorcery","",864,"",0
+84,"PerfectEssenceSpeedx3",85,"",0,"3x Perfect Essence of Haste","",864,"",0
+85,"PerfectEssenceAttributex3",86,"",0,"3x Perfect Essence of the Infinite","",864,"",0
+86,"PerfectEssenceCriticalx3",87,"",0,"3x Perfect Essence of Seeking","",864,"",0
+87,"PerfectEssenceFireResistx3",88,"",0,"3x Perfect Essence of Insulation","",864,"",0
+88,"PerfectEssenceColdResistx3",89,"",0,"3x Perfect Essence of Thawing","",864,"",0
+89,"PerfectEssenceLightningResistx3",90,"",0,"3x Perfect Essence of Grounding","",864,"",0
+90,"PerfectEssenceSpeedCasterx3",91,"",0,"3x Perfect Essence of Alacrity","",864,"",0
+91,"PerfectEssenceRarityx3",92,"",0,"3x Perfect Essence of Opulence","",864,"",0
+92,"PerfectEssenceAllyx3",93,"",0,"3x Perfect Essence of Command","",864,"",0
+93,"CorruptedEssenceHysteriax3",94,"",0,"3x Essence of Hysteria","",865,"",0
+94,"CorruptedEssenceDeliriumx3",95,"",0,"3x Essence of Delirium","",865,"",0
+95,"CorruptedEssenceHorrorx3",96,"",0,"3x Essence of Horror","",865,"",0
+96,"CorruptedEssenceInsanityx3",97,"",0,"3x Essence of Insanity","",865,"",0
+97,"RuneFireGreaterx3",98,"",0,"3x Greater Desert Rune","",864,"",0
+98,"RuneColdGreaterx3",99,"",0,"3x Greater Glacial Rune","",864,"",0
+99,"RuneLightningGreaterx3",100,"",0,"3x Greater Storm Rune","",864,"",0
+100,"RuneEnhanceGreaterx3",101,"",0,"3x Greater Iron Rune","",864,"",0
+101,"RuneLifeGreaterx3",102,"",0,"3x Greater Body Rune","",864,"",0
+102,"RuneManaGreaterx3",103,"",0,"3x Greater Mind Rune","",864,"",0
+103,"RuneLifeRecoveryGreaterx3",104,"",0,"3x Greater Rebirth Rune","",864,"",0
+104,"RuneManaRecoveryGreaterx3",105,"",0,"3x Greater Inspiration Rune","",864,"",0
+105,"RuneStunGreaterx3",106,"",0,"3x Greater Stone Rune","",864,"",0
+106,"RuneAccuracyGreaterx3",107,"",0,"3x Greater Vision Rune","",864,"",0
+107,"RuneStrengthGreaterx3",108,"",0,"3x Greater Robust Rune","",864,"",0
+108,"RuneDexterityGreaterx3",109,"",0,"3x Greater Adept Rune","",864,"",0
+109,"RuneIntelligenceGreaterx3",110,"",0,"3x Greater Resolve Rune","",864,"",0
+110,"RuneSpecial1x1",111,"",0,"Greater Rune of Leadership","",865,"",0
+111,"RuneSpecial2x1",112,"",0,"Greater Rune of Tithing","",865,"",0
+112,"RuneSpecial3x1",113,"",0,"Greater Rune of Alacrity","",865,"",0
+113,"RuneSpecial4x1",114,"",0,"Greater Rune of Nobility","",865,"",0
+114,"RuneSpecial5x1",115,"",0,"Hedgewitch Assandra's Rune of Wisdom","",865,"",0
+115,"RuneSpecial6x1",116,"",0,"Saqawal's Rune of the Sky","",865,"",0
+116,"RuneSpecial7x1",117,"",0,"Fenumus' Rune of Agony","",865,"",0
+117,"RuneSpecial8x1",118,"",0,"Farrul's Rune of Grace","",865,"",0
+118,"RuneSpecial9x1",119,"",0,"Farrul's Rune of the Chase","",865,"",0
+119,"RuneSpecial10x1",120,"",0,"Craiceann's Rune of Warding","",865,"",0
+120,"RuneSpecial11x1",121,"",0,"Saqawal's Rune of Memory","",865,"",0
+121,"RuneSpecial12x1",122,"",0,"Saqawal's Rune of Erosion","",865,"",0
+122,"RuneSpecial13x1",123,"",0,"Farrul's Rune of the Hunt","",865,"",0
+123,"RuneSpecial14x1",124,"",0,"Craiceann's Rune of Recovery","",865,"",0
+124,"RuneSpecial15x1",125,"",0,"Courtesan Mannan's Rune of Cruelty","",865,"",0
+125,"RuneSpecial16x1",126,"",0,"Thane Grannell's Rune of Mastery","",865,"",0
+126,"RuneSpecial17x1",127,"",0,"Fenumus' Rune of Spinning","",865,"",0
+127,"RuneSpecial18x1",128,"",0,"Countess Seske's Rune of Archery","",865,"",0
+128,"RuneSpecial19x1",129,"",0,"Thane Girt's Rune of Wildness","",865,"",0
+129,"RuneSpecial20x1",130,"",0,"Fenumus' Rune of Draining","",865,"",0
+130,"RuneSpecial21x1",131,"",0,"Thane Myrk's Rune of Summer","",865,"",0
+131,"RuneSpecial22x1",132,"",0,"Lady Hestra's Rune of Winter","",865,"",0
+132,"RuneSpecial23x1",133,"",0,"Thane Leld's Rune of Spring","",865,"",0
+133,"RuneSpecial24x1",134,"",0,"The Greatwolf's Rune of Claws","",865,"",0
+134,"RuneSpecial25x1",135,"",0,"The Greatwolf's Rune of Willpower","",865,"",0
+135,"RandomBasicCurrencyx5",136,"",0,"5x Currency","",864,"",0
+136,"RandomBasicCurrencyx10",137,"",0,"10x Currency","",865,"",0
+137,"RandomGreaterCurrencyx3",138,"",0,"3x Greater Currency","",865,"",0
+138,"RandomGreaterCurrencyx10",139,"",0,"10x Greater Currency","",865,"",0
+139,"RandomPerfectCurrencyx3",140,"",0,"3x Perfect Currency","",865,"",0
+140,"RandomPerfectCurrencyx10",141,"",0,"10x Perfect Currency","",865,"",0
+141,"RandomQualityCurrencyx10",142,"",0,"10x Quality Currency","",864,"",0
+142,"RandomQualityCurrencyx20",143,"",0,"20x Quality Currency","",864,"",0
+143,"RandomRunex3",144,"",0,"3x Random Rune","",864,"",0
+144,"EssenceRandomGreaterx5",145,"",0,"5x Random Greater Essence","",864,"",0
+145,"EssenceRandomPerfectx5",146,"",0,"5x Random Perfect Essence","",864,"",0
+146,"EssenceRandomCorruptedx3",147,"",0,"3x Random Corrupted Essence","",865,"",0
+147,"DeliriumRandomEmotionx3",148,"",0,"3x Random Liquid Emotion","",864,"",0
+148,"DeliriumRandomEmotionx10",149,"",0,"10x Random Liquid Emotion","",865,"",0
+149,"BreachRandomCatalystx3",150,"",0,"3x Random Catalyst","",864,"",0
+150,"BreachRandomCatalystx5",151,"",0,"5x Random Catalyst","",864,"",0
+151,"BreachRandomCatalystx20",152,"",0,"20x Random Catalyst","",865,"",0
+152,"BreachHivebloodx10k",153,"",0,"10,000x Hiveblood",1,864,"",0
+153,"AbyssRandomBonex1",154,"",0,"Abyssal Bone","",864,"",0
+154,"AbyssRandomBonex5",155,"",0,"5x Abyssal Bone","",865,"",0
+155,"AbyssRandomAncientBonex1",156,"",0,"Ancient Abyssal Bone","",864,"",0
+156,"RitualRandomOmenx1",157,"",0,"Ritual Omen","",864,"",0
+157,"RitualRandomOmenx5",158,"",0,"5x Ritual Omen","",865,"",0
+158,"AtziriRandomCurrencyx1",159,"",0,"Atziri's Temple Currency","",865,"",0
+159,"AtziriRandomCurrencyx3",160,"",0,"3x Atziri's Temple Currency","",865,"",0
+160,"AtziriRandomSoulcorex1",161,"",0,"1x Soul Core","",864,"",0
+161,"AtziriRandomSoulcorex3",162,"",0,"3x Soul Core","",865,"",0
+162,"ExpeditionRandomFluxx1",163,"",0,"1x Resistance Modifying Flux","",864,"",0
+163,"ExpeditionRandomAlloyx1",164,"",0,"1x Alloy","",864,"",0
+164,"AzmeriRandomIdolx1",165,"",0,"1x Idol","",864,"",0
+165,"UniqueRing",166,"",0,"Unique Ring","",864,"",0
+166,"UniqueAmulet",167,"",0,"Unique Amulet","",864,"",0
+167,"UniqueBelt",168,"",0,"Unique Belt","",864,"",0
+168,"UniqueTablet",169,"",0,"Unique Tablet","",865,"",0
+169,"RandomLineageGem",170,"",0,"Lineage Gem","",864,"",0
+170,"NormalMaceExceptional",172,"",0,"Exceptional Mace","",865,"",0
+171,"NormalWandExceptional",174,"",0,"Exceptional Wand","",865,"",0
+172,"NormalSceptreExceptional",175,"",0,"Exceptional Sceptre","",865,"",0
+173,"NormalSpearExceptional",176,"",0,"Exceptional Spear","",865,"",0
+174,"NormalBowExceptional",177,"",0,"Exceptional Bow","",865,"",0
+175,"NormalStaffExceptional",178,"",0,"Exceptional Staff","",865,"",0
+176,"NormalQuarterstaffExceptional",179,"",0,"Exceptional Quarterstaff","",865,"",0
+177,"NormalCrossbowExceptional",180,"",0,"Exceptional Crossbow","",865,"",0
+178,"NormalTalismanExceptional",182,"",0,"Exceptional Talisman","",865,"",0
+179,"NormalBodyArmourStrExceptional",183,"",0,"Exceptional Armour Body Armour","",865,"",0
+180,"NormalBodyArmourDexExceptional",184,"",0,"Exceptional Evasion Body Armour","",865,"",0
+181,"NormalBodyArmourIntExceptional",185,"",0,"Exceptional Energy Shield Body Armour","",865,"",0
+182,"NormalBodyArmourStrDexExceptional",186,"",0,"Exceptional Armour/Evasion Body Armour","",865,"",0
+183,"NormalBodyArmourStrIntExceptional",187,"",0,"Exceptional Armour/Energy Shield Body Armour","",865,"",0
+184,"NormalBodyArmourDexIntExceptional",188,"",0,"Exceptional Evasion/Energy Shield Body Armour","",865,"",0
+185,"NormalHelmetStrExceptional",189,"",0,"Exceptional Armour Helmet","",865,"",0
+186,"NormalHelmetDexExceptional",190,"",0,"Exceptional Evasion Helmet","",865,"",0
+187,"NormalHelmetIntExceptional",191,"",0,"Exceptional Energy Shield Helmet","",865,"",0
+188,"NormalHelmetStrDexExceptional",192,"",0,"Exceptional Armour/Evasion Helmet","",865,"",0
+189,"NormalHelmetStrIntExceptional",193,"",0,"Exceptional Armour/Energy Shield Helmet","",865,"",0
+190,"NormalHelmetDexIntExceptional",194,"",0,"Exceptional Evasion/Energy Shield Helmet","",865,"",0
+191,"NormalGlovesStrExceptional",195,"",0,"Exceptional Armour Gloves","",865,"",0
+192,"NormalGlovesDexExceptional",196,"",0,"Exceptional Evasion Gloves","",865,"",0
+193,"NormalGlovesIntExceptional",197,"",0,"Exceptional Energy Shield Gloves","",865,"",0
+194,"NormalGlovesStrDexExceptional",198,"",0,"Exceptional Armour/Evasion Gloves","",865,"",0
+195,"NormalGlovesStrIntExceptional",199,"",0,"Exceptional Armour/Energy Shield Gloves","",865,"",0
+196,"NormalGlovesDexIntExceptional",200,"",0,"Exceptional Evasion/Energy Shield Gloves","",865,"",0
+197,"NormalBootsStrExceptional",201,"",0,"Exceptional Armour Boots","",865,"",0
+198,"NormalBootsDexExceptional",202,"",0,"Exceptional Evasion Boots","",865,"",0
+199,"NormalBootsIntExceptional",203,"",0,"Exceptional Energy Shield Boots","",865,"",0
+200,"NormalBootsStrDexExceptional",204,"",0,"Exceptional Armour/Evasion Boots","",865,"",0
+201,"NormalBootsStrIntExceptional",205,"",0,"Exceptional Armour/Energy Shield Boots","",865,"",0
+202,"NormalBootsDexIntExceptional",206,"",0,"Exceptional Evasion/Energy Shield Boots","",865,"",0
+203,"NormalTowerShieldExceptional",207,"",0,"Exceptional Tower Shield","",865,"",0
+204,"NormalBucklerExceptional",208,"",0,"Exceptional Buckler","",865,"",0
+205,"NormalFociExceptional",209,"",0,"Exceptional Foci","",865,"",0
+206,"NormalTargeExceptional",210,"",0,"Exceptional Targe","",865,"",0
+207,"NormalCrestShieldExceptional",211,"",0,"Exceptional Crest Shield","",865,"",0
+208,"NormalRingQuality",212,"",0,"Random 20% Quality Ring","",865,"",0
+209,"NormalAmuletQuality",213,"",0,"Random 20% Quality Amulet","",865,"",0
+210,"NormalJewelStrQuality",214,"",0,"Random 20% Quality Magic Ruby","",865,"",0
+211,"NormalJewelDexQuality",215,"",0,"Random 20% Quality Magic Emerald","",865,"",0
+212,"NormalJewelIntQuality",216,"",0,"Random 20% Quality Magic Sapphire","",865,"",0
+213,"MaceOneHandLocalAddedPhysicalDamage",235,"",0,"Flaring One-Hand Mace","",865,"",0
+214,"MaceOneHandLocalAddedFireDamage",236,"",0,"Carbonising One-Hand Mace","",864,"",0
+215,"MaceOneHandLocalAddedColdDamage",237,"",0,"Crystalising One-Hand Mace","",864,"",0
+216,"MaceOneHandLocalAddedLightningDamage",238,"",0,"Vapourising One-Hand Mace","",864,"",0
+217,"MaceOneHandLocalIncreasedPhysicalDamagePercent",239,"",0,"Merciless One-Hand Mace","",865,"",0
+218,"MaceOneHandGlobalMeleeSkillGemLevelWeapon",240,"",0,"One-Hand Mace of War","",865,"",0
+219,"MaceOneHandLocalIncreasedAttackSpeed",241,"",0,"One-Hand Mace of Celebration","",865,"",0
+220,"MaceOneHandLocalIncreasedCriticalStrikeChance",242,"",0,"One-Hand Mace of Unmaking",1,865,"",0
+221,"MaceOneHandLocalCriticalMultiplier",243,"",0,"One-Hand Mace of Destruction","",865,"",0
+222,"MaceTwoHandLocalAddedPhysicalDamageTwoHand",244,"",0,"Flaring Two-Hand Mace","",865,"",0
+223,"MaceTwoHandLocalAddedFireDamageTwoHand",245,"",0,"Carbonising Two-Hand Mace","",864,"",0
+224,"MaceTwoHandLocalAddedColdDamageTwoHand",246,"",0,"Crystalising Two-Hand Mace","",864,"",0
+225,"MaceTwoHandLocalAddedLightningDamageTwoHand",247,"",0,"Vapourising Two-Hand Mace","",864,"",0
+226,"MaceTwoHandLocalIncreasedPhysicalDamagePercent",248,"",0,"Merciless Two-Hand Mace","",865,"",0
+227,"MaceTwoHandGlobalMeleeSkillGemLevelTwoHandWeapon",249,"",0,"Two-Hand Mace of War","",865,"",0
+228,"MaceTwoHandLocalIncreasedAttackSpeed",250,"",0,"Two-Hand Mace of Celebration","",865,"",0
+229,"MaceTwoHandLocalIncreasedCriticalStrikeChance",251,"",0,"Two-Hand Mace of Unmaking",1,865,"",0
+230,"MaceTwoHandLocalCriticalMultiplier",252,"",0,"Two-Hand Mace of Destruction","",865,"",0
+231,"WandIncreasedMana",262,"",0,"Blue Wand","",864,"",0
+232,"WandSpellDamageOnWeapon",263,"",0,"Runic Wand","",865,"",0
+233,"WandSpellDamageGainedAsFire",264,"",0,"Flamebound Wand","",864,"",0
+234,"WandSpellDamageGainedAsCold",265,"",0,"Frostbound Wand","",864,"",0
+235,"WandSpellDamageGainedAsLightning",266,"",0,"Stormbound Wand","",864,"",0
+236,"WandGlobalSpellGemsLevelWeapon",267,"",0,"Wand of the Sorcerer","",865,"",0
+237,"WandIncreasedCastSpeed",268,"",0,"Wand of Finesse","",865,"",0
+238,"WandSpellCriticalStrikeChance",269,"",0,"Wand of Unmaking","",865,"",0
+239,"WandSpellCriticalStrikeMultiplier",270,"",0,"Wand of Destruction","",865,"",0
+240,"SceptreIncreasedMana",271,"",0,"Blue Sceptre","",864,"",0
+241,"SceptreNearbyAlliesAllDamage",272,"",0,"Empowering Sceptre","",865,"",0
+242,"SceptreLocalIncreasedSpiritPercent",273,"",0,"King's Sceptre","",865,"",0
+243,"SceptreGlobalMinionSpellSkillGemLevelWeapon",274,"",0,"Sceptre of the Slavedriver","",865,"",0
+244,"SceptreManaRegeneration",275,"",0,"Sceptre of Nirvana","",864,"",0
+245,"SceptreNearbyAlliesIncreasedAttackSpeed",276,"",0,"Sceptre of Renown","",864,"",0
+246,"SceptreNearbyAlliesIncreasedCastSpeed",277,"",0,"Sceptre of Sortilege","",864,"",0
+247,"SceptreNearbyAlliesCriticalStrikeChance",278,"",0,"Sceptre of Unmaking","",865,"",0
+248,"SceptreNearbyAlliesCriticalMultiplier",279,"",0,"Sceptre of Destruction","",865,"",0
+249,"SceptrePresenceRadius",280,"",0,"Sceptre of Influence","",864,"",0
+250,"SceptreMinionLife",281,"",0,"Sceptre of the Rector","",864,"",0
+251,"SpearLocalAddedPhysicalDamage",282,"",0,"Flaring Spear","",865,"",0
+252,"SpearLocalAddedFireDamage",283,"",0,"Carbonising Spear","",864,"",0
+253,"SpearLocalAddedColdDamage",284,"",0,"Crystalising Spear","",864,"",0
+254,"SpearLocalAddedLightningDamage",285,"",0,"Vapourising Spear","",864,"",0
+255,"SpearLocalIncreasedPhysicalDamagePercent",286,"",0,"Merciless Spear","",865,"",0
+256,"SpearLocalIncreasedAccuracy",287,"",0,"Amazon's Spear","",864,"",0
+257,"SpearGlobalMeleeSkillGemLevelWeapon",288,"",0,"Spear of War","",865,"",0
+258,"SpearGlobalProjectileSkillGemLevelWeapon",289,"",0,"Spear of the Sniper","",865,"",0
+259,"SpearLocalIncreasedAttackSpeed",290,"",0,"Spear of Celebration","",865,"",0
+260,"SpearLocalIncreasedCriticalStrikeChance",291,"",0,"Spear of Unmaking",1,865,"",0
+261,"SpearLocalCriticalMultiplier",292,"",0,"Spear of Destruction","",865,"",0
+262,"BowLocalAddedPhysicalDamage",293,"",0,"Flaring Bow","",865,"",0
+263,"BowLocalAddedFireDamage",294,"",0,"Carbonising Bow","",864,"",0
+264,"BowLocalAddedColdDamage",295,"",0,"Crystalising Bow","",864,"",0
+265,"BowLocalAddedLightningDamage",296,"",0,"Vapourising Bow","",864,"",0
+266,"BowLocalIncreasedPhysicalDamagePercent",297,"",0,"Merciless Bow","",865,"",0
+267,"BowGlobalProjectileSkillGemLevelWeapon",298,"",0,"Bow of the Sniper","",865,"",0
+268,"BowLocalIncreasedAttackSpeed",299,"",0,"Bow of Acclaim","",865,"",0
+269,"BowLocalIncreasedCriticalStrikeChance",300,"",0,"Bow of Unmaking",1,865,"",0
+270,"BowLocalCriticalMultiplier",301,"",0,"Bow of Destruction","",865,"",0
+271,"BowAdditionalArrowChance",302,"",0,"Bow of Many","",865,"",0
+272,"StaffIncreasedManaTwoHandWeapon",303,"",0,"Blue Staff","",864,"",0
+273,"StaffSpellDamageOnTwoHandWeapon",304,"",0,"Runic Staff","",865,"",0
+274,"StaffSpellDamageGainedAsFireTwoHand",305,"",0,"Flamebound Staff","",864,"",0
+275,"StaffSpellDamageGainedAsColdTwoHand",306,"",0,"Frostbound Staff","",864,"",0
+276,"StaffSpellDamageGainedAsLightningTwoHand",307,"",0,"Stormbound Staff","",864,"",0
+277,"StaffGlobalSpellGemsLevelTwoHandWeapon",308,"",0,"Staff of the Sorcerer","",865,"",0
+278,"StaffIncreasedCastSpeedTwoHand",309,"",0,"Staff of Finesse","",865,"",0
+279,"StaffSpellCriticalStrikeChanceTwoHand",310,"",0,"Staff of Unmaking","",865,"",0
+280,"StaffSpellCriticalStrikeMultiplierTwoHand",311,"",0,"Staff of Destruction","",865,"",0
+281,"QuarterstaffLocalAddedPhysicalDamageTwoHand",312,"",0,"Flaring Quarterstaff","",865,"",0
+282,"QuarterstaffLocalAddedFireDamageTwoHand",313,"",0,"Carbonising Quarterstaff","",864,"",0
+283,"QuarterstaffLocalAddedColdDamageTwoHand",314,"",0,"Crystalising Quarterstaff","",864,"",0
+284,"QuarterstaffLocalAddedLightningDamageTwoHand",315,"",0,"Vapourising Quarterstaff","",864,"",0
+285,"QuarterstaffLocalIncreasedPhysicalDamagePercent",316,"",0,"Merciless Quarterstaff","",865,"",0
+286,"QuarterstaffGlobalMeleeSkillGemLevelTwoHandWeapon",317,"",0,"Quarterstaff of War","",865,"",0
+287,"QuarterstaffLocalIncreasedAttackSpeed",318,"",0,"Quarterstaff of Celebration","",865,"",0
+288,"QuarterstaffLocalIncreasedCriticalStrikeChance",319,"",0,"Quarterstaff of Unmaking",1,865,"",0
+289,"QuarterstaffLocalCriticalMultiplier",320,"",0,"Quarterstaff of Destruction","",865,"",0
+290,"CrossbowLocalAddedPhysicalDamageTwoHand",321,"",0,"Flaring Crossbow","",865,"",0
+291,"CrossbowLocalAddedFireDamageTwoHand",322,"",0,"Carbonising Crossbow","",864,"",0
+292,"CrossbowLocalAddedColdDamageTwoHand",323,"",0,"Crystalising Crossbow","",864,"",0
+293,"CrossbowLocalAddedLightningDamageTwoHand",324,"",0,"Vapourising Crossbow","",864,"",0
+294,"CrossbowLocalIncreasedPhysicalDamagePercent",325,"",0,"Merciless Crossbow","",865,"",0
+295,"CrossbowGlobalProjectileSkillGemLevelTwoHandWeapon",326,"",0,"Crossbow of the Sniper","",865,"",0
+296,"CrossbowLocalIncreasedAttackSpeed",327,"",0,"Crossbow of Acclaim","",865,"",0
+297,"CrossbowLocalIncreasedCriticalStrikeChance",328,"",0,"Crossbow of Unmaking",1,865,"",0
+298,"CrossbowLocalCriticalMultiplier",329,"",0,"Crossbow of Destruction","",865,"",0
+299,"CrossbowAdditionalAmmo",330,"",0,"Crossbow of Bursting","",865,"",0
+300,"CrossbowGrenadeSkillAdditionalCooldownUse",331,"",0,"Crossbow of Ordnance","",865,"",0
+301,"TalismanLocalAddedPhysicalDamageTwoHand",341,"",0,"Flaring Talisman","",865,"",0
+302,"TalismanLocalAddedFireDamageTwoHand",342,"",0,"Carbonising Talisman","",864,"",0
+303,"TalismanLocalAddedColdDamageTwoHand",343,"",0,"Crystalising Talisman","",864,"",0
+304,"TalismanLocalAddedLightningDamageTwoHand",344,"",0,"Vapourising Talisman","",864,"",0
+305,"TalismanLocalIncreasedPhysicalDamagePercent",345,"",0,"Merciless Talisman","",865,"",0
+306,"TalismanGlobalMeleeSkillGemLevelTwoHandWeapon",346,"",0,"Talisman of War","",865,"",0
+307,"TalismanLocalIncreasedAttackSpeed",347,"",0,"Talisman of Celebration","",865,"",0
+308,"TalismanLocalIncreasedCriticalStrikeChance",348,"",0,"Talisman of Unmaking",1,865,"",0
+309,"TalismanLocalCriticalMultiplier",349,"",0,"Talisman of Destruction","",865,"",0
+310,"FociIncreasedMana",350,"",0,"Blue Foci","",864,"",0
+311,"FociLocalIncreasedEnergyShield",351,"",0,"Incandescent Foci","",864,"",0
+312,"FociLocalIncreasedEnergyShieldPercent",352,"",0,"Unfaltering Foci","",864,"",0
+313,"FociSpellDamageOnWeapon",353,"",0,"Incanter's Foci","",865,"",0
+314,"FociFireDamagePrefixOnWeapon",354,"",0,"Magmatic Foci","",865,"",0
+315,"FociColdDamagePrefixOnWeapon",355,"",0,"Arctic Foci","",865,"",0
+316,"FociLightningDamagePrefixOnWeapon",356,"",0,"Smiting Foci","",865,"",0
+317,"FociChaosDamagePrefixOnWeapon",357,"",0,"Vile Foci","",865,"",0
+318,"FociPhysicalDamagePrefixOnWeapon",358,"",0,"Agonising Foci","",865,"",0
+319,"FociFireResist",359,"",0,"Foci of Tzteosh","",864,"",0
+320,"FociColdResist",360,"",0,"Foci of Haast","",864,"",0
+321,"FociLightningResist",361,"",0,"Foci of Ephij","",864,"",0
+322,"FociChaosResist",362,"",0,"Foci of Bameth","",864,"",0
+323,"FociGlobalSpellGemsLevel",363,"",0,"Foci of the Enchanter","",865,"",0
+324,"FociIncreasedCastSpeed",364,"",0,"Foci of Prestidigitation","",864,"",0
+325,"FociSpellCriticalStrikeChance",365,"",0,"Foci of Ruin","",865,"",0
+326,"FociSpellCriticalStrikeMultiplier",366,"",0,"Foci of Ferocity","",865,"",0
+327,"FociEnergyShieldRechargeRate",367,"",0,"Foci of Suffusion","",864,"",0
+328,"QuiverAddedPhysicalDamage",368,"",0,"Flaring Quiver","",864,"",0
+329,"QuiverAddedFireDamage",369,"",0,"Cremating Quiver","",864,"",0
+330,"QuiverAddedColdDamage",370,"",0,"Entombing Quiver","",864,"",0
+331,"QuiverAddedLightningDamage",371,"",0,"Electrocuting Quiver","",864,"",0
+332,"QuiverProjectileSpeed",372,"",0,"Nimble Quiver","",864,"",0
+333,"QuiverDamageWithBows",373,"",0,"Impaling Quiver","",864,"",0
+334,"QuiverDexterity",374,"",0,"Quiver of the Phantom","",864,"",0
+335,"QuiverGlobalProjectileSkillGemLevel",375,"",0,"Quiver of the Archer","",864,"",0
+336,"QuiverIncreasedAttackSpeed",376,"",0,"Quiver of Renown","",865,"",0
+337,"QuiverAttackCriticalStrikeMultiplier",377,"",0,"Quiver of Destruction","",865,"",0
+338,"QuiverArrowPierceChance",378,"",0,"Quiver of Penetrating","",864,"",0
+339,"QuiverAdditionalArrowChanceQuiver",379,"",0,"Quiver of Splintering","",865,"",0
+340,"AmuletIncreasedLife",380,"",0,"Athlete's Amulet","",864,"",0
+341,"AmuletMaximumLifeIncrease",381,"",0,"Confident Amulet","",865,"",0
+342,"AmuletIncreasedMana",382,"",0,"Zaffre Amulet","",864,"",0
+343,"AmuletMaximumManaIncrease",383,"",0,"Mnemonic Amulet","",865,"",0
+344,"AmuletIncreasedEnergyShield",384,"",0,"Incandescent Amulet","",864,"",0
+345,"AmuletIncreasedPhysicalDamageReductionRatingPercent",385,"",0,"Impregnable Amulet","",864,"",0
+346,"AmuletIncreasedEvasionRatingPercent",386,"",0,"Mirage's Amulet","",864,"",0
+347,"AmuletIncreasedEnergyShieldPercent",387,"",0,"Unassailable Amulet","",864,"",0
+348,"AmuletIncreasedSpirit",388,"",0,"Countess' Amulet","",865,"",0
+349,"AmuletSpellDamage",389,"",0,"Incanter's Amulet","",864,"",0
+350,"AmuletStrength",390,"",0,"Amulet of the Titan","",864,"",0
+351,"AmuletDexterity",391,"",0,"Amulet of the Phantom","",864,"",0
+352,"AmuletIntelligence",392,"",0,"Amulet of the Virtuoso","",864,"",0
+353,"AmuletAllAttributes",393,"",0,"Amulet of the Infinite","",864,"",0
+354,"AmuletFireResist",394,"",0,"Amulet of Tzteosh","",864,"",0
+355,"AmuletColdResist",395,"",0,"Amulet of Haast","",864,"",0
+356,"AmuletLightningResist",396,"",0,"Amulet of Ephij","",864,"",0
+357,"AmuletAllResistances",397,"",0,"Amulet of the Span","",864,"",0
+358,"AmuletChaosResist",398,"",0,"Amulet of Bameth","",864,"",0
+359,"AmuletGlobalSpellGemsLevel",399,"",0,"Amulet of the Sorcerer","",865,"",0
+360,"AmuletGlobalMinionSpellSkillGemLevel",400,"",0,"Amulet of the Overseer","",865,"",0
+361,"AmuletGlobalMeleeSkillGemLevel",401,"",0,"Amulet of Battle","",865,"",0
+362,"AmuletGlobalProjectileSkillGemLevel",402,"",0,"Amulet of the Sharpshooter","",865,"",0
+363,"AmuletCriticalStrikeChance",403,"",0,"Amulet of Unmaking","",865,"",0
+364,"AmuletCriticalMultiplier",404,"",0,"Amulet of Destruction","",865,"",0
+365,"AmuletItemFoundRarityIncrease",405,"",0,"Amulet of Archaeology","",864,"",0
+366,"AmuletDamageTakenGainedAsLife",406,"",0,"Amulet of Fleshbinding","",864,"",0
+367,"AmuletDamageTakenGainedAsMana",407,"",0,"Amulet of Zen","",864,"",0
+368,"AmuletCastSpeedJewellery",408,"",0,"Amulet of Prestidigitation","",865,"",0
+369,"RingIncreasedLife",409,"",0,"Virile Ring","",864,"",0
+370,"RingIncreasedMana",410,"",0,"Zaffre Ring","",864,"",0
+371,"RingIncreasedEvasionRating",411,"",0,"Adroit Ring","",864,"",0
+372,"RingAddedPhysicalDamage",412,"",0,"Flaring Ring","",864,"",0
+373,"RingAddedFireDamage",413,"",0,"Cremating Ring","",864,"",0
+374,"RingAddedColdDamage",414,"",0,"Entombing Ring","",864,"",0
+375,"RingAddedLightningDamage",415,"",0,"Electrocuting Ring","",864,"",0
+376,"RingFireDamagePercent",416,"",0,"Magmatic Ring","",864,"",0
+377,"RingColdDamagePercent",417,"",0,"Crystalline Ring","",864,"",0
+378,"RingLightningDamagePercent",418,"",0,"Smiting Ring","",864,"",0
+379,"RingChaosDamagePercent",419,"",0,"Vile Ring","",864,"",0
+380,"RingStrength",420,"",0,"Ring of the Titan","",864,"",0
+381,"RingDexterity",421,"",0,"Ring of the Phantom","",864,"",0
+382,"RingIntelligence",422,"",0,"Ring of the Virtuoso","",864,"",0
+383,"RingAllAttributes",423,"",0,"Ring of the Comet","",864,"",0
+384,"RingFireResist",424,"",0,"Ring of Tzteosh","",864,"",0
+385,"RingColdResist",425,"",0,"Ring of Haast","",864,"",0
+386,"RingLightningResist",426,"",0,"Ring of Ephij","",864,"",0
+387,"RingAllResistances",427,"",0,"Ring of the Rainbow","",864,"",0
+388,"RingChaosResist",428,"",0,"Ring of Bameth","",864,"",0
+389,"RingLifeLeech",429,"",0,"Ring of the Remora","",864,"",0
+390,"RingManaLeech",430,"",0,"Ring of the Arid","",864,"",0
+391,"RingItemFoundRarityIncrease",431,"",0,"Ring of Archaeology","",864,"",0
+392,"RingCastSpeedJewellery",432,"",0,"Ring of Legerdemain","",864,"",0
+393,"BeltIncreasedLife",433,"",0,"Fecund Belt","",864,"",0
+394,"BeltIncreasedMana",434,"",0,"Chalybeous Belt","",864,"",0
+395,"BeltIncreasedPhysicalDamageReductionRating",435,"",0,"Unmoving Belt","",864,"",0
+396,"BeltStrength",436,"",0,"Belt of the Gods","",864,"",0
+397,"BeltFireResist",437,"",0,"Belt of Tzteosh","",864,"",0
+398,"BeltColdResist",438,"",0,"Belt of Haast","",864,"",0
+399,"BeltLightningResist",439,"",0,"Belt of Ephij","",864,"",0
+400,"BeltChaosResist",440,"",0,"Belt of Bameth","",864,"",0
+401,"TowerMonsterEffectiveness",441,"",0,"Challenger's Tablet","",865,"",0
+402,"TowerDroppedItemRarityIncrease",442,"",0,"Collector's Tablet","",865,"",0
+403,"TowerPackSizeIncrease",443,"",0,"Breeding Tablet","",865,"",0
+404,"TowerMagicPackIncrease",444,"",0,"Teeming Tablet","",865,"",0
+405,"TowerRarePackIncrease",445,"",0,"Brimming Tablet","",865,"",0
+406,"TowerMonsterRarityIncrease",446,"",0,"Abounding Tablet","",865,"",0
+407,"TowerDroppedGoldIncrease",447,"",0,"Bountiful Tablet","",865,"",0
+408,"TowerExperienceGainIncrease",448,"",0,"Elevated Tablet","",865,"",0
+409,"TowerMapDroppedMapsIncrease",449,"",0,"Tablet of the Cartographer","",865,"",0
+410,"TowerAdditionalShrine",450,"",0,"Tablet of the Devoted","",865,"",0
+411,"TowerAdditionalStrongbox",451,"",0,"Tablet of the Antiquarian","",865,"",0
+412,"TowerAdditionalEssence",452,"",0,"Crystallised Tablet","",865,"",0
+413,"TowerAdditionalAzmeriWisp",453,"",0,"Azmeri's Tablet","",865,"",0
+414,"TowerAdditionalExile",454,"",0,"Exiled Tablet","",865,"",0
+415,"TowerAdditionalStoneCircle",455,"",0,"Summoner's Tablet","",865,"",0
+416,"TowerMapAdditionalModifier",456,"",0,"Tablet of Undertaking","",865,"",0
+417,"TowerMapAdditionalUniqueMonsterModifier",457,"",0,"Tablet of Contest","",865,"",0
+418,"TowerBreachHivebloodQuantity",458,"",0,"Breach Tablet of the Flow","",865,"",0
+419,"TowerBreachWombgiftQuantity",459,"",0,"Breach Tablet of the Form","",865,"",0
+420,"TowerBreachWombgiftLevelChance",460,"",0,"Breach Tablet of the Flesh","",865,"",0
+421,"TowerBreachBossChance",461,"",0,"Breach Tablet of the Commander","",865,"",0
+422,"TowerBreachAdditionalRares",462,"",0,"Breach Tablet of the Invasion","",865,"",0
+423,"TowerBreachRareMonsterPotency",463,"",0,"Breach Tablet of the Hand","",865,"",0
+424,"TowerBreachMonsterQuantity",464,"",0,"Breach Tablet of the Horde","",865,"",0
+425,"TowerExpeditionExplosionRadius",465,"",0,"Expedition Tablet of the Demolition","",865,"",0
+426,"TowerExpeditionLogbookIncrease",466,"",0,"Expedition Tablet of Knowledge","",865,"",0
+427,"TowerExpeditionRunicMonsters",467,"",0,"Expedition Tablet of Runes","",865,"",0
+428,"TowerExpeditionIncreasedVerisium",468,"",0,"Expedition Tablet of Verisium","",865,"",0
+429,"TowerExpeditionUnearthedRares",469,"",0,"Expedition Tablet of Ancient Evil","",865,"",0
+430,"TowerExpeditionAdditionalSentinels",470,"",0,"Expedition Tablet of Sentinels","",865,"",0
+431,"TowerExpeditionIncreasedMonsterRarity",471,"",0,"Expedition Tablet of Power","",865,"",0
+432,"TowerExpeditionFrozenBosses",472,"",0,"Expedition Tablet of Preservation","",865,"",0
+433,"TowerExpeditionBuriedStrongboxes",473,"",0,"Expedition Tablet of Treasure","",865,"",0
+434,"TowerExpeditionVaalRemnants",474,"",0,"Expedition Tablet of the Past","",865,"",0
+435,"TowerExpeditionChanceForVerisiumRemnant",475,"",0,"Expedition Tablet of Remnants","",865,"",0
+436,"TowerExpeditionChanceForTwinnedElites",476,"",0,"Expedition Tablet of Twins","",865,"",0
+437,"TowerExpedition2RunicModPassoverChance",477,"",0,"Expedition Tablet of Ancient Fiends","",865,"",0
+438,"TowerDeliriumMonsterSplinterIncrease",478,"",0,"Delirium Tablet of the Simulacrum","",865,"",0
+439,"TowerDeliriumDifficultyIncrease",479,"",0,"Delirium Tablet of Madness","",865,"",0
+440,"TowerDeliriumPackSizeIncrease",480,"",0,"Delirium Tablet of Persecution","",865,"",0
+441,"TowerDeliriumDoodadsIncrease",481,"",0,"Delirium Tablet of Mirrors","",865,"",0
+442,"TowerDeliriumBossChance",482,"",0,"Delirium Tablet of Phobia","",865,"",0
+443,"TowerDeliriumAdditionalShardsChance",483,"",0,"Delirium Tablet of Shattering","",865,"",0
+444,"TowerRitualTributeIncrease",484,"",0,"Ritual Tablet of Sacrifice","",865,"",0
+445,"TowerRitualRerollCostIncrease",485,"",0,"Ritual Tablet of the Dogma","",865,"",0
+446,"TowerRitualDeferCostIncrease",486,"",0,"Ritual Tablet of Devotion","",865,"",0
+447,"TowerRitualAdditionalReroll",487,"",0,"Ritual Tablet of Prayers","",865,"",0
+448,"TowerRitualChanceForNoCost",488,"",0,"Ritual Tablet of the Occult","",865,"",0
+449,"TowerRitualRareMonsters",489,"",0,"Ritual Tablet of the Foundling","",865,"",0
+450,"TowerRitualOmenChance",490,"",0,"Ritual Tablet of Omens","",865,"",0
+451,"TowerMapBossAdditionalStrongbox",491,"",0,"Overseer Tablet of Compartments","",865,"",0
+452,"TowerMapBossAdditionalShrine",492,"",0,"Overseer Tablet of Worship","",865,"",0
+453,"TowerMapBossAdditionalEssence",493,"",0,"Overseer Tablet of Crystals","",865,"",0
+454,"TowerMapBossAdditionalSpirit",494,"",0,"Overseer Tablet of Wisps","",865,"",0
+455,"TowerMapBossWaystoneChance",495,"",0,"Overseer Tablet of Pathways","",865,"",0
+456,"TowerMapBossExperience",496,"",0,"Overseer Tablet of Conquering","",865,"",0
+457,"TowerMapBossRarity",497,"",0,"Overseer Tablet of Treasure","",865,"",0
+458,"TowerMapBossQuantity",498,"",0,"Overseer Tablet of Hoards","",865,"",0
+459,"BodyArmourStrIncreasedLife",499,"",0,"Prime Armour Body Armour","",864,"",0
+460,"BodyArmourStrIncreasedSpirit",500,"",0,"Queen's Armour Body Armour","",865,"",0
+461,"BodyArmourStrFireResist",501,"",0,"Armour Body Armour of Tzteosh","",864,"",0
+462,"BodyArmourStrColdResist",502,"",0,"Armour Body Armour of Haast","",864,"",0
+463,"BodyArmourStrLightningResist",503,"",0,"Armour Body Armour of Ephij","",864,"",0
+464,"BodyArmourStrChaosResist",504,"",0,"Armour Body Armour of Bameth","",864,"",0
+465,"BodyArmourStrLocalIncreasedPhysicalDamageReductionRating",505,"",0,"Impervious Armour Body Armour","",864,"",0
+466,"BodyArmourStrLocalIncreasedPhysicalDamageReductionRatingPercent",506,"",0,"Impenetrable Armour Body Armour","",864,"",0
+467,"BodyArmourStrArmourAppliesToElementalDamage",507,"",0,"Armour Body Armour of Thermokryptance","",864,"",0
+468,"BodyArmourDexIncreasedLife",508,"",0,"Prime Evasion Body Armour","",864,"",0
+469,"BodyArmourDexIncreasedSpirit",509,"",0,"Queen's Evasion Body Armour","",865,"",0
+470,"BodyArmourDexFireResist",510,"",0,"Evasion Body Armour of Tzteosh","",864,"",0
+471,"BodyArmourDexColdResist",511,"",0,"Evasion Body Armour of Haast","",864,"",0
+472,"BodyArmourDexLightningResist",512,"",0,"Evasion Body Armour of Ephij","",864,"",0
+473,"BodyArmourDexChaosResist",513,"",0,"Evasion Body Armour of Bameth","",864,"",0
+474,"BodyArmourDexLocalIncreasedEvasionRating",514,"",0,"Fugitive Evasion Body Armour","",864,"",0
+475,"BodyArmourDexLocalIncreasedEvasionRatingPercent",515,"",0,"Illusion's Evasion Body Armour","",864,"",0
+476,"BodyArmourDexEvasionGrantsDeflection",516,"",0,"Evasion Body Armour of Warping","",864,"",0
+477,"BodyArmourIntIncreasedLife",517,"",0,"Prime Energy Shield Body Armour","",864,"",0
+478,"BodyArmourIntIncreasedSpirit",518,"",0,"Queen's Energy Shield Body Armour","",865,"",0
+479,"BodyArmourIntFireResist",519,"",0,"Energy Shield Body Armour of Tzteosh","",864,"",0
+480,"BodyArmourIntColdResist",520,"",0,"Energy Shield Body Armour of Haast","",864,"",0
+481,"BodyArmourIntLightningResist",521,"",0,"Energy Shield Body Armour of Ephij","",864,"",0
+482,"BodyArmourIntChaosResist",522,"",0,"Energy Shield Body Armour of Bameth","",864,"",0
+483,"BodyArmourIntLocalIncreasedEnergyShield",523,"",0,"Resplendent Energy Shield Body Armour","",864,"",0
+484,"BodyArmourIntLocalIncreasedEnergyShieldPercent",524,"",0,"Unfaltering Energy Shield Body Armour","",864,"",0
+485,"BodyArmourIntEnergyShieldRechargeRate",525,"",0,"Energy Shield Body Armour of Suffusion","",864,"",0
+486,"BodyArmourStrDexIncreasedLife",526,"",0,"Prime Armour/Evasion Body Armour","",864,"",0
+487,"BodyArmourStrDexIncreasedSpirit",527,"",0,"Queen's Armour/Evasion Body Armour","",865,"",0
+488,"BodyArmourStrDexFireResist",528,"",0,"Armour/Evasion Body Armour of Tzteosh","",864,"",0
+489,"BodyArmourStrDexColdResist",529,"",0,"Armour/Evasion Body Armour of Haast","",864,"",0
+490,"BodyArmourStrDexLightningResist",530,"",0,"Armour/Evasion Body Armour of Ephij","",864,"",0
+491,"BodyArmourStrDexChaosResist",531,"",0,"Armour/Evasion Body Armour of Bameth","",864,"",0
+492,"BodyArmourStrDexLocalBaseArmourAndEvasionRating",532,"",0,"Versatile Armour/Evasion Body Armour","",864,"",0
+493,"BodyArmourStrDexLocalIncreasedArmourAndEvasion",533,"",0,"Victor's Armour/Evasion Body Armour","",864,"",0
+494,"BodyArmourStrDexArmourAppliesToElementalDamage",534,"",0,"Armour/Evasion Body Armour of Thermokryptance","",864,"",0
+495,"BodyArmourStrDexEvasionGrantsDeflection",535,"",0,"Armour/Evasion Body Armour of Warping","",864,"",0
+496,"BodyArmourStrIntIncreasedLife",536,"",0,"Prime Armour/Energy Shield Body Armour","",864,"",0
+497,"BodyArmourStrIntIncreasedSpirit",537,"",0,"Queen's Armour/Energy Shield Body Armour","",865,"",0
+498,"BodyArmourStrIntFireResist",538,"",0,"Armour/Energy Shield Body Armour of Tzteosh","",864,"",0
+499,"BodyArmourStrIntColdResist",539,"",0,"Armour/Energy Shield Body Armour of Haast","",864,"",0
+500,"BodyArmourStrIntLightningResist",540,"",0,"Armour/Energy Shield Body Armour of Ephij","",864,"",0
+501,"BodyArmourStrIntChaosResist",541,"",0,"Armour/Energy Shield Body Armour of Bameth","",864,"",0
+502,"BodyArmourStrIntLocalBaseArmourAndEnergyShield",542,"",0,"Godly Armour/Energy Shield Body Armour","",864,"",0
+503,"BodyArmourStrIntLocalIncreasedArmourAndEnergyShield",543,"",0,"Interpermeated Armour/Energy Shield Body Armour","",864,"",0
+504,"BodyArmourStrIntArmourAppliesToElementalDamage",544,"",0,"Armour/Energy Shield Body Armour of Thermokryptance","",864,"",0
+505,"BodyArmourStrIntEnergyShieldRechargeRate",545,"",0,"Armour/Energy Shield Body Armour of Suffusion","",864,"",0
+506,"BodyArmourDexIntIncreasedLife",546,"",0,"Prime Evasion/Energy Shield Body Armour","",864,"",0
+507,"BodyArmourDexIntIncreasedSpirit",547,"",0,"Queen's Evasion/Energy Shield Body Armour","",865,"",0
+508,"BodyArmourDexIntFireResist",548,"",0,"Evasion/Energy Shield Body Armour of Tzteosh","",864,"",0
+509,"BodyArmourDexIntColdResist",549,"",0,"Evasion/Energy Shield Body Armour of Haast","",864,"",0
+510,"BodyArmourDexIntLightningResist",550,"",0,"Evasion/Energy Shield Body Armour of Ephij","",864,"",0
+511,"BodyArmourDexIntChaosResist",551,"",0,"Evasion/Energy Shield Body Armour of Bameth","",864,"",0
+512,"BodyArmourDexIntLocalBaseEvasionRatingAndEnergyShield",552,"",0,"Banshee's Evasion/Energy Shield Body Armour","",864,"",0
+513,"BodyArmourDexIntLocalIncreasedEvasionAndEnergyShield",553,"",0,"Incorporeal Evasion/Energy Shield Body Armour","",864,"",0
+514,"BodyArmourDexIntEvasionGrantsDeflection",554,"",0,"Evasion/Energy Shield Body Armour of Warping","",864,"",0
+515,"BodyArmourDexIntEnergyShieldRechargeRate",555,"",0,"Evasion/Energy Shield Body Armour of Suffusion","",864,"",0
+516,"HelmetStrIncreasedLife",556,"",0,"Fecund Armour Helmet","",864,"",0
+517,"HelmetStrIncreasedMana",557,"",0,"Mazarine Armour Helmet","",864,"",0
+518,"HelmetStrFireResist",558,"",0,"Armour Helmet of Tzteosh","",864,"",0
+519,"HelmetStrColdResist",559,"",0,"Armour Helmet of Haast","",864,"",0
+520,"HelmetStrLightningResist",560,"",0,"Armour Helmet of Ephij","",864,"",0
+521,"HelmetStrChaosResist",561,"",0,"Armour Helmet of Bameth","",864,"",0
+522,"HelmetStrGlobalMinionSpellSkillGemLevel",562,"",0,"Armour Helmet of the Despot","",865,"",0
+523,"HelmetStrCriticalStrikeChance",563,"",0,"Armour Helmet of Ruin","",864,"",0
+524,"HelmetStrItemFoundRarityIncrease",564,"",0,"Armour Helmet of Archaeology","",864,"",0
+525,"HelmetStrLocalIncreasedPhysicalDamageReductionRating",565,"",0,"Enveloped Armour Helmet","",864,"",0
+526,"HelmetStrLocalIncreasedPhysicalDamageReductionRatingPercent",566,"",0,"Impregnable Armour Helmet","",864,"",0
+527,"HelmetStrArmourAppliesToElementalDamage",567,"",0,"Armour Helmet of Furring","",864,"",0
+528,"HelmetDexIncreasedLife",568,"",0,"Fecund Evasion Helmet","",864,"",0
+529,"HelmetDexIncreasedMana",569,"",0,"Mazarine Evasion Helmet","",864,"",0
+530,"HelmetDexFireResist",570,"",0,"Evasion Helmet of Tzteosh","",864,"",0
+531,"HelmetDexColdResist",571,"",0,"Evasion Helmet of Haast","",864,"",0
+532,"HelmetDexLightningResist",572,"",0,"Evasion Helmet of Ephij","",864,"",0
+533,"HelmetDexChaosResist",573,"",0,"Evasion Helmet of Bameth","",864,"",0
+534,"HelmetDexGlobalMinionSpellSkillGemLevel",574,"",0,"Evasion Helmet of the Despot","",865,"",0
+535,"HelmetDexCriticalStrikeChance",575,"",0,"Evasion Helmet of Ruin","",864,"",0
+536,"HelmetDexItemFoundRarityIncrease",576,"",0,"Evasion Helmet of Archaeology","",864,"",0
+537,"HelmetDexLocalIncreasedEvasionRating",577,"",0,"Elusory Evasion Helmet","",864,"",0
+538,"HelmetDexLocalIncreasedEvasionRatingPercent",578,"",0,"Mirage's Evasion Helmet","",864,"",0
+539,"HelmetDexEvasionGrantsDeflection",579,"",0,"Evasion Helmet of Flexure","",864,"",0
+540,"HelmetIntIncreasedLife",580,"",0,"Fecund Energy Shield Helmet","",864,"",0
+541,"HelmetIntIncreasedMana",581,"",0,"Mazarine Energy Shield Helmet","",864,"",0
+542,"HelmetIntFireResist",582,"",0,"Energy Shield Helmet of Tzteosh","",864,"",0
+543,"HelmetIntColdResist",583,"",0,"Energy Shield Helmet of Haast","",864,"",0
+544,"HelmetIntLightningResist",584,"",0,"Energy Shield Helmet of Ephij","",864,"",0
+545,"HelmetIntChaosResist",585,"",0,"Energy Shield Helmet of Bameth","",864,"",0
+546,"HelmetIntGlobalMinionSpellSkillGemLevel",586,"",0,"Energy Shield Helmet of the Despot","",865,"",0
+547,"HelmetIntCriticalStrikeChance",587,"",0,"Energy Shield Helmet of Ruin","",864,"",0
+548,"HelmetIntItemFoundRarityIncrease",588,"",0,"Energy Shield Helmet of Archaeology","",864,"",0
+549,"HelmetIntLocalIncreasedEnergyShield",589,"",0,"Dazzling Energy Shield Helmet","",864,"",0
+550,"HelmetIntLocalIncreasedEnergyShieldPercent",590,"",0,"Unassailable Energy Shield Helmet","",864,"",0
+551,"HelmetIntEnergyShieldRechargeRate",591,"",0,"Energy Shield Helmet of Buffering","",864,"",0
+552,"HelmetStrDexIncreasedLife",592,"",0,"Fecund Armour/Evasion Helmet","",864,"",0
+553,"HelmetStrDexIncreasedMana",593,"",0,"Mazarine Armour/Evasion Helmet","",864,"",0
+554,"HelmetStrDexFireResist",594,"",0,"Armour/Evasion Helmet of Tzteosh","",864,"",0
+555,"HelmetStrDexColdResist",595,"",0,"Armour/Evasion Helmet of Haast","",864,"",0
+556,"HelmetStrDexLightningResist",596,"",0,"Armour/Evasion Helmet of Ephij","",864,"",0
+557,"HelmetStrDexChaosResist",597,"",0,"Armour/Evasion Helmet of Bameth","",864,"",0
+558,"HelmetStrDexGlobalMinionSpellSkillGemLevel",598,"",0,"Armour/Evasion Helmet of the Despot","",865,"",0
+559,"HelmetStrDexCriticalStrikeChance",599,"",0,"Armour/Evasion Helmet of Ruin","",864,"",0
+560,"HelmetStrDexItemFoundRarityIncrease",600,"",0,"Armour/Evasion Helmet of Archaeology","",864,"",0
+561,"HelmetStrDexLocalBaseArmourAndEvasionRating",601,"",0,"Sturdy Armour/Evasion Helmet","",864,"",0
+562,"HelmetStrDexLocalIncreasedArmourAndEvasion",602,"",0,"Legend's Armour/Evasion Helmet","",864,"",0
+563,"HelmetStrDexArmourAppliesToElementalDamage",603,"",0,"Armour/Evasion Helmet of Furring","",864,"",0
+564,"HelmetStrDexEvasionGrantsDeflection",604,"",0,"Armour/Evasion Helmet of Flexure","",864,"",0
+565,"HelmetStrIntIncreasedLife",605,"",0,"Fecund Armour/Energy Shield Helmet","",864,"",0
+566,"HelmetStrIntIncreasedMana",606,"",0,"Mazarine Armour/Energy Shield Helmet","",864,"",0
+567,"HelmetStrIntFireResist",607,"",0,"Armour/Energy Shield Helmet of Tzteosh","",864,"",0
+568,"HelmetStrIntColdResist",608,"",0,"Armour/Energy Shield Helmet of Haast","",864,"",0
+569,"HelmetStrIntLightningResist",609,"",0,"Armour/Energy Shield Helmet of Ephij","",864,"",0
+570,"HelmetStrIntChaosResist",610,"",0,"Armour/Energy Shield Helmet of Bameth","",864,"",0
+571,"HelmetStrIntGlobalMinionSpellSkillGemLevel",611,"",0,"Armour/Energy Shield Helmet of the Despot","",865,"",0
+572,"HelmetStrIntCriticalStrikeChance",612,"",0,"Armour/Energy Shield Helmet of Ruin","",864,"",0
+573,"HelmetStrIntItemFoundRarityIncrease",613,"",0,"Armour/Energy Shield Helmet of Archaeology","",864,"",0
+574,"HelmetStrIntLocalBaseArmourAndEnergyShield",614,"",0,"Beatified Armour/Energy Shield Helmet","",864,"",0
+575,"HelmetStrIntLocalIncreasedArmourAndEnergyShield",615,"",0,"Inspired Armour/Energy Shield Helmet","",864,"",0
+576,"HelmetStrIntArmourAppliesToElementalDamage",616,"",0,"Armour/Energy Shield Helmet of Furring","",864,"",0
+577,"HelmetStrIntEnergyShieldRechargeRate",617,"",0,"Armour/Energy Shield Helmet of Buffering","",864,"",0
+578,"HelmetDexIntIncreasedLife",618,"",0,"Fecund Evasion/Energy Shield Helmet","",864,"",0
+579,"HelmetDexIntIncreasedMana",619,"",0,"Mazarine Evasion/Energy Shield Helmet","",864,"",0
+580,"HelmetDexIntFireResist",620,"",0,"Evasion/Energy Shield Helmet of Tzteosh","",864,"",0
+581,"HelmetDexIntColdResist",621,"",0,"Evasion/Energy Shield Helmet of Haast","",864,"",0
+582,"HelmetDexIntLightningResist",622,"",0,"Evasion/Energy Shield Helmet of Ephij","",864,"",0
+583,"HelmetDexIntChaosResist",623,"",0,"Evasion/Energy Shield Helmet of Bameth","",864,"",0
+584,"HelmetDexIntGlobalMinionSpellSkillGemLevel",624,"",0,"Evasion/Energy Shield Helmet of the Despot","",865,"",0
+585,"HelmetDexIntCriticalStrikeChance",625,"",0,"Evasion/Energy Shield Helmet of Ruin","",864,"",0
+586,"HelmetDexIntItemFoundRarityIncrease",626,"",0,"Evasion/Energy Shield Helmet of Archaeology","",864,"",0
+587,"HelmetDexIntLocalBaseEvasionRatingAndEnergyShield",627,"",0,"Spirit's Evasion/Energy Shield Helmet","",864,"",0
+588,"HelmetDexIntLocalIncreasedEvasionAndEnergyShield",628,"",0,"Illusory Evasion/Energy Shield Helmet","",864,"",0
+589,"HelmetDexIntEvasionGrantsDeflection",629,"",0,"Evasion/Energy Shield Helmet of Flexure","",864,"",0
+590,"HelmetDexIntEnergyShieldRechargeRate",630,"",0,"Evasion/Energy Shield Helmet of Buffering","",864,"",0
+591,"GlovesStrIncreasedLife",631,"",0,"Athlete's Armour Gloves","",864,"",0
+592,"GlovesStrIncreasedMana",632,"",0,"Chalybeous Armour Gloves","",864,"",0
+593,"GlovesStrAddedPhysicalDamage",633,"",0,"Flaring Armour Gloves","",864,"",0
+594,"GlovesStrAddedFireDamage",634,"",0,"Cremating Armour Gloves","",864,"",0
+595,"GlovesStrAddedColdDamage",635,"",0,"Entombing Armour Gloves","",864,"",0
+596,"GlovesStrAddedLightningDamage",636,"",0,"Electrocuting Armour Gloves","",864,"",0
+597,"GlovesStrFireResist",637,"",0,"Armour Gloves of Tzteosh","",864,"",0
+598,"GlovesStrColdResist",638,"",0,"Armour Gloves of Haast","",864,"",0
+599,"GlovesStrLightningResist",639,"",0,"Armour Gloves of Ephij","",864,"",0
+600,"GlovesStrChaosResist",640,"",0,"Armour Gloves of Bameth","",864,"",0
+601,"GlovesStrGlobalMeleeSkillGemLevel",641,"",0,"Armour Gloves of Dueling","",865,"",0
+602,"GlovesStrLifeLeech",642,"",0,"Armour Gloves of the Vampire","",864,"",0
+603,"GlovesStrManaLeech",643,"",0,"Armour Gloves of the Desperate","",864,"",0
+604,"GlovesStrIncreasedAttackSpeed",644,"",0,"Armour Gloves of Renown","",864,"",0
+605,"GlovesStrCriticalStrikeChance",645,"",0,"Armour Gloves of Ruin","",864,"",0
+606,"GlovesStrItemFoundRarityIncrease",646,"",0,"Armour Gloves of Archaeology","",864,"",0
+607,"GlovesStrLocalIncreasedPhysicalDamageReductionRating",647,"",0,"Encased Armour Gloves","",864,"",0
+608,"GlovesStrLocalIncreasedPhysicalDamageReductionRatingPercent",648,"",0,"Impregnable Armour Gloves","",864,"",0
+609,"GlovesStrArmourAppliesToElementalDamage",649,"",0,"Armour Gloves of Furring","",864,"",0
+610,"GlovesDexIncreasedLife",650,"",0,"Athlete's Evasion Gloves","",864,"",0
+611,"GlovesDexIncreasedMana",651,"",0,"Chalybeous Evasion Gloves","",864,"",0
+612,"GlovesDexAddedPhysicalDamage",652,"",0,"Flaring Evasion Gloves","",864,"",0
+613,"GlovesDexAddedFireDamage",653,"",0,"Cremating Evasion Gloves","",864,"",0
+614,"GlovesDexAddedColdDamage",654,"",0,"Entombing Evasion Gloves","",864,"",0
+615,"GlovesDexAddedLightningDamage",655,"",0,"Electrocuting Evasion Gloves","",864,"",0
+616,"GlovesDexFireResist",656,"",0,"Evasion Gloves of Tzteosh","",864,"",0
+617,"GlovesDexColdResist",657,"",0,"Evasion Gloves of Haast","",864,"",0
+618,"GlovesDexLightningResist",658,"",0,"Evasion Gloves of Ephij","",864,"",0
+619,"GlovesDexChaosResist",659,"",0,"Evasion Gloves of Bameth","",864,"",0
+620,"GlovesDexGlobalMeleeSkillGemLevel",660,"",0,"Evasion Gloves of Dueling","",865,"",0
+621,"GlovesDexLifeLeech",661,"",0,"Evasion Gloves of the Vampire","",864,"",0
+622,"GlovesDexManaLeech",662,"",0,"Evasion Gloves of the Desperate","",864,"",0
+623,"GlovesDexIncreasedAttackSpeed",663,"",0,"Evasion Gloves of Renown","",864,"",0
+624,"GlovesDexCriticalStrikeChance",664,"",0,"Evasion Gloves of Ruin","",864,"",0
+625,"GlovesDexItemFoundRarityIncrease",665,"",0,"Evasion Gloves of Archaeology","",864,"",0
+626,"GlovesDexLocalIncreasedEvasionRating",666,"",0,"Vaporous Evasion Gloves","",864,"",0
+627,"GlovesDexLocalIncreasedEvasionRatingPercent",667,"",0,"Mirage's Evasion Gloves","",864,"",0
+628,"GlovesDexEvasionGrantsDeflection",668,"",0,"Evasion Gloves of Flexure","",864,"",0
+629,"GlovesIntIncreasedLife",669,"",0,"Athlete's Energy Shield Gloves","",864,"",0
+630,"GlovesIntIncreasedMana",670,"",0,"Chalybeous Energy Shield Gloves","",864,"",0
+631,"GlovesIntAddedPhysicalDamage",671,"",0,"Flaring Energy Shield Gloves","",864,"",0
+632,"GlovesIntAddedFireDamage",672,"",0,"Cremating Energy Shield Gloves","",864,"",0
+633,"GlovesIntAddedColdDamage",673,"",0,"Entombing Energy Shield Gloves","",864,"",0
+634,"GlovesIntAddedLightningDamage",674,"",0,"Electrocuting Energy Shield Gloves","",864,"",0
+635,"GlovesIntFireResist",675,"",0,"Energy Shield Gloves of Tzteosh","",864,"",0
+636,"GlovesIntColdResist",676,"",0,"Energy Shield Gloves of Haast","",864,"",0
+637,"GlovesIntLightningResist",677,"",0,"Energy Shield Gloves of Ephij","",864,"",0
+638,"GlovesIntChaosResist",678,"",0,"Energy Shield Gloves of Bameth","",864,"",0
+639,"GlovesIntGlobalMeleeSkillGemLevel",679,"",0,"Energy Shield Gloves of Dueling","",865,"",0
+640,"GlovesIntLifeLeech",680,"",0,"Energy Shield Gloves of the Vampire","",864,"",0
+641,"GlovesIntManaLeech",681,"",0,"Energy Shield Gloves of the Desperate","",864,"",0
+642,"GlovesIntIncreasedAttackSpeed",682,"",0,"Energy Shield Gloves of Renown","",864,"",0
+643,"GlovesIntCriticalStrikeChance",683,"",0,"Energy Shield Gloves of Ruin","",864,"",0
+644,"GlovesIntItemFoundRarityIncrease",684,"",0,"Energy Shield Gloves of Archaeology","",864,"",0
+645,"GlovesIntLocalIncreasedEnergyShield",685,"",0,"Blazing Energy Shield Gloves","",864,"",0
+646,"GlovesIntLocalIncreasedEnergyShieldPercent",686,"",0,"Unassailable Energy Shield Gloves","",864,"",0
+647,"GlovesIntEnergyShieldRechargeRate",687,"",0,"Energy Shield Gloves of Buffering","",864,"",0
+648,"GlovesStrDexIncreasedLife",688,"",0,"Athlete's Armour/Evasion Gloves","",864,"",0
+649,"GlovesStrDexIncreasedMana",689,"",0,"Chalybeous Armour/Evasion Gloves","",864,"",0
+650,"GlovesStrDexAddedPhysicalDamage",690,"",0,"Flaring Armour/Evasion Gloves","",864,"",0
+651,"GlovesStrDexAddedFireDamage",691,"",0,"Cremating Armour/Evasion Gloves","",864,"",0
+652,"GlovesStrDexAddedColdDamage",692,"",0,"Entombing Armour/Evasion Gloves","",864,"",0
+653,"GlovesStrDexAddedLightningDamage",693,"",0,"Electrocuting Armour/Evasion Gloves","",864,"",0
+654,"GlovesStrDexFireResist",694,"",0,"Armour/Evasion Gloves of Tzteosh","",864,"",0
+655,"GlovesStrDexColdResist",695,"",0,"Armour/Evasion Gloves of Haast","",864,"",0
+656,"GlovesStrDexLightningResist",696,"",0,"Armour/Evasion Gloves of Ephij","",864,"",0
+657,"GlovesStrDexChaosResist",697,"",0,"Armour/Evasion Gloves of Bameth","",864,"",0
+658,"GlovesStrDexGlobalMeleeSkillGemLevel",698,"",0,"Armour/Evasion Gloves of Dueling","",865,"",0
+659,"GlovesStrDexLifeLeech",699,"",0,"Armour/Evasion Gloves of the Vampire","",864,"",0
+660,"GlovesStrDexManaLeech",700,"",0,"Armour/Evasion Gloves of the Desperate","",864,"",0
+661,"GlovesStrDexIncreasedAttackSpeed",701,"",0,"Armour/Evasion Gloves of Renown","",864,"",0
+662,"GlovesStrDexCriticalStrikeChance",702,"",0,"Armour/Evasion Gloves of Ruin","",864,"",0
+663,"GlovesStrDexItemFoundRarityIncrease",703,"",0,"Armour/Evasion Gloves of Archaeology","",864,"",0
+664,"GlovesStrDexLocalBaseArmourAndEvasionRating",704,"",0,"Durable Armour/Evasion Gloves","",864,"",0
+665,"GlovesStrDexLocalIncreasedArmourAndEvasion",705,"",0,"Legend's Armour/Evasion Gloves","",864,"",0
+666,"GlovesStrDexArmourAppliesToElementalDamage",706,"",0,"Armour/Evasion Gloves of Furring","",864,"",0
+667,"GlovesStrDexEvasionGrantsDeflection",707,"",0,"Armour/Evasion Gloves of Flexure","",864,"",0
+668,"GlovesStrIntIncreasedLife",708,"",0,"Athlete's Armour/Energy Shield Gloves","",864,"",0
+669,"GlovesStrIntIncreasedMana",709,"",0,"Chalybeous Armour/Energy Shield Gloves","",864,"",0
+670,"GlovesStrIntAddedPhysicalDamage",710,"",0,"Flaring Armour/Energy Shield Gloves","",864,"",0
+671,"GlovesStrIntAddedFireDamage",711,"",0,"Cremating Armour/Energy Shield Gloves","",864,"",0
+672,"GlovesStrIntAddedColdDamage",712,"",0,"Entombing Armour/Energy Shield Gloves","",864,"",0
+673,"GlovesStrIntAddedLightningDamage",713,"",0,"Electrocuting Armour/Energy Shield Gloves","",864,"",0
+674,"GlovesStrIntFireResist",714,"",0,"Armour/Energy Shield Gloves of Tzteosh","",864,"",0
+675,"GlovesStrIntColdResist",715,"",0,"Armour/Energy Shield Gloves of Haast","",864,"",0
+676,"GlovesStrIntLightningResist",716,"",0,"Armour/Energy Shield Gloves of Ephij","",864,"",0
+677,"GlovesStrIntChaosResist",717,"",0,"Armour/Energy Shield Gloves of Bameth","",864,"",0
+678,"GlovesStrIntGlobalMeleeSkillGemLevel",718,"",0,"Armour/Energy Shield Gloves of Dueling","",865,"",0
+679,"GlovesStrIntLifeLeech",719,"",0,"Armour/Energy Shield Gloves of the Vampire","",864,"",0
+680,"GlovesStrIntManaLeech",720,"",0,"Armour/Energy Shield Gloves of the Desperate","",864,"",0
+681,"GlovesStrIntIncreasedAttackSpeed",721,"",0,"Armour/Energy Shield Gloves of Renown","",864,"",0
+682,"GlovesStrIntCriticalStrikeChance",722,"",0,"Armour/Energy Shield Gloves of Ruin","",864,"",0
+683,"GlovesStrIntItemFoundRarityIncrease",723,"",0,"Armour/Energy Shield Gloves of Archaeology","",864,"",0
+684,"GlovesStrIntLocalBaseArmourAndEnergyShield",724,"",0,"Hallowed Armour/Energy Shield Gloves","",864,"",0
+685,"GlovesStrIntLocalIncreasedArmourAndEnergyShield",725,"",0,"Inspired Armour/Energy Shield Gloves","",864,"",0
+686,"GlovesStrIntArmourAppliesToElementalDamage",726,"",0,"Armour/Energy Shield Gloves of Furring","",864,"",0
+687,"GlovesStrIntEnergyShieldRechargeRate",727,"",0,"Armour/Energy Shield Gloves of Buffering","",864,"",0
+688,"GlovesDexIntIncreasedLife",728,"",0,"Athlete's Evasion/Energy Shield Gloves","",864,"",0
+689,"GlovesDexIntIncreasedMana",729,"",0,"Chalybeous Evasion/Energy Shield Gloves","",864,"",0
+690,"GlovesDexIntAddedPhysicalDamage",730,"",0,"Flaring Evasion/Energy Shield Gloves","",864,"",0
+691,"GlovesDexIntAddedFireDamage",731,"",0,"Cremating Evasion/Energy Shield Gloves","",864,"",0
+692,"GlovesDexIntAddedColdDamage",732,"",0,"Entombing Evasion/Energy Shield Gloves","",864,"",0
+693,"GlovesDexIntAddedLightningDamage",733,"",0,"Electrocuting Evasion/Energy Shield Gloves","",864,"",0
+694,"GlovesDexIntFireResist",734,"",0,"Evasion/Energy Shield Gloves of Tzteosh","",864,"",0
+695,"GlovesDexIntColdResist",735,"",0,"Evasion/Energy Shield Gloves of Haast","",864,"",0
+696,"GlovesDexIntLightningResist",736,"",0,"Evasion/Energy Shield Gloves of Ephij","",864,"",0
+697,"GlovesDexIntChaosResist",737,"",0,"Evasion/Energy Shield Gloves of Bameth","",864,"",0
+698,"GlovesDexIntGlobalMeleeSkillGemLevel",738,"",0,"Evasion/Energy Shield Gloves of Dueling","",865,"",0
+699,"GlovesDexIntLifeLeech",739,"",0,"Evasion/Energy Shield Gloves of the Vampire","",864,"",0
+700,"GlovesDexIntManaLeech",740,"",0,"Evasion/Energy Shield Gloves of the Desperate","",864,"",0
+701,"GlovesDexIntIncreasedAttackSpeed",741,"",0,"Evasion/Energy Shield Gloves of Renown","",864,"",0
+702,"GlovesDexIntCriticalStrikeChance",742,"",0,"Evasion/Energy Shield Gloves of Ruin","",864,"",0
+703,"GlovesDexIntItemFoundRarityIncrease",743,"",0,"Evasion/Energy Shield Gloves of Archaeology","",864,"",0
+704,"GlovesDexIntLocalBaseEvasionRatingAndEnergyShield",744,"",0,"Cherub's Evasion/Energy Shield Gloves","",864,"",0
+705,"GlovesDexIntLocalIncreasedEvasionAndEnergyShield",745,"",0,"Illusory Evasion/Energy Shield Gloves","",864,"",0
+706,"GlovesDexIntEvasionGrantsDeflection",746,"",0,"Evasion/Energy Shield Gloves of Flexure","",864,"",0
+707,"GlovesDexIntEnergyShieldRechargeRate",747,"",0,"Evasion/Energy Shield Gloves of Buffering","",864,"",0
+708,"BootsStrIncreasedLife",748,"",0,"Athlete's Armour Boots","",864,"",0
+709,"BootsStrIncreasedMana",749,"",0,"Chalybeous Armour Boots","",864,"",0
+710,"BootsStrMovementVelocity",750,"",0,"Hellion's Armour Boots","",864,"",0
+711,"BootsStrFireResist",751,"",0,"Armour Boots of Tzteosh","",864,"",0
+712,"BootsStrColdResist",752,"",0,"Armour Boots of Haast","",864,"",0
+713,"BootsStrLightningResist",753,"",0,"Armour Boots of Ephij","",864,"",0
+714,"BootsStrChaosResist",754,"",0,"Armour Boots of Bameth","",864,"",0
+715,"BootsStrItemFoundRarityIncrease",755,"",0,"Armour Boots of Archaeology","",864,"",0
+716,"BootsStrLocalIncreasedPhysicalDamageReductionRating",756,"",0,"Encased Armour Boots","",864,"",0
+717,"BootsStrLocalIncreasedPhysicalDamageReductionRatingPercent",757,"",0,"Impregnable Armour Boots","",864,"",0
+718,"BootsStrArmourAppliesToElementalDamage",758,"",0,"Armour Boots of Furring","",864,"",0
+719,"BootsDexIncreasedLife",759,"",0,"Athlete's Evasion Boots","",864,"",0
+720,"BootsDexIncreasedMana",760,"",0,"Chalybeous Evasion Boots","",864,"",0
+721,"BootsDexMovementVelocity",761,"",0,"Hellion's Evasion Boots","",864,"",0
+722,"BootsDexFireResist",762,"",0,"Evasion Boots of Tzteosh","",864,"",0
+723,"BootsDexColdResist",763,"",0,"Evasion Boots of Haast","",864,"",0
+724,"BootsDexLightningResist",764,"",0,"Evasion Boots of Ephij","",864,"",0
+725,"BootsDexChaosResist",765,"",0,"Evasion Boots of Bameth","",864,"",0
+726,"BootsDexItemFoundRarityIncrease",766,"",0,"Evasion Boots of Archaeology","",864,"",0
+727,"BootsDexLocalIncreasedEvasionRating",767,"",0,"Vaporous Evasion Boots","",864,"",0
+728,"BootsDexLocalIncreasedEvasionRatingPercent",768,"",0,"Mirage's Evasion Boots","",864,"",0
+729,"BootsDexEvasionGrantsDeflection",769,"",0,"Evasion Boots of Flexure","",864,"",0
+730,"BootsIntIncreasedLife",770,"",0,"Athlete's Energy Shield Boots","",864,"",0
+731,"BootsIntIncreasedMana",771,"",0,"Chalybeous Energy Shield Boots","",864,"",0
+732,"BootsIntMovementVelocity",772,"",0,"Hellion's Energy Shield Boots","",864,"",0
+733,"BootsIntFireResist",773,"",0,"Energy Shield Boots of Tzteosh","",864,"",0
+734,"BootsIntColdResist",774,"",0,"Energy Shield Boots of Haast","",864,"",0
+735,"BootsIntLightningResist",775,"",0,"Energy Shield Boots of Ephij","",864,"",0
+736,"BootsIntChaosResist",776,"",0,"Energy Shield Boots of Bameth","",864,"",0
+737,"BootsIntItemFoundRarityIncrease",777,"",0,"Energy Shield Boots of Archaeology","",864,"",0
+738,"BootsIntLocalIncreasedEnergyShield",778,"",0,"Blazing Energy Shield Boots","",864,"",0
+739,"BootsIntLocalIncreasedEnergyShieldPercent",779,"",0,"Unassailable Energy Shield Boots","",864,"",0
+740,"BootsIntEnergyShieldRechargeRate",780,"",0,"Energy Shield Boots of Buffering","",864,"",0
+741,"BootsStrDexIncreasedLife",781,"",0,"Athlete's Armour/Evasion Boots","",864,"",0
+742,"BootsStrDexIncreasedMana",782,"",0,"Chalybeous Armour/Evasion Boots","",864,"",0
+743,"BootsStrDexMovementVelocity",783,"",0,"Hellion's Armour/Evasion Boots","",864,"",0
+744,"BootsStrDexFireResist",784,"",0,"Armour/Evasion Boots of Tzteosh","",864,"",0
+745,"BootsStrDexColdResist",785,"",0,"Armour/Evasion Boots of Haast","",864,"",0
+746,"BootsStrDexLightningResist",786,"",0,"Armour/Evasion Boots of Ephij","",864,"",0
+747,"BootsStrDexChaosResist",787,"",0,"Armour/Evasion Boots of Bameth","",864,"",0
+748,"BootsStrDexItemFoundRarityIncrease",788,"",0,"Armour/Evasion Boots of Archaeology","",864,"",0
+749,"BootsStrDexLocalBaseArmourAndEvasionRating",789,"",0,"Durable Armour/Evasion Boots","",864,"",0
+750,"BootsStrDexLocalIncreasedArmourAndEvasion",790,"",0,"Legend's Armour/Evasion Boots","",864,"",0
+751,"BootsStrDexArmourAppliesToElementalDamage",791,"",0,"Armour/Evasion Boots of Furring","",864,"",0
+752,"BootsStrDexEvasionGrantsDeflection",792,"",0,"Armour/Evasion Boots of Flexure","",864,"",0
+753,"BootsStrIntIncreasedLife",793,"",0,"Athlete's Armour/Energy Shield Boots","",864,"",0
+754,"BootsStrIntIncreasedMana",794,"",0,"Chalybeous Armour/Energy Shield Boots","",864,"",0
+755,"BootsStrIntMovementVelocity",795,"",0,"Hellion's Armour/Energy Shield Boots","",864,"",0
+756,"BootsStrIntFireResist",796,"",0,"Armour/Energy Shield Boots of Tzteosh","",864,"",0
+757,"BootsStrIntColdResist",797,"",0,"Armour/Energy Shield Boots of Haast","",864,"",0
+758,"BootsStrIntLightningResist",798,"",0,"Armour/Energy Shield Boots of Ephij","",864,"",0
+759,"BootsStrIntChaosResist",799,"",0,"Armour/Energy Shield Boots of Bameth","",864,"",0
+760,"BootsStrIntItemFoundRarityIncrease",800,"",0,"Armour/Energy Shield Boots of Archaeology","",864,"",0
+761,"BootsStrIntLocalBaseArmourAndEnergyShield",801,"",0,"Hallowed Armour/Energy Shield Boots","",864,"",0
+762,"BootsStrIntLocalIncreasedArmourAndEnergyShield",802,"",0,"Inspired Armour/Energy Shield Boots","",864,"",0
+763,"BootsStrIntArmourAppliesToElementalDamage",803,"",0,"Armour/Energy Shield Boots of Furring","",864,"",0
+764,"BootsStrIntEnergyShieldRechargeRate",804,"",0,"Armour/Energy Shield Boots of Buffering","",864,"",0
+765,"BootsDexIntIncreasedLife",805,"",0,"Athlete's Evasion/Energy Shield Boots","",864,"",0
+766,"BootsDexIntIncreasedMana",806,"",0,"Chalybeous Evasion/Energy Shield Boots","",864,"",0
+767,"BootsDexIntMovementVelocity",807,"",0,"Hellion's Evasion/Energy Shield Boots","",864,"",0
+768,"BootsDexIntFireResist",808,"",0,"Evasion/Energy Shield Boots of Tzteosh","",864,"",0
+769,"BootsDexIntColdResist",809,"",0,"Evasion/Energy Shield Boots of Haast","",864,"",0
+770,"BootsDexIntLightningResist",810,"",0,"Evasion/Energy Shield Boots of Ephij","",864,"",0
+771,"BootsDexIntChaosResist",811,"",0,"Evasion/Energy Shield Boots of Bameth","",864,"",0
+772,"BootsDexIntItemFoundRarityIncrease",812,"",0,"Evasion/Energy Shield Boots of Archaeology","",864,"",0
+773,"BootsDexIntLocalBaseEvasionRatingAndEnergyShield",813,"",0,"Cherub's Evasion/Energy Shield Boots","",864,"",0
+774,"BootsDexIntLocalIncreasedEvasionAndEnergyShield",814,"",0,"Illusory Evasion/Energy Shield Boots","",864,"",0
+775,"BootsDexIntEvasionGrantsDeflection",815,"",0,"Evasion/Energy Shield Boots of Flexure","",864,"",0
+776,"BootsDexIntEnergyShieldRechargeRate",816,"",0,"Evasion/Energy Shield Boots of Buffering","",864,"",0
+777,"ShieldStrIncreasedLife",817,"",0,"Vigorous Tower Shield","",864,"",0
+778,"ShieldStrLocalBlockChance",818,"",0,"Adamant Tower Shield","",864,"",0
+779,"ShieldStrFireResist",819,"",0,"Tower Shield of Tzteosh","",864,"",0
+780,"ShieldStrColdResist",820,"",0,"Tower Shield of Haast","",864,"",0
+781,"ShieldStrLightningResist",821,"",0,"Tower Shield of Ephij","",864,"",0
+782,"ShieldStrChaosResist",822,"",0,"Tower Shield of Bameth","",864,"",0
+783,"ShieldStrMaximumFireResist",823,"",0,"Tower Shield of the Solar Storm","",864,"",0
+784,"ShieldStrMaximumColdResist",824,"",0,"Tower Shield of the Mammoth","",864,"",0
+785,"ShieldStrMaximumLightningResist",825,"",0,"Tower Shield of the Lightning Rod","",864,"",0
+786,"ShieldStrMaximumChaosResist",826,"",0,"Tower Shield of Harmony","",865,"",0
+787,"ShieldStrMaximumElementalResistance",827,"",0,"Tower Shield of the Everlasting","",865,"",0
+788,"ShieldStrLocalIncreasedPhysicalDamageReductionRating",828,"",0,"Unmoving Tower Shield","",864,"",0
+789,"ShieldStrLocalIncreasedPhysicalDamageReductionRatingPercent",829,"",0,"Impenetrable Tower Shield","",864,"",0
+790,"ShieldStrArmourAppliesToElementalDamage",830,"",0,"Tower Shield of Thermokryptance","",864,"",0
+791,"ShieldDexIncreasedLife",831,"",0,"Vigorous Buckler","",864,"",0
+792,"ShieldDexLocalBlockChance",832,"",0,"Adamant Buckler","",864,"",0
+793,"ShieldDexFireResist",833,"",0,"Buckler of Tzteosh","",864,"",0
+794,"ShieldDexColdResist",834,"",0,"Buckler of Haast","",864,"",0
+795,"ShieldDexLightningResist",835,"",0,"Buckler of Ephij","",864,"",0
+796,"ShieldDexChaosResist",836,"",0,"Buckler of Bameth","",864,"",0
+797,"ShieldDexMaximumFireResist",837,"",0,"Buckler of the Solar Storm","",864,"",0
+798,"ShieldDexMaximumColdResist",838,"",0,"Buckler of the Mammoth","",864,"",0
+799,"ShieldDexMaximumLightningResist",839,"",0,"Buckler of the Lightning Rod","",864,"",0
+800,"ShieldDexMaximumChaosResist",840,"",0,"Buckler of Harmony","",865,"",0
+801,"ShieldDexMaximumElementalResistance",841,"",0,"Buckler of the Everlasting","",865,"",0
+802,"ShieldDexLocalIncreasedEvasionRating",842,"",0,"Lissome Buckler","",864,"",0
+803,"ShieldDexLocalIncreasedEvasionRatingPercent",843,"",0,"Illusion's Buckler","",864,"",0
+804,"ShieldDexEvasionGrantsDeflection",844,"",0,"Buckler of Warping","",864,"",0
+805,"ShieldStrDexIncreasedLife",845,"",0,"Vigorous Targe","",864,"",0
+806,"ShieldStrDexLocalBlockChance",846,"",0,"Adamant Targe","",864,"",0
+807,"ShieldStrDexFireResist",847,"",0,"Targe of Tzteosh","",864,"",0
+808,"ShieldStrDexColdResist",848,"",0,"Targe of Haast","",864,"",0
+809,"ShieldStrDexLightningResist",849,"",0,"Targe of Ephij","",864,"",0
+810,"ShieldStrDexChaosResist",850,"",0,"Targe of Bameth","",864,"",0
+811,"ShieldStrDexMaximumFireResist",851,"",0,"Targe of the Solar Storm","",864,"",0
+812,"ShieldStrDexMaximumColdResist",852,"",0,"Targe of the Mammoth","",864,"",0
+813,"ShieldStrDexMaximumLightningResist",853,"",0,"Targe of the Lightning Rod","",864,"",0
+814,"ShieldStrDexMaximumChaosResist",854,"",0,"Targe of Harmony","",865,"",0
+815,"ShieldStrDexMaximumElementalResistance",855,"",0,"Targe of the Everlasting","",865,"",0
+816,"ShieldStrDexLocalBaseArmourAndEvasionRating",856,"",0,"Adaptable Targe","",864,"",0
+817,"ShieldStrDexLocalIncreasedArmourAndEvasion",857,"",0,"Victor's Targe","",864,"",0
+818,"ShieldStrDexArmourAppliesToElementalDamage",858,"",0,"Targe of Thermokryptance","",864,"",0
+819,"ShieldStrDexEvasionGrantsDeflection",859,"",0,"Targe of Warping","",864,"",0
+820,"ShieldStrIntIncreasedLife",860,"",0,"Vigorous Crest Shield","",864,"",0
+821,"ShieldStrIntLocalBlockChance",861,"",0,"Adamant Crest Shield","",864,"",0
+822,"ShieldStrIntFireResist",862,"",0,"Crest Shield of Tzteosh","",864,"",0
+823,"ShieldStrIntColdResist",863,"",0,"Crest Shield of Haast","",864,"",0
+824,"ShieldStrIntLightningResist",864,"",0,"Crest Shield of Ephij","",864,"",0
+825,"ShieldStrIntChaosResist",865,"",0,"Crest Shield of Bameth","",864,"",0
+826,"ShieldStrIntMaximumFireResist",866,"",0,"Crest Shield of the Solar Storm","",864,"",0
+827,"ShieldStrIntMaximumColdResist",867,"",0,"Crest Shield of the Mammoth","",864,"",0
+828,"ShieldStrIntMaximumLightningResist",868,"",0,"Crest Shield of the Lightning Rod","",864,"",0
+829,"ShieldStrIntMaximumChaosResist",869,"",0,"Crest Shield of Harmony","",865,"",0
+830,"ShieldStrIntMaximumElementalResistance",870,"",0,"Crest Shield of the Everlasting","",865,"",0
+831,"ShieldStrIntLocalBaseArmourAndEnergyShield",871,"",0,"Saintly Crest Shield","",864,"",0
+832,"ShieldStrIntLocalIncreasedArmourAndEnergyShield",872,"",0,"Interpermeated Crest Shield","",864,"",0
+833,"ShieldStrIntAllResistances",873,"",0,"Crest Shield of the Span","",864,"",0
+834,"ShieldStrIntArmourAppliesToElementalDamage",874,"",0,"Crest Shield of Thermokryptance","",864,"",0
+835,"ShieldStrIntEnergyShieldRechargeRate",875,"",0,"Crest Shield of Suffusion","",864,"",0
+836,"WandFireFireDamagePrefixOnWeapon",876,"",0,"Pyromancer's Wand","",865,"",0
+837,"WandFireGlobalFireSpellGemsLevelWeapon",877,"",0,"Wand of Inferno","",865,"",0
+838,"WandColdColdDamagePrefixOnWeapon",878,"",0,"Cryomancer's Wand","",865,"",0
+839,"WandColdGlobalColdSpellGemsLevelWeapon",879,"",0,"Wand of Frostbite","",865,"",0
+840,"WandLightningLightningDamagePrefixOnWeapon",880,"",0,"Electromancer's Wand","",865,"",0
+841,"WandLightningGlobalLightningSpellGemsLevelWeapon",881,"",0,"Wand of Thunder","",865,"",0
+842,"WandChaosChaosDamagePrefixOnWeapon",882,"",0,"Malevolent Wand","",865,"",0
+843,"WandChaosGlobalChaosSpellGemsLevelWeapon",883,"",0,"Wand of Armageddon","",865,"",0
+844,"WandPhysPhysicalDamagePrefixOnWeapon",884,"",0,"Torturer's Wand","",865,"",0
+845,"WandPhysGlobalPhysicalSpellGemsLevelWeapon",885,"",0,"Wand of Grief","",865,"",0
+846,"StaffFireFireDamagePrefixOnTwoHandWeapon",886,"",0,"Pyromancer's Fire Staff","",865,"",0
+847,"StaffFireGlobalFireSpellGemsLevelTwoHandWeapon",887,"",0,"Fire Staff of Inferno","",865,"",0
+848,"StaffColdColdDamagePrefixOnTwoHandWeapon",888,"",0,"Cryomancer's Cold Staff","",865,"",0
+849,"StaffColdGlobalColdSpellGemsLevelTwoHandWeapon",889,"",0,"Cold Staff of Frostbite","",865,"",0
+850,"StaffLightningLightningDamagePrefixOnTwoHandWeapon",890,"",0,"Electromancer's Lightning Staff","",865,"",0
+851,"StaffLightningGlobalLightningSpellGemsLevelTwoHandWeapon",891,"",0,"Lightning Staff of Thunder","",865,"",0
+852,"StaffChaosChaosDamagePrefixOnTwoHandWeapon",892,"",0,"Malevolent Chaos Staff","",865,"",0
+853,"StaffChaosGlobalChaosSpellGemsLevelTwoHandWeapon",893,"",0,"Chaos Staff of Armageddon","",865,"",0
+854,"StaffPhysPhysicalDamagePrefixOnTwoHandWeapon",894,"",0,"Torturer's Physical Staff","",865,"",0
+855,"StaffPhysGlobalPhysicalSpellGemsLevelTwoHandWeapon",895,"",0,"Physical Staff of Grief","",865,"",0
+856,"Bramblejack",896,"",0,"Bramblejack","",864,"",0
+857,"Blackbraid",897,"",0,"Blackbraid","",864,"",0
+858,"EdyrnsTusks",898,"",0,"Edyrn's Tusks","",864,"",0
+859,"TitanrotCataphract",899,"",0,"Titanrot Cataphract","",864,"",0
+860,"WanderingReliquary",900,"",0,"Wandering Reliquary","",864,"",0
+861,"Kingsguard",901,"",0,"Kingsguard","",864,"",0
+862,"GreedsEmbrace",902,"",0,"Greed's Embrace","",864,"",0
+863,"TheBrassDome",903,"",0,"The Brass Dome","",864,"",0
+864,"KaomsHeart",904,"",0,"Kaom's Heart","",865,"",0
+865,"Bristleboar",905,"",0,"Bristleboar","",864,"",0
+866,"Foxshade",906,"",0,"Foxshade","",864,"",0
+867,"Ashrend",907,"",0,"Ashrend","",864,"",0
+868,"SandsofSilk",908,"",0,"Sands of Silk","",864,"",0
+869,"Briskwrap",909,"",0,"Briskwrap","",864,"",0
+870,"Dustbloom",910,"",0,"Dustbloom","",864,"",0
+871,"TheRatCage",911,"",0,"The Rat Cage","",864,"",0
+872,"QuatlsMolt",912,"",0,"Quatl's Molt","",864,"",0
+873,"QueenoftheForest",913,"",0,"Queen of the Forest","",865,"",0
+874,"YrielsFostering",914,"",0,"Yriel's Fostering","",864,"",0
+875,"HyrrisIre",915,"",0,"Hyrri's Ire","",865,"",0
+876,"Ghostwrithe",916,"",0,"Ghostwrithe","",864,"",0
+877,"Bitterbloom",917,"",0,"Bitterbloom","",864,"",0
+878,"TheBlackDoubt",918,"",0,"The Black Doubt","",864,"",0
+879,"Necromantle",919,"",0,"Necromantle","",864,"",0
+880,"CloakofFlame",920,"",0,"Cloak of Flame","",864,"",0
+881,"PrayersforRain",921,"",0,"Prayers for Rain","",864,"",0
+882,"TetzlapokalsDesire",922,"",0,"Tetzlapokal's Desire","",864,"",0
+883,"TheCovenant",923,"",0,"The Covenant","",865,"",0
+884,"Gloamgown",924,"",0,"Gloamgown","",864,"",0
+885,"VisMortis",925,"",0,"Vis Mortis","",864,"",0
+886,"CloakofDefiance",926,"",0,"Cloak of Defiance","",864,"",0
+887,"SilksofVeneration",927,"",0,"Silks of Veneration","",865,"",0
+888,"CoatofRed",928,"",0,"Coat of Red","",864,"",0
+889,"TheBarrowDweller",929,"",0,"The Barrow Dweller","",864,"",0
+890,"Irongrasp",930,"",0,"Irongrasp","",864,"",0
+891,"PariahsEmbrace",931,"",0,"Pariah's Embrace","",864,"",0
+892,"BellyoftheBeast",932,"",0,"Belly of the Beast","",864,"",0
+893,"DoryanisPrototype",933,"",0,"Doryani's Prototype","",864,"",0
+894,"WidowsReign",934,"",0,"Widow's Reign","",864,"",0
+895,"LightningCoil",935,"",0,"Lightning Coil","",864,"",0
+896,"TheComingCalamity",936,"",0,"The Coming Calamity","",864,"",0
+897,"TheSunkenVessel",937,"",0,"The Sunken Vessel","",864,"",0
+898,"EnfoldingDawn",938,"",0,"Enfolding Dawn","",864,"",0
+899,"Icetomb",939,"",0,"Icetomb","",864,"",0
+900,"HuskofDreams",940,"",0,"Reverie","",864,"",0
+901,"VollsProtector",941,"",0,"Voll's Protector","",864,"",0
+902,"SoulMantle",942,"",0,"Soul Mantle","",864,"",0
+903,"TheMutableStar",943,"",0,"The Mutable Star","",864,"",0
+904,"Waveshaper",944,"",0,"Waveshaper","",864,"",0
+905,"CoutureofCrimson",945,"",0,"Couture of Crimson","",864,"",0
+906,"GeofrisSanctuary",946,"",0,"Geofri's Sanctuary","",864,"",0
+907,"Sacrosanctum",947,"",0,"Sacrosanctum","",864,"",0
+908,"ApronofEmiran",948,"",0,"Apron of Emiran","",864,"",0
+909,"Gloomform",949,"",0,"Gloomform","",864,"",0
+910,"SierranInheritance",950,"",0,"Sierran Inheritance","",864,"",0
+911,"VowofNaoma",951,"",0,"Vow of Naoma","",864,"",0
+912,"RedflareConduit",952,"",0,"Redflare Conduit","",864,"",0
+913,"ZerphisSerape",953,"",0,"Zerphi's Serape","",865,"",0
+914,"CosprisWill",954,"",0,"Cospri's Will","",864,"",0
+915,"TabulaRasa",955,"",0,"Tabula Rasa","",865,"",0
+916,"HornsofBynden",956,"",0,"Horns of Bynden","",864,"",0
+917,"WingsofCaelyn",957,"",0,"Wings of Caelyn","",864,"",0
+918,"EzomytePeak",958,"",0,"Ezomyte Peak","",864,"",0
+919,"BlackSunCrest",959,"",0,"Black Sun Crest","",864,"",0
+920,"Thrillsteel",960,"",0,"Thrillsteel","",864,"",0
+921,"Deidbell",961,"",0,"Deidbell","",864,"",0
+922,"CoronaoftheRedSun",962,"",0,"Corona of the Red Sun","",864,"",0
+923,"BloodPrice",963,"",0,"Blood Price","",864,"",0
+924,"Innsmouth",964,"",0,"Innsmouth","",864,"",0
+925,"Goldrim",965,"",0,"Goldrim","",864,"",0
+926,"RadiantGrief",966,"",0,"Radiant Grief","",864,"",0
+927,"Elevore",967,"",0,"Elevore","",864,"",0
+928,"ConstrictingCommand",968,"",0,"Constricting Command","",864,"",0
+929,"TheBlackInsignia",969,"",0,"The Black Insignia","",864,"",0
+930,"StarkonjasHead",970,"",0,"Starkonja's Head","",864,"",0
+931,"Heatshiver",971,"",0,"Heatshiver","",864,"",0
+932,"MyrisUxor",972,"",0,"Myris Uxor","",864,"",0
+933,"AlphasHowl",973,"",0,"Alpha's Howl","",865,"",0
+934,"CrownofThorns",974,"",0,"Crown of Thorns","",864,"",0
+935,"TheDevouringDiadem",975,"",0,"The Devouring Diadem","",864,"",0
+936,"VisageofAyah",976,"",0,"Visage of Ayah","",864,"",0
+937,"MaskoftheStitchedDemon",977,"",0,"Mask of the Stitched Demon","",864,"",0
+938,"AtzirisDisdain",978,"",0,"Atziri's Disdain","",864,"",0
+939,"CrownofEyes",979,"",0,"Crown of Eyes","",864,"",0
+940,"ScoldsBridle",980,"",0,"Scold's Bridle","",864,"",0
+941,"Indigon",981,"",0,"Indigon","",865,"",0
+942,"Greymake",982,"",0,"Greymake","",864,"",0
+943,"EriansCobble",983,"",0,"Erian's Cobble","",864,"",0
+944,"Ironride",984,"",0,"Ironride","",864,"",0
+945,"TheSmilingKnight",985,"",0,"The Smiling Knight","",864,"",0
+946,"TheVileKnight",986,"",0,"The Vile Knight","",864,"",0
+947,"TheBringerofRain",987,"",0,"The Bringer of Rain","",865,"",0
+948,"CrownoftheVictor",988,"",0,"Crown of the Victor","",864,"",0
+949,"Bronzebeard",989,"",0,"Bronzebeard","",864,"",0
+950,"CrownofthePaleKing",990,"",0,"Crown of the Pale King","",864,"",0
+951,"VeiloftheNight",991,"",0,"Veil of the Night","",864,"",0
+952,"Cornathaum",992,"",0,"Cornathaum","",865,"",0
+953,"TheHollowMask",993,"",0,"The Hollow Mask","",864,"",0
+954,"MaskoftheSanguimancer",994,"",0,"Mask of the Sanguimancer","",864,"",0
+955,"LeerCast",995,"",0,"Leer Cast","",864,"",0
+956,"AtsaksSight",996,"",0,"Atsak's Sight","",864,"",0
+957,"TheVertex",997,"",0,"The Vertex","",865,"",0
+958,"TheThreeDragons",998,"",0,"The Three Dragons","",864,"",0
+959,"MindoftheCouncil",999,"",0,"Mind of the Council","",865,"",0
+960,"Facebreaker",1000,"",0,"Facebreaker","",864,"",0
+961,"Treefingers",1001,"",0,"Treefingers","",864,"",0
+962,"LochtonialCaress",1002,"",0,"Lochtonial Caress","",864,"",0
+963,"Dreadfist",1003,"",0,"Dreadfist","",864,"",0
+964,"AtzirisAcuity",1004,"",0,"Atziri's Acuity","",864,"",0
+965,"EmpiresGrasp",1005,"",0,"Empire's Grasp","",864,"",0
+966,"Northpaw",1006,"",0,"Northpaw","",864,"",0
+967,"GripofWinter",1007,"",0,"Grip of Winter","",864,"",0
+968,"IdleHands",1008,"",0,"Idle Hands","",864,"",0
+969,"Snakebite",1009,"",0,"Snakebite","",864,"",0
+970,"MaligarosVirtuosity",1010,"",0,"Maligaro's Virtuosity","",865,"",0
+971,"PaintersServant",1011,"",0,"Painter's Servant","",864,"",0
+972,"Candlemaker",1012,"",0,"Candlemaker","",864,"",0
+973,"DoedresTenure",1013,"",0,"Doedre's Tenure","",864,"",0
+974,"KitokosCurrent",1014,"",0,"Kitoko's Current","",864,"",0
+975,"DemonStitcher",1015,"",0,"Demon Stitcher","",864,"",0
+976,"Nightscale",1016,"",0,"Nightscale","",864,"",0
+977,"LeopoldsApplause",1017,"",0,"Leopold's Applause","",865,"",0
+978,"Jarngreipr",1018,"",0,"Jarngreipr","",864,"",0
+979,"Aurseize",1019,"",0,"Aurseize","",864,"",0
+980,"Deathblow",1020,"",0,"Deathblow","",864,"",0
+981,"ValakosVice",1021,"",0,"Valako's Vice","",864,"",0
+982,"AerisvanesWings",1022,"",0,"Aerisvane's Wings","",865,"",0
+983,"Gravebind",1023,"",0,"Gravebind","",864,"",0
+984,"ShacklesoftheWretched",1024,"",0,"Shackles of the Wretched","",864,"",0
+985,"BlueflameBracers",1025,"",0,"Blueflame Bracers","",864,"",0
+986,"ThePrisonersManacles",1026,"",0,"The Prisoner's Manacles","",864,"",0
+987,"Plaguefinger",1027,"",0,"Plaguefinger","",864,"",0
+988,"Killjoy",1028,"",0,"Killjoy","",864,"",0
+989,"EssentiaSanguis",1029,"",0,"Essentia Sanguis","",865,"",0
+990,"Thunderfist",1030,"",0,"Thunderfist","",865,"",0
+991,"Legionstride",1031,"",0,"Legionstride","",864,"",0
+992,"Corpsewade",1032,"",0,"Corpsewade","",864,"",0
+993,"TheInfinitePursuit",1033,"",0,"The Infinite Pursuit","",864,"",0
+994,"Trampletoe",1034,"",0,"Trampletoe","",864,"",0
+995,"BirthofFury",1035,"",0,"Birth of Fury","",864,"",0
+996,"Briarpatch",1036,"",0,"Briarpatch","",864,"",0
+997,"Gamblesprint",1037,"",0,"Gamblesprint","",864,"",0
+998,"Bushwhack",1038,"",0,"Bushwhack","",864,"",0
+999,"LuminousPace",1039,"",0,"Luminous Pace","",864,"",0
+1000,"Wanderlust",1040,"",0,"Wanderlust","",864,"",0
+1001,"BonesofUllr",1041,"",0,"Bones of Ullr","",864,"",0
+1002,"Wondertrap",1042,"",0,"Wondertrap","",864,"",0
+1003,"Windscream",1043,"",0,"Windscream","",864,"",0
+1004,"TheKnight-errant",1044,"",0,"The Knight-errant","",864,"",0
+1005,"DarkrayVectors",1045,"",0,"Darkray Vectors","",864,"",0
+1006,"ObernsBastion",1046,"",0,"Obern's Bastion","",864,"",0
+1007,"Shankgonne",1047,"",0,"Shankgonne","",864,"",0
+1008,"WakeofDestruction",1048,"",0,"Wake of Destruction","",864,"",0
+1009,"Ghostmarch",1049,"",0,"Ghostmarch","",864,"",0
+1010,"Powertread",1050,"",0,"Powertread","",864,"",0
+1011,"Dionadair",1051,"",0,"Dionadair","",864,"",0
+1012,"Wulfsbane",1052,"",0,"Wulfsbane","",864,"",0
+1013,"Doomgate",1053,"",0,"Doomgate","",864,"",0
+1014,"WindowtoParadise",1054,"",0,"Window to Paradise","",864,"",0
+1015,"Lycosidae",1055,"",0,"Lycosidae","",864,"",0
+1016,"RedbladeBanner",1056,"",0,"Redblade Banner","",864,"",0
+1017,"TheSurrender",1057,"",0,"The Surrender","",864,"",0
+1018,"ChernobogsPillar",1058,"",0,"Chernobog's Pillar","",864,"",0
+1019,"ArvilsWheel",1059,"",0,"Arvil's Wheel","",864,"",0
+1020,"FeatheredFortress",1060,"",0,"Feathered Fortress","",864,"",0
+1021,"AlkemEira",1061,"",0,"Alkem Eira","",864,"",0
+1022,"Oaksworn",1062,"",0,"Oaksworn","",864,"",0
+1023,"SaffellsFrame",1063,"",0,"Saffell's Frame","",864,"",0
+1024,"CrestofArdura",1064,"",0,"Crest of Ardura","",864,"",0
+1025,"PrismGuardian",1065,"",0,"Prism Guardian","",865,"",0
+1026,"RiseofthePhoenix",1066,"",0,"Rise of the Phoenix","",864,"",0
+1027,"Dunkelhalt",1067,"",0,"Dunkelhalt","",864,"",0
+1028,"Nocturne",1068,"",0,"Nocturne","",864,"",0
+1029,"RondeldeEzo",1069,"",0,"Rondel de Ezo","",864,"",0
+1030,"Bloodbarrier",1070,"",0,"Bloodbarrier","",864,"",0
+1031,"Kaltenhalt",1071,"",0,"Kaltenhalt","",864,"",0
+1032,"Silverthorne",1072,"",0,"Silverthorne","",864,"",0
+1033,"CalgyrasArc",1073,"",0,"Calgyra's Arc","",864,"",0
+1034,"Sunsplinter",1074,"",0,"Sunsplinter","",865,"",0
+1035,"Deathrattle",1075,"",0,"Deathrattle","",864,"",0
+1036,"ThreadedLight",1076,"",0,"Threaded Light","",864,"",0
+1037,"EffigyofCruelty",1077,"",0,"Effigy of Cruelty","",864,"",0
+1038,"CarrionCall",1078,"",0,"Carrion Call","",864,"",0
+1039,"SerpentsLesson",1079,"",0,"Serpent's Lesson","",864,"",0
+1040,"TheEternalSpark",1080,"",0,"The Eternal Spark","",864,"",0
+1041,"ApepsSupremacy",1081,"",0,"Apep's Supremacy","",864,"",0
+1042,"RathpithGlobe",1082,"",0,"Rathpith Globe","",865,"",0
+1043,"AsphyxiasWrath",1083,"",0,"Asphyxia's Wrath","",864,"",0
+1044,"Blackgleam",1084,"",0,"Blackgleam","",864,"",0
+1045,"TheLethalDraw",1085,"",0,"The Lethal Draw","",864,"",0
+1046,"Rearguard",1086,"",0,"Rearguard","",864,"",0
+1047,"Murkshaft",1087,"",0,"Murkshaft","",864,"",0
+1048,"CadirosGambit",1088,"",0,"Cadiro's Gambit","",865,"",0
+1049,"Igniferis",1089,"",0,"Igniferis","",864,"",0
+1050,"IdolofUldurn",1090,"",0,"Idol of Uldurn","",864,"",0
+1051,"TheEverlastingGaze",1091,"",0,"The Everlasting Gaze","",864,"",0
+1052,"UngilsHarmony",1092,"",0,"Ungil's Harmony","",864,"",0
+1053,"ReveredResin",1093,"",0,"Revered Resin","",864,"",0
+1054,"CarnageHeart",1094,"",0,"Carnage Heart","",864,"",0
+1055,"SurefootedSigil",1095,"",0,"Surefooted Sigil","",864,"",0
+1056,"DefianceofDestiny",1096,"",0,"Defiance of Destiny","",865,"",0
+1057,"StoneofLazhwar",1097,"",0,"Stone of Lazhwar","",864,"",0
+1058,"LiguriumTalisman",1098,"",0,"Ligurium Talisman","",864,"",0
+1059,"RondelofFragility",1099,"",0,"Rondel of Fragility","",864,"",0
+1060,"TheAnvil",1100,"",0,"The Anvil","",864,"",0
+1061,"YokeofSuffering",1101,"",0,"Yoke of Suffering","",865,"",0
+1062,"Astramentis",1102,"",0,"Astramentis","",865,"",0
+1063,"FixationofYix",1103,"",0,"Fixation of Yix","",864,"",0
+1064,"BeaconofAzis",1104,"",0,"Beacon of Azis","",864,"",0
+1065,"Fireflower",1105,"",0,"Fireflower","",864,"",0
+1066,"EyeofChayula",1106,"",0,"Eye of Chayula","",864,"",0
+1067,"SerpentsEgg",1107,"",0,"Serpent's Egg","",864,"",0
+1068,"HinekorasSight",1108,"",0,"Hinekora's Sight","",864,"",0
+1069,"Blackheart",1109,"",0,"Blackheart","",864,"",0
+1070,"IcefangOrbit",1110,"",0,"Icefang Orbit","",864,"",0
+1071,"Venopuncture",1111,"",0,"Venopuncture","",864,"",0
+1072,"PrizedPain",1112,"",0,"Prized Pain","",864,"",0
+1073,"Glowswarm",1113,"",0,"Glowswarm","",864,"",0
+1074,"DoedresDamning",1114,"",0,"Doedre's Damning","",864,"",0
+1075,"SeedofCataclysm",1115,"",0,"Seed of Cataclysm","",864,"",0
+1076,"Cracklecreep",1116,"",0,"Cracklecreep","",864,"",0
+1077,"BlisteringBond",1117,"",0,"Blistering Bond","",864,"",0
+1078,"Polcirkeln",1118,"",0,"Polcirkeln","",864,"",0
+1079,"DreamFragments",1119,"",0,"Dream Fragments","",865,"",0
+1080,"WhisperoftheBrotherhood",1120,"",0,"Whisper of the Brotherhood","",864,"",0
+1081,"Levinstone",1121,"",0,"Levinstone","",864,"",0
+1082,"TheBurrower",1122,"",0,"The Burrower","",864,"",0
+1083,"CalloftheBrotherhood",1123,"",0,"Call of the Brotherhood","",864,"",0
+1084,"MingsHeart",1124,"",0,"Ming's Heart","",864,"",0
+1085,"Blackflame",1125,"",0,"Blackflame","",864,"",0
+1086,"OriginalSin",1126,"",0,"Original Sin","",865,"",0
+1087,"VigilantView",1127,"",0,"Vigilant View","",864,"",0
+1088,"DeathRush",1128,"",0,"Death Rush","",864,"",0
+1089,"ThiefsTorment",1129,"",0,"Thief's Torment","",864,"",0
+1090,"EvergraspingRing",1130,"",0,"Evergrasping Ring","",864,"",0
+1091,"HeartboundLoop",1131,"",0,"Heartbound Loop","",864,"",0
+1092,"Snakepit",1132,"",0,"Snakepit","",864,"",0
+1093,"GiftsfromAbove",1133,"",0,"Gifts from Above","",864,"",0
+1094,"BereksGrip",1134,"",0,"Berek's Grip","",865,"",0
+1095,"BereksPass",1135,"",0,"Berek's Pass","",865,"",0
+1096,"BereksRespite",1136,"",0,"Berek's Respite","",865,"",0
+1097,"PerandusSeal",1137,"",0,"Perandus Seal","",864,"",0
+1098,"Andvarius",1138,"",0,"Andvarius","",864,"",0
+1099,"VentorsGamble",1139,"",0,"Ventor's Gamble","",864,"",0
+1100,"KalandrasTouch",1140,"",0,"Kalandra's Touch","",865,"",0
+1101,"MeginordsGirdle",1141,"",0,"Meginord's Girdle","",864,"",0
+1102,"MidnightBraid",1142,"",0,"Midnight Braid","",864,"",0
+1103,"Keelhaul",1143,"",0,"Keelhaul","",864,"",0
+1104,"UmbilicusImmortalis",1144,"",0,"Umbilicus Immortalis","",864,"",0
+1105,"BirthrightBuckle",1145,"",0,"Birthright Buckle","",864,"",0
+1106,"Brynabas",1146,"",0,"Byrnabas","",864,"",0
+1107,"SoulTether",1147,"",0,"Soul Tether","",864,"",0
+1108,"Infernoclasp",1148,"",0,"Molten Tenet","",864,"",0
+1109,"Goregirdle",1149,"",0,"Goregirdle","",864,"",0
+1110,"RyslathasCoil",1150,"",0,"Ryslatha's Coil","",864,"",0
+1111,"CowardsLegacy",1151,"",0,"Coward's Legacy","",864,"",0
+1112,"Bijouborne",1152,"",0,"Bijouborne","",864,"",0
+1113,"Waistgate",1153,"",0,"Waistgate","",864,"",0
+1114,"Headhunter",1154,"",0,"Headhunter","",865,"",0
+1115,"CatONineTails",1155,"",0,"Cat O' Nine Tails","",864,"",0
+1116,"ShavronnesSatchel",1156,"",0,"Shavronne's Satchel","",864,"",0
+1117,"BloodoftheWarrior",1157,"",0,"Blood of the Warrior","",864,"",0
+1118,"LaviangasSpirits",1158,"",0,"Lavianga's Spirits","",865,"",0
+1119,"BrynhandsMark",1159,"",0,"Brynhand's Mark","",864,"",0
+1120,"Frostbreath",1160,"",0,"Frostbreath","",864,"",0
+1121,"Trenchtimbre",1161,"",0,"Trenchtimbre","",864,"",0
+1122,"SculptedSuffering",1162,"",0,"Sculpted Suffering","",864,"",0
+1123,"SeeingStars",1163,"",0,"Seeing Stars","",864,"",0
+1124,"Nebuloch",1164,"",0,"Nebuloch","",864,"",0
+1125,"BrutusLeadSprinkler",1165,"",0,"Brutus' Lead Sprinkler","",865,"",0
+1126,"Mjölner",1166,"",0,"Mjölner","",865,"",0
+1127,"SerlesGrit",1167,"",0,"Serle's Grit","",864,"",0
+1128,"Hoghunt",1168,"",0,"Hoghunt","",864,"",0
+1129,"HrimnorsHymn",1169,"",0,"Hrimnor's Hymn","",864,"",0
+1130,"Trephina",1170,"",0,"Trephina","",864,"",0
+1131,"BrainRattler",1171,"",0,"Brain Rattler","",864,"",0
+1132,"TheEmptyRoar",1172,"",0,"The Empty Roar","",864,"",0
+1133,"Shyaba",1173,"",0,"Shyaba","",864,"",0
+1134,"ChoberChaber",1174,"",0,"Chober Chaber","",864,"",0
+1135,"Quecholli",1175,"",0,"Quecholli","",864,"",0
+1136,"Tidebreaker",1176,"",0,"Tidebreaker","",864,"",0
+1137,"MarohiErqi",1177,"",0,"Marohi Erqi","",865,"",0
+1138,"TheHammerofFaith",1178,"",0,"The Hammer of Faith","",865,"",0
+1139,"SplinterofLoratta",1179,"",0,"Splinter of Lorrata","",864,"",0
+1140,"TyrannysGrip",1180,"",0,"Tyranny's Grip","",864,"",0
+1141,"Chainsting",1181,"",0,"Chainsting","",864,"",0
+1142,"Skysliver",1182,"",0,"Skysliver","",864,"",0
+1143,"DaevatasWind",1183,"",0,"Daevata's Wind","",864,"",0
+1144,"Tangletongue",1184,"",0,"Tangletongue","",864,"",0
+1145,"SaithasSpear",1185,"",0,"Saitha's Spear","",864,"",0
+1146,"SpireofIre",1186,"",0,"Spire of Ire","",865,"",0
+1147,"TheBloodThorn",1187,"",0,"The Blood Thorn","",864,"",0
+1148,"PillaroftheCagedGod",1188,"",0,"Pillar of the Caged God","",864,"",0
+1149,"TheSentry",1189,"",0,"The Sentry","",864,"",0
+1150,"Matsya",1190,"",0,"Matsya","",864,"",0
+1151,"NazirsJudgement",1191,"",0,"Nazir's Judgement","",864,"",0
+1152,"TheWickedQuill",1192,"",0,"The Wicked Quill","",864,"",0
+1153,"SanguineDiviner",1193,"",0,"Sanguine Diviner","",864,"",0
+1154,"Lifesprig",1194,"",0,"Lifesprig","",864,"",0
+1155,"AdoniasEgo",1195,"",0,"Adonia's Ego","",865,"",0
+1156,"EnezunsCharge",1196,"",0,"Enezun's Charge","",864,"",0
+1157,"Cursecarver",1197,"",0,"Cursecarver","",864,"",0
+1158,"DuskVigil",1198,"",0,"Dusk Vigil","",864,"",0
+1159,"TarynsShiver",1199,"",0,"Taryn's Shiver","",864,"",0
+1160,"Earthbound",1200,"",0,"Earthbound","",864,"",0
+1161,"TheSearingTouch",1201,"",0,"The Searing Touch","",864,"",0
+1162,"SireofShards",1202,"",0,"Sire of Shards","",864,"",0
+1163,"TheWhisperingIce",1203,"",0,"The Whispering Ice","",865,"",0
+1164,"Widowhail",1204,"",0,"Widowhail","",864,"",0
+1165,"QuillRain",1205,"",0,"Quill Rain","",864,"",0
+1166,"Ironbound",1206,"",0,"Ironbound","",864,"",0
+1167,"Splinterheart",1207,"",0,"Splinterheart","",864,"",0
+1168,"Doomfletch",1208,"",0,"Doomfletch","",865,"",0
+1169,"DeathsHarp",1209,"",0,"Death's Harp","",864,"",0
+1170,"VoltaxicRift",1210,"",0,"Voltaxic Rift","",865,"",0
+1171,"Slivertongue",1211,"",0,"Slivertongue","",864,"",0
+1172,"FairgravesCurse",1212,"",0,"Fairgraves' Curse","",864,"",0
+1173,"LioneyesGlare",1213,"",0,"Lioneye's Glare","",865,"",0
+1174,"MistWhisper",1214,"",0,"Mist Whisper","",864,"",0
+1175,"RampartRaptor",1215,"",0,"Rampart Raptor","",864,"",0
+1176,"DoubleVision",1216,"",0,"Double Vision","",864,"",0
+1177,"TheLastLament",1217,"",0,"The Last Lament","",865,"",0
+1178,"Redemption",1218,"",0,"Redemption","",865,"",0
+1179,"TheDarkDefiler",1219,"",0,"The Dark Defiler","",864,"",0
+1180,"FontofPower",1220,"",0,"Font of Power","",864,"",0
+1181,"GuidingPalmoftheHeart",1221,"",0,"Guiding Palm of the Heart","",865,"",0
+1182,"GuidingPalmoftheEye",1222,"",0,"Guiding Palm of the Eye","",865,"",0
+1183,"GuidingPalmoftheMind",1223,"",0,"Guiding Palm of the Mind","",865,"",0
+1184,"AmorMandragora",1224,"",0,"Amor Mandragora","",864,"",0
+1185,"SpitefulFloret",1225,"",0,"Spiteful Floret","",864,"",0
+1186,"HyssegsClaw",1226,"",0,"Hysseg's Claw","",864,"",0
+1187,"TheFleshPoppet",1227,"",0,"The Flesh Poppet","",864,"",0
+1188,"SurgeoftheTide",1228,"",0,"Surge of the Tide","",864,"",0
+1189,"FuryoftheKing",1229,"",0,"Fury of the King","",865,"",0
+1190,"Beetlebite",1230,"",0,"Beetlebite","",864,"",0
+1191,"WraeclastBesieged",1231,"",0,"Wraeclast Besieged","",864,"",0
+1192,"ClearSkies",1232,"",0,"Clear Skies","",864,"",0
+1193,"FreedomofFaith",1233,"",0,"Freedom of Faith","",864,"",0
+1194,"TheGrandProject",1234,"",0,"The Grand Project","",865,"",0
+1195,"VisionsofParadise",1235,"",0,"Visions of Paradise","",865,"",0
+1196,"SeasonoftheHunt",1236,"",0,"Season of the Hunt","",865,"",0
+1197,"CruelHegemony",1237,"",0,"Cruel Hegemony","",865,"",0
+1198,"UnforeseenConsequences",1238,"",0,"Unforeseen Consequences","",865,"",0
+1199,"MasteredDomain",1239,"",0,"Mastered Domain","",865,"",0
+1200,"Mageblood",1240,"",0,"Mageblood","",865,"",0
+1201,"FishingrodIncreasedCastSpeedTwoHand",1241,"",0,"Fishing Rod of Bait",1,865,"",0

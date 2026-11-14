@@ -1,0 +1,4 @@
+type FishingLureTypes {
+  _: i32
+  Name: string @localized
+}

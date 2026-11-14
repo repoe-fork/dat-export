@@ -1,4 +1,5 @@
-"rownum","Id","i32_8","bool_12"
-0,"UniqueOrAmulet",3,""
-1,"Ring",2,""
-2,"InfectedMap",3,1
+"rownum","Id","i32_8","bool_12","bool_13"
+0,"UniqueOrAmulet",3,"",""
+1,"Ring",2,"",""
+2,"InfectedMap",3,1,""
+3,"BlightcoreJewel",3,"",1

@@ -3,4 +3,5 @@ type KiracLevels {
   MapAreaLevelOffered: i32
   MapCompletion: i32
   ShopRerollCost: i32
+  _: i32
 }

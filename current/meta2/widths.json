@@ -2351,13 +2351,13 @@
       "row_width": "112"
     }
   ],
-  "endgameplayerhideoutapplymods": [
+  "EndgamePlayerHideoutApplyMods": [
     {
       "version": "0.5.5.7",
       "row_width": "31"
     }
   ],
-  "endgameplayerhideoutrewards": [
+  "EndgamePlayerHideoutRewards": [
     {
       "version": "0.5.5.7",
       "row_width": "75"
@@ -3451,6 +3451,10 @@
     {
       "version": "0.5.5.7",
       "row_width": "173"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 173
     }
   ],
   "HideoutDoodadTags": [
@@ -3805,6 +3809,10 @@
     {
       "version": "4.5.0.2",
       "row_width": "283"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 283
     }
   ],
   "ItemisedVisualEffectExclusiveTypes": [
@@ -3895,6 +3903,10 @@
     {
       "version": "0.5.5.7",
       "row_width": "992"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 992
     }
   ],
   "ItemVisualReplacement": [
@@ -4459,6 +4471,10 @@
     {
       "version": "4.2.1.7",
       "row_width": "141"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 141
     }
   ],
   "MicrotransactionOnKillBeams": [
@@ -4477,6 +4493,10 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "128"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 128
     }
   ],
   "MicrotransactionOnOpenChestEffects": [
@@ -4503,6 +4523,10 @@
     {
       "version": "4.4.0.2",
       "row_width": "114"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 114
     }
   ],
   "MicrotransactionRarityDisplay": [
@@ -4661,6 +4685,10 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "44"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 44
     }
   ],
   "MiscAnimatedArtVariations": [
@@ -5137,6 +5165,10 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "69"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 69
     }
   ],
   "MtxTypes": [
@@ -5151,6 +5183,10 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "180"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 180
     }
   ],
   "MultiPartAchievementAreas": [
@@ -6437,6 +6473,10 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "51"
+    },
+    {
+      "version": "0.5.5.9",
+      "row_width": 51
     }
   ],
   "Shrines": [

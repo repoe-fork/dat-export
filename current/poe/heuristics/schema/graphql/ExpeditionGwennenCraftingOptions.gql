@@ -1,0 +1,13 @@
+type ExpeditionGwennenCraftingOptions {
+  Id: i32 @unique
+  Deal: ExpeditionDeals
+  _: i32
+  _: i32
+  ItemConditions: [ItemConditions]
+  _: i32
+  _: i32
+  _: i32
+  _: string
+  _: i32
+  _: bool
+}

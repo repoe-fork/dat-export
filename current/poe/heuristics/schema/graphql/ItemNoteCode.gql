@@ -4,4 +4,5 @@ type ItemNoteCode {
   Code: string
   _: bool
   _: bool
+  _: bool
 }

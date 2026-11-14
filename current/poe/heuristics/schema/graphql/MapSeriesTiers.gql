@@ -26,4 +26,5 @@ type MapSeriesTiers {
   KeepersTier: i32
   MirageTier: i32
   AbyssalTier: i32
+  _: i32
 }

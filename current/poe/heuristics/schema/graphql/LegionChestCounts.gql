@@ -8,4 +8,6 @@ type LegionChestCounts {
   _: i32
   MinLevel: i32
   _: i32
+  _: i32
+  _: i32
 }

@@ -21,4 +21,6 @@ type IncursionRooms @tags(list: ["item:itemized"]) {
   ItemisedFlavourText: FlavourText
   _: string @localized
   _: [Mods]
+  _: [Mods]
+  _: [Mods]
 }

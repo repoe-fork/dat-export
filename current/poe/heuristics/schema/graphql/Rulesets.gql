@@ -3,4 +3,5 @@ type Rulesets {
   Id: string @unique
   _: [Rulesets]
   _: [_] # All rows empty
+  _: string
 }

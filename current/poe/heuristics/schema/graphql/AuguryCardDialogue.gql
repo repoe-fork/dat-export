@@ -1,0 +1,7 @@
+type AuguryCardDialogue {
+  Id: string @unique
+  _: rid
+  _: [NPCTextAudio]
+  _: [NPCTextAudio]
+  _: [NPCTextAudio]
+}

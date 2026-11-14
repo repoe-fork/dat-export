@@ -1,9 +1,7 @@
 # Added 3.19
 type AlternateTreeArt {
   TreeVersion: AlternateTreeVersions @unique
-  ConnectionArt: PassiveSkillTreeConnectionArt
-  KeystoneFrameArt: PassiveSkillTreeNodeFrameArt
   RadiiArt: PassiveJewelRadiiArt
-  NotableFrameArt: PassiveSkillTreeNodeFrameArt
-  AscendancyFrameArt: PassiveSkillTreeNodeFrameArt
+  UIArt: PassiveSkillTreeUIArt
+  _: rid
 }

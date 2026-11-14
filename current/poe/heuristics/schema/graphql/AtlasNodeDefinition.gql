@@ -18,4 +18,5 @@ type AtlasNodeDefinition {
   _: bool
   Header: MapNodeHeader
   _: i32
+  _: bool
 }

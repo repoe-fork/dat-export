@@ -1,0 +1,10 @@
+# Added 0.5
+type EndgamePlayerHideoutApplyMods {
+  Id: string @unique
+  _: i32
+  Description: string @localized
+  _: i16
+  _: bool
+  _: i32
+  _: i32
+}

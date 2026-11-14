@@ -1,0 +1,9 @@
+type AtlasThreadTiers {
+  ThreadType: AtlasThreadTypes
+  Tier: i32
+  _: [_] # All rows empty
+  _: [_] # All rows empty
+  _: [_] # All rows empty
+  _: [_] # All rows empty
+  _: bool
+}

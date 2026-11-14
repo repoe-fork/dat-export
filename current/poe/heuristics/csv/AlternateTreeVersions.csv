@@ -1,13 +1,14 @@
-"rownum","Id","bool_8","bool_9","i32_10","i32_14","i32_18","i32_22","i32_26","i32_30","i32_34"
-0,"None","","",0,0,0,0,0,0,0
-1,"Vaal",1,1,0,0,0,0,0,0,100
-2,"Karui","","",1,1,1,1,1,1,0
-3,"Maraketh","","",1,1,1,1,1,1,0
-4,"Templar",1,"",0,0,1,1,1,1,20
-5,"Eternal",1,1,0,0,0,0,0,0,100
-6,"Kalguuran","","",1,1,1,1,0,0,100
-7,"AbyssMurderous",1,1,0,0,0,0,1,1,0
-8,"AbyssSearching",1,1,0,0,0,0,1,1,0
-9,"AbyssHypnotic",1,1,0,0,0,0,1,1,0
-10,"AbyssGhastly",1,1,0,0,0,0,1,1,0
-11,"AbyssSpecial",1,1,0,0,0,0,1,1,0
+"rownum","Id","bool_8","bool_9","i32_10","i32_14","i32_18","i32_22","i32_26","i32_30","i32_34","string_38","string_38 (French)","string_38 (German)","string_38 (Japanese)","string_38 (Korean)","string_38 (Portuguese)","string_38 (Russian)","string_38 (Spanish)","string_38 (Thai)","string_38 (Traditional Chinese)"
+0,"None","","",0,0,0,0,0,0,0,"","","","","","","","","",""
+1,"Vaal",1,1,0,0,0,0,0,0,100,"Vaal","Vaal","von den Vaal","ヴァール","바알","Vaal","ваал","los vaal","วาล์","瓦爾"
+2,"Karui","","",1,1,1,1,1,1,0,"Karui","Karui","von den Karui","カルイ","카루이","Karui","каруи","los karui","คารุย","卡魯"
+3,"Maraketh","","",1,1,1,1,1,1,0,"Maraketh","Maraketh","von den Maraketh","マラケス","마라케스","Maraketh","маракетами","los maraketh","มาราเค็ท","馬拉克斯"
+4,"Templar",1,"",0,0,1,1,1,1,20,"Templars","Templiers","von den Templern","テンプラー","템플러","Templários","храмовниками","los templarios","เทมพลาร์","聖宗"
+5,"Eternal",1,1,0,0,0,0,0,0,100,"Eternal Empire","Empire éternel","vom Ewigen Kaiserreich","エターナル帝国","영원한 제국","Império Eterno","Вечной империей","el imperio eterno","จักรวรรดินิรันดร์","不朽帝國"
+6,"Kalguuran","","",1,1,1,1,0,0,100,"Kalguur","Kalguur","von den Kalguur","カルグール","칼구르","Kalguur","Калгууром","los kalguranos","คาลเกอร์","卡爾葛"
+7,"AbyssMurderous",1,1,0,0,0,0,1,1,0,"Abyssal","Abyssal","von den Abgründigen","アビサル","심연의","Abissal","Бездной","los abisales","พวกอะบิส","深淵"
+8,"AbyssSearching",1,1,0,0,0,0,1,1,0,"Abyssal","Abyssal","von den Abgründigen","アビサル","심연의","Abissal","Бездной","los abisales","พวกอะบิส","深淵"
+9,"AbyssHypnotic",1,1,0,0,0,0,1,1,0,"Abyssal","Abyssal","von den Abgründigen","アビサル","심연의","Abissal","Бездной","los abisales","พวกอะบิส","深淵"
+10,"AbyssGhastly",1,1,0,0,0,0,1,1,0,"Abyssal","Abyssal","von den Abgründigen","アビサル","심연의","Abissal","Бездной","los abisales","พวกอะบิส","深淵"
+11,"AbyssSpecial",1,1,0,0,0,0,1,1,0,"Abyssal","Abyssal","von den Abgründigen","アビサル","심연의","Abissal","Бездной","los abisales","พวกอะบิส","深淵"
+12,"BlightJewel","",1,0,0,0,0,0,0,0,"","","","","","","","","",""

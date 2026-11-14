@@ -193,5 +193,34 @@
       }
     },
     "size": 16
+  },
+  {
+    "name": "",
+    "offset": 160,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 176,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true,
+        "table": "Mods"
+      }
+    },
+    "size": 16
   }
 ]

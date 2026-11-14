@@ -18,9 +18,9 @@
 16,"RemoveAllRivalriesInDivision",3,""
 17,"DestroyAllItemsOfRivalDivision",2,""
 18,"DownrankRivalsUprankMyDivision",2,""
-19,"GainItemAnyUnique",3,4418
-20,"GainItemCurrency",3,4419
-21,"GainItemVeiledItem",3,4420
-22,"GainItemMap",3,4421
-23,"GainItemScarab",3,4422
+19,"GainItemAnyUnique",3,4419
+20,"GainItemCurrency",3,4420
+21,"GainItemVeiledItem",3,4421
+22,"GainItemMap",3,4422
+23,"GainItemScarab",3,4423
 24,"ExecuteSafehouse",1,""

@@ -307,5 +307,19 @@
       }
     },
     "size": 16
+  },
+  {
+    "name": "",
+    "offset": 194,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true
+      }
+    },
+    "size": 16
   }
 ]

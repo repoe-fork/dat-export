@@ -1,0 +1,4 @@
+type MicrotransactionTiers {
+  _: rid
+  _: [i32]
+}

@@ -19,4 +19,5 @@ type CoreLeagues {
   _: [Stats]
   _: bool
   _: Stats
+  SurpassingChanceStat: Stats
 }

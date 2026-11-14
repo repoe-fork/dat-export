@@ -1,1 +1,6 @@
-enum KeywordPopupModReference @indexing(first: 0) { _ }
+# Added 3.29
+type KeywordPopupModReference {
+  Id: string @unique
+  Mod: Mods
+  StatDescription: string @file(ext: ".csd")
+}

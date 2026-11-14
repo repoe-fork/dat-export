@@ -1,0 +1,10 @@
+type EmptyVisualSlotOverrides {
+  Stat: Stats
+  _: i32
+  ItemClass: ItemClasses
+  ItemVisualIdentity: ItemVisualIdentity
+  _: i32
+  _: i32
+  _: i32
+  _: i32
+}

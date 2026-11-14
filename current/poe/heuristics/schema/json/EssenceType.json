@@ -57,7 +57,7 @@
     "name": "ChanceForAdditionalEssenceStat",
     "offset": 29,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,

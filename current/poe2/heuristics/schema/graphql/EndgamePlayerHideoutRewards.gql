@@ -1,0 +1,12 @@
+# Added 0.5
+type EndgamePlayerHideoutRewards {
+  Id: string @unique
+  _: i16
+  _: rid
+  _: i32
+  _: string
+  _: bool
+  Rarity: ClientStrings2
+  _: BaseItemTypes
+  _: i32
+}

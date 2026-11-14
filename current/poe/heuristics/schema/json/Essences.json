@@ -202,7 +202,7 @@
     "name": "Display_Quiver_ModsKey",
     "offset": 224,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -532,7 +532,7 @@
     "name": "Helmet_ModsKey",
     "offset": 552,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -547,7 +547,7 @@
     "name": "BodyArmour_ModsKey",
     "offset": 568,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -562,7 +562,7 @@
     "name": "Boots_ModsKey",
     "offset": 584,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -577,7 +577,7 @@
     "name": "Gloves_ModsKey",
     "offset": 600,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -607,7 +607,7 @@
     "name": "Wand_ModsKey",
     "offset": 632,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -622,7 +622,7 @@
     "name": "Staff_ModsKey",
     "offset": 648,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -637,7 +637,7 @@
     "name": "TwoHandSword_ModsKey",
     "offset": 664,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -652,7 +652,7 @@
     "name": "TwoHandAxe_ModsKey",
     "offset": 680,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -667,7 +667,7 @@
     "name": "TwoHandMace_ModsKey",
     "offset": 696,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -682,7 +682,7 @@
     "name": "Claw_ModsKey",
     "offset": 712,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -697,7 +697,7 @@
     "name": "Dagger_ModsKey",
     "offset": 728,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -712,7 +712,7 @@
     "name": "OneHandSword_ModsKey",
     "offset": 744,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -727,7 +727,7 @@
     "name": "OneHandThrustingSword_ModsKey",
     "offset": 760,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -742,7 +742,7 @@
     "name": "OneHandAxe_ModsKey",
     "offset": 776,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -757,7 +757,7 @@
     "name": "OneHandMace_ModsKey",
     "offset": 792,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -772,7 +772,7 @@
     "name": "Sceptre_ModsKey",
     "offset": 808,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -832,7 +832,7 @@
     "name": "Amulet_ModsKey",
     "offset": 860,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -847,7 +847,7 @@
     "name": "Ring_ModsKey",
     "offset": 876,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -877,7 +877,7 @@
     "name": "Shield_ModsKey",
     "offset": 908,
     "unknownArray": false,
-    "unique": true,
+    "unique": false,
     "interval": false,
     "type": {
       "array": false,
@@ -959,5 +959,31 @@
       }
     },
     "size": 16
+  },
+  {
+    "name": "",
+    "offset": 989,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "key": {
+        "foreign": true
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 1005,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "boolean": true
+    },
+    "size": 1
   }
 ]

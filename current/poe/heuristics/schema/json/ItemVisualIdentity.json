@@ -252,17 +252,17 @@
     "unique": false,
     "interval": false,
     "type": {
-      "array": false,
+      "array": true,
       "integer": {
         "unsigned": false,
         "size": 4
       }
     },
-    "size": 4
+    "size": 16
   },
   {
     "name": "",
-    "offset": 222,
+    "offset": 234,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -277,7 +277,7 @@
   },
   {
     "name": "Pickup_AchievementItemsKeys",
-    "offset": 226,
+    "offset": 238,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -292,7 +292,7 @@
   },
   {
     "name": "SMFiles",
-    "offset": 242,
+    "offset": 254,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -304,7 +304,7 @@
   },
   {
     "name": "Identify_AchievementItemsKeys",
-    "offset": 258,
+    "offset": 270,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -319,7 +319,7 @@
   },
   {
     "name": "EPKFile",
-    "offset": 274,
+    "offset": 286,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -331,7 +331,7 @@
   },
   {
     "name": "Corrupt_AchievementItemsKeys",
-    "offset": 282,
+    "offset": 294,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -346,7 +346,7 @@
   },
   {
     "name": "IsAlternateArt",
-    "offset": 298,
+    "offset": 310,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -358,7 +358,7 @@
   },
   {
     "name": "",
-    "offset": 299,
+    "offset": 311,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -370,7 +370,7 @@
   },
   {
     "name": "CreateCorruptedJewelAchievementItemsKey",
-    "offset": 300,
+    "offset": 312,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -385,7 +385,7 @@
   },
   {
     "name": "AnimationLocation",
-    "offset": 316,
+    "offset": 328,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -397,7 +397,7 @@
   },
   {
     "name": "",
-    "offset": 324,
+    "offset": 336,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -409,7 +409,7 @@
   },
   {
     "name": "",
-    "offset": 332,
+    "offset": 344,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -421,7 +421,7 @@
   },
   {
     "name": "",
-    "offset": 340,
+    "offset": 352,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -433,7 +433,7 @@
   },
   {
     "name": "",
-    "offset": 348,
+    "offset": 360,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -445,7 +445,7 @@
   },
   {
     "name": "",
-    "offset": 356,
+    "offset": 368,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -457,7 +457,7 @@
   },
   {
     "name": "",
-    "offset": 364,
+    "offset": 376,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -469,7 +469,7 @@
   },
   {
     "name": "",
-    "offset": 372,
+    "offset": 384,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -481,7 +481,7 @@
   },
   {
     "name": "",
-    "offset": 380,
+    "offset": 392,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -493,7 +493,7 @@
   },
   {
     "name": "",
-    "offset": 388,
+    "offset": 400,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -505,7 +505,7 @@
   },
   {
     "name": "",
-    "offset": 396,
+    "offset": 408,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -517,7 +517,7 @@
   },
   {
     "name": "",
-    "offset": 404,
+    "offset": 416,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -529,7 +529,7 @@
   },
   {
     "name": "",
-    "offset": 412,
+    "offset": 424,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -541,7 +541,7 @@
   },
   {
     "name": "IsAtlasOfWorldsMapIcon",
-    "offset": 420,
+    "offset": 432,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -553,7 +553,7 @@
   },
   {
     "name": "IsTier16Icon",
-    "offset": 421,
+    "offset": 433,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -565,7 +565,7 @@
   },
   {
     "name": "KalandraAchievement",
-    "offset": 422,
+    "offset": 434,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -580,7 +580,7 @@
   },
   {
     "name": "",
-    "offset": 438,
+    "offset": 450,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -592,7 +592,7 @@
   },
   {
     "name": "HeistAchievement",
-    "offset": 439,
+    "offset": 451,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -607,7 +607,7 @@
   },
   {
     "name": "",
-    "offset": 455,
+    "offset": 467,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -619,7 +619,7 @@
   },
   {
     "name": "Composition",
-    "offset": 463,
+    "offset": 475,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -634,7 +634,7 @@
   },
   {
     "name": "UniqueStat1",
-    "offset": 467,
+    "offset": 479,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -649,7 +649,7 @@
   },
   {
     "name": "UniqueStat2",
-    "offset": 483,
+    "offset": 495,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -664,7 +664,7 @@
   },
   {
     "name": "UniqueStat3",
-    "offset": 499,
+    "offset": 511,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -679,7 +679,7 @@
   },
   {
     "name": "UniqueStat4",
-    "offset": 515,
+    "offset": 527,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -694,7 +694,101 @@
   },
   {
     "name": "",
-    "offset": 531,
+    "offset": 543,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 559,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 575,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "string": {}
+    },
+    "size": 8
+  },
+  {
+    "name": "",
+    "offset": 583,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "string": {}
+    },
+    "size": 8
+  },
+  {
+    "name": "",
+    "offset": 591,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "string": {}
+    },
+    "size": 8
+  },
+  {
+    "name": "",
+    "offset": 599,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true,
+        "table": "ItemVisualShaderEffect"
+      }
+    },
+    "size": 16
+  },
+  {
+    "name": "",
+    "offset": 615,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "integer": {
+        "unsigned": false,
+        "size": 4
+      }
+    },
+    "size": 4
+  },
+  {
+    "name": "",
+    "offset": 619,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -703,83 +797,5 @@
       "boolean": true
     },
     "size": 1
-  },
-  {
-    "name": "",
-    "offset": 532,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": true,
-      "key": {
-        "foreign": true
-      }
-    },
-    "size": 16
-  },
-  {
-    "name": "",
-    "offset": 548,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": true,
-      "key": {
-        "foreign": true
-      }
-    },
-    "size": 16
-  },
-  {
-    "name": "",
-    "offset": 564,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "string": {}
-    },
-    "size": 8
-  },
-  {
-    "name": "",
-    "offset": 572,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "string": {}
-    },
-    "size": 8
-  },
-  {
-    "name": "",
-    "offset": 580,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "string": {}
-    },
-    "size": 8
-  },
-  {
-    "name": "",
-    "offset": 588,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": true,
-      "key": {
-        "foreign": true
-      }
-    },
-    "size": 16
   }
 ]

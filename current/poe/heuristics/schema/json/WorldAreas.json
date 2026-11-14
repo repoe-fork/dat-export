@@ -904,23 +904,8 @@
     "size": 16
   },
   {
-    "name": "MusicCategory",
-    "offset": 590,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "key": {
-        "foreign": true,
-        "table": "MusicCategories"
-      }
-    },
-    "size": 16
-  },
-  {
     "name": "Ruleset",
-    "offset": 606,
+    "offset": 590,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -935,7 +920,7 @@
   },
   {
     "name": "",
-    "offset": 622,
+    "offset": 606,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -950,7 +935,7 @@
   },
   {
     "name": "QuestFlag",
-    "offset": 626,
+    "offset": 610,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -965,7 +950,7 @@
   },
   {
     "name": "QuestState",
-    "offset": 642,
+    "offset": 626,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -985,7 +970,7 @@
         "foreign": true
       }
     },
-    "offset": 646,
+    "offset": 630,
     "size": 16,
     "noData": true,
     "unknownArray": true,

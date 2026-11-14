@@ -1,0 +1,5 @@
+type AtlasThreadsLayout {
+  Id: string @unique
+  _: i32
+  _: string @localized
+}

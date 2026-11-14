@@ -1,0 +1,21 @@
+type AtlasPassiveSkillSubTrees {
+  Id: string @unique
+  UI_Image: string
+  UI_Background: string
+  IllustrationX: i32
+  IllustrationY: i32
+  CounterX: i32
+  CounterY: i32
+  _: ClientStrings
+  _: ClientStrings
+  _: ClientStrings
+  _: string
+  _: string
+  _: f32
+  Description: string @localized
+  _: i32
+  _: i32
+  _: i32
+  _: i32
+  Icon: string @file(ext: ".dds")
+}

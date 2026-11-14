@@ -640,5 +640,20 @@
       }
     },
     "size": 4
+  },
+  {
+    "name": "",
+    "offset": 188,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": true,
+      "integer": {
+        "unsigned": false,
+        "size": 4
+      }
+    },
+    "size": 16
   }
 ]

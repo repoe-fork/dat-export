@@ -33,4 +33,7 @@ type GrantedEffects {
   _: bool
   StatSet1: GrantedEffectStatSets
   StatSet2: [GrantedEffectStatSets]
+  SupportName: string @localized
+  SupportDescription: string @localized
+  SupportIcon: string
 }

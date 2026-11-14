@@ -2,4 +2,5 @@
 type ElderGuardians {
   Id: string @unique
   MapIcon: string
+  Name: string @localized
 }

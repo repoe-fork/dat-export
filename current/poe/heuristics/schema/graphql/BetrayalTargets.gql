@@ -20,4 +20,5 @@ type BetrayalTargets {
   ScriptArgument: string
   _: [_] # All rows empty
   _: [i32]
+  _: MonsterVarieties
 }

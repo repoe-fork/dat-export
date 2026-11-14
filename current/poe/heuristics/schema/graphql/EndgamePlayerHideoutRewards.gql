@@ -1,0 +1,9 @@
+type EndgamePlayerHideoutRewards {
+  Id: string @unique
+  _: i16
+  _: rid
+  _: i32
+  _: string @localized
+  _: bool
+  Rarity: ClientStrings2
+}

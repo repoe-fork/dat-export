@@ -1,5 +1,1 @@
-# Added 3.11
-type IncursionUniqueUpgradeComponents @tags(list: ["item:recipe", "item:unique"]) {
-  BaseUnique: Words
-  UpgradeCurrency: BaseItemTypes
-}
+enum IncursionUniqueUpgradeComponents @indexing(first: 0) { _ }

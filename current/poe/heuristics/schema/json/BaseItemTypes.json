@@ -245,13 +245,13 @@
     "localized": true
   },
   {
-    "name": "Equip_AchievementItemsKey",
+    "name": "EquipAchievements",
     "offset": 168,
     "unknownArray": false,
     "unique": false,
     "interval": false,
     "type": {
-      "array": false,
+      "array": true,
       "key": {
         "foreign": true,
         "table": "AchievementItems"
@@ -412,7 +412,7 @@
     "size": 16
   },
   {
-    "name": "IgnoreQuantBonus",
+    "name": "",
     "offset": 292,
     "unknownArray": false,
     "unique": false,
@@ -424,20 +424,8 @@
     "size": 1
   },
   {
-    "name": "",
-    "offset": 293,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "boolean": true
-    },
-    "size": 1
-  },
-  {
     "name": "ShopTag",
-    "offset": 294,
+    "offset": 293,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -457,7 +445,7 @@
         "foreign": true
       }
     },
-    "offset": 310,
+    "offset": 309,
     "size": 16,
     "noData": true,
     "unknownArray": true,
@@ -470,7 +458,7 @@
         "foreign": true
       }
     },
-    "offset": 326,
+    "offset": 325,
     "size": 16,
     "noData": true,
     "unknownArray": true,
@@ -483,7 +471,7 @@
         "foreign": true
       }
     },
-    "offset": 342,
+    "offset": 341,
     "size": 16,
     "noData": true,
     "unknownArray": true,
@@ -491,7 +479,7 @@
   },
   {
     "name": "TalismanEnchants",
-    "offset": 358,
+    "offset": 357,
     "unknownArray": false,
     "unique": false,
     "interval": false,

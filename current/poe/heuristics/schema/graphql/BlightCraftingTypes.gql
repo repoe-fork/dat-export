@@ -3,4 +3,5 @@ type BlightCraftingTypes {
   Id: string @unique
   _: i32
   _: bool
+  _: bool
 }

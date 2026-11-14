@@ -69,3 +69,4 @@
 67,"EdictOfAshFinisherEffect","","","",[1507],[1160],"",[],"","","",0,0,0,"[""grp_chest""]",0,"",0,800,""
 68,"EdictOfTheSpearFinisherEffect","","","",[],[],"",[11328],"","","",0,0,0,"[""grp_chest""]",0,"",0,500,""
 69,"CollossalTentacleFinisherEffect","","","",[],[],"",[11335],"","","",0,0,0,[],0,"",0,500,""
+70,"WitchCorpseSlamFinisherEffect","","","",[],[],"",[11336],"","","",0,0,0,"[""grp_chest""]",1,"",0,500,""

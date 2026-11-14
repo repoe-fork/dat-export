@@ -7,4 +7,5 @@ type PassiveJewelSlots {
   ProxySlot: PassiveSkills
   StartIndices: [i32]
   _: bool
+  _: i32
 }

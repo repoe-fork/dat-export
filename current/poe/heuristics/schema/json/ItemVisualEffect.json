@@ -177,14 +177,14 @@
     "unique": false,
     "interval": false,
     "type": {
-      "array": true,
+      "array": false,
       "string": {}
     },
-    "size": 16
+    "size": 8
   },
   {
     "name": "",
-    "offset": 122,
+    "offset": 114,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -196,7 +196,7 @@
   },
   {
     "name": "",
-    "offset": 123,
+    "offset": 115,
     "unknownArray": false,
     "unique": false,
     "interval": false,

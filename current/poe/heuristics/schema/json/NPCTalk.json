@@ -537,5 +537,20 @@
     },
     "size": 8,
     "localized": true
+  },
+  {
+    "name": "",
+    "offset": 389,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "integer": {
+        "unsigned": false,
+        "size": 4
+      }
+    },
+    "size": 4
   }
 ]

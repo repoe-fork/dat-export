@@ -119,53 +119,38 @@
     "size": 1
   },
   {
-    "name": "LifeforceType",
+    "name": "LifeforceTypes",
     "offset": 75,
     "unknownArray": false,
     "unique": false,
     "interval": false,
     "type": {
-      "array": false,
+      "array": true,
       "integer": {
         "unsigned": false,
         "size": 4
       }
     },
-    "size": 4
+    "size": 16
   },
   {
-    "name": "LifeforceCost",
-    "offset": 79,
+    "name": "LifeforceCosts",
+    "offset": 91,
     "unknownArray": false,
     "unique": false,
     "interval": false,
     "type": {
-      "array": false,
+      "array": true,
       "integer": {
         "unsigned": false,
         "size": 4
       }
     },
-    "size": 4
-  },
-  {
-    "name": "SacredCost",
-    "offset": 83,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
-      }
-    },
-    "size": 4
+    "size": 16
   },
   {
     "name": "IsProportionalToStackSize",
-    "offset": 87,
+    "offset": 107,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -177,7 +162,7 @@
   },
   {
     "name": "NecropolisAchievements",
-    "offset": 88,
+    "offset": 108,
     "unknownArray": false,
     "unique": false,
     "interval": false,
@@ -192,22 +177,7 @@
   },
   {
     "name": "GameMode",
-    "offset": 104,
-    "unknownArray": false,
-    "unique": false,
-    "interval": false,
-    "type": {
-      "array": false,
-      "integer": {
-        "unsigned": false,
-        "size": 4
-      }
-    },
-    "size": 4
-  },
-  {
-    "name": "RancourCost",
-    "offset": 108,
+    "offset": 124,
     "unknownArray": false,
     "unique": false,
     "interval": false,

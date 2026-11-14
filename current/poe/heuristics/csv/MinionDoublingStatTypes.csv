@@ -1,17 +1,17 @@
-"rownum","Id","Stat","MinionType"
-0,0,21282,19
-1,1,21283,24
-2,2,21284,20
-3,3,21285,0
-4,4,21348,32
-5,5,21286,7
-6,6,21287,52
-7,7,21288,50
-8,8,21289,1
-9,9,21290,40
-10,10,21349,41
-11,11,21350,11
-12,12,21291,9
-13,13,21351,28
-14,14,22149,77
-15,15,22317,78
+"rownum","Id","Stat","MinionType","Name","Name (French)","Name (German)","Name (Japanese)","Name (Korean)","Name (Portuguese)","Name (Russian)","Name (Spanish)","Name (Thai)","Name (Traditional Chinese)"
+0,0,21022,19,"Animated Weapons","Armes animées","Beseelte Waffen","アニメイトウェポン","기동된 무기","Armas Animadas","живого оружия","Armas animadas","อาวุธปลุกเสก","幻靈武器"
+1,1,21023,24,"Summoned Golems","Golems invoqués","Beschworene Golems","ゴーレム召喚","소환된 골렘","Golens Invocados","призванных големов","Gólems invocados","โกเลมอัญเชิญ","召喚魔像"
+2,2,21024,20,"Summoned Raging Spirits","Esprits enragés invoqués","Beschworene Flammenschädel","レイジングスピリット召喚","소환된 격노의 유령","Espíritos Furiosos Invocados","призванных неистовых духов","Espíritus encolerizados invocados","วิญญาณเกรี้ยวกราดอัญเชิญ","召喚憤怒狂靈"
+3,3,21025,0,"Raised Spectres","Spectres réanimés","Erweckte Schemen","スペクター蘇生","소환된 망령","Espectros Invocados","сотворённых призраков","Espectros levantados","สเปคเตอร์ที่ปลุก","喚醒幽魂"
+4,4,21088,32,"Raised Spiders","Araignées réanimées","Erweckte Spinnen","スパイダー蘇生","소환된 거미","Aranhas Invocadas","призванных пауков","Arañas levantadas","แมงมุมที่ปลุก","異蛛復甦"
+5,5,21026,7,"Raised Zombies","Zombies réanimés","Erweckte Zombies","ゾンビ蘇生","소환된 좀비","Zumbis Invocados","поднятых зомби","Zombis levantados","ซอมบี้ที่ปลุก","殭屍復甦"
+6,6,21027,52,"Summoned Reapers","Faucheuses invoquées","Beschworene Schnitter","リーパー召喚","소환된 수확자","Ceifadores Invocados","призванных Жнецов","Desgarradores invocados","ยมทูตอัญเชิญ","召喚奪魂鐮"
+7,7,21028,50,"Sentinels of Absolution","Sentinelles de l'absolution","Wächter der Absolution","センチネルオブアブソリューション","면죄의 파수꾼","Sentinelas da Absolvição","стражей отпущения","Centinelas de absolución","ทหารยามอภัยบาป","赦免護衛"
+8,8,21029,1,"Sentinels of Dominance","Sentinelles soumises","Wächter der Beherrschung","センチネルオブドミナンス","지배의 파수꾼","Sentinelas da Dominação","стражей власти","Centinelas de dominancia","ทหารยามแสดงอำนาจ","統御護衛"
+9,9,21030,40,"Sentinels of Purity","Sentinelles de pureté","Wächter der Reinheit","センチネルオブピュリティ","정화의 파수꾼","Sentinelas da Pureza","стражей чистоты","Centinelas de pureza","ทหารยามพิสุทธิ์ ","純淨護衛"
+10,10,21089,41,"Summoned Holy Relics","Reliques sacrées invoquées","Beschworene Heilige Relikte","ホーリーレリック召喚","소환된 신성한 유물","Relíquias Sagradas Invocadas","призванных священных реликвий","Reliquias sagradas invocadas","วัตถุศักดิ์สิทธิ์ ","召喚聖物"
+11,11,21090,11,"Summoned Phantasms","Apparitions invoquées","Beschworene Phantasmen","ファンタズム召喚","소환된 환영","Fantasmas Invocados","призванных фантомов","Fantasmas invocados","ผีอัญเชิญ","召喚幻影"
+12,12,21031,9,"Summoned Skeletons","Squelettes invoqués","Beschworene Skelette","スケルトン召喚","소환된 해골","Esqueletos Invocados","сотворённых скелетов","Esqueletos invocados","โครงกระดูกอัญเชิญ","召喚骷髏"
+13,13,21091,28,"Summoned Spectral Wolves","Loups spectraux invoqués","Beschworene Spektralwölfe","スペクトラルウルフ召喚","소환된 영체 늑대","Lobos Espectrais Invocados","призванных призрачных волков","Lobos espectrales invocados","หมาป่าวิญญาณ","召喚幽狼"
+14,14,21889,77,"Living Lightning","Foudre vivante","Lebendige Blitze","リビングライトニング","살아 있는 번개","Relâmpago Vivo","живых молний","Rayo viviente","สายฟ้ามีชีวิต","活體閃電"
+15,15,22057,78,"Holy Armaments","Armes sacrées","Heilige Waffen","ホーリーアーマメント","신성한 병기","Armamentos Sagrados","святых орудий","Armamentos sagrados","ยุทธภัณฑ์ศักดิ์สิทธิ์","神聖軍備"

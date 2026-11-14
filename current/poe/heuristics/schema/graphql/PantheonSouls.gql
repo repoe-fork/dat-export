@@ -5,7 +5,7 @@ type PantheonSouls @tags(list: ["item:itemized"]) {
   QuestFlagUpgrade: QuestFlags
   CapturedMonster: [MonsterVarieties]
   PanelLayout: PantheonPanelLayout
-  CapturedMonsterDescription: string
+  CapturedMonsterDescription: string @localized
   _: i32
   QuestFlagDowngrade: QuestFlags
 }

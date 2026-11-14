@@ -1,0 +1,12 @@
+type AtlasThreadTypes {
+  Id: string @unique
+  _: string @localized
+  Stats: [Stats]
+  StatValues: [i32]
+  BaseItemType: BaseItemTypes
+  _: Stats
+  _: Stats
+  _: Stats
+  _: Tags
+  _: string
+}

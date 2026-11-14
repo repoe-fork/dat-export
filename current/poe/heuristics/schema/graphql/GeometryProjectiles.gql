@@ -22,4 +22,6 @@ type GeometryProjectiles {
   _: bool
   _: rid
   _: i32
+  _: string
+  _: string
 }

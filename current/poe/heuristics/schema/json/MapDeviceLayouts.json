@@ -167,5 +167,17 @@
       }
     },
     "size": 4
+  },
+  {
+    "name": "",
+    "offset": 125,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "boolean": true
+    },
+    "size": 1
   }
 ]

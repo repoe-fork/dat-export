@@ -1,4 +1,4 @@
 "rownum","Id","rid_8","rid_24","[rid]_40","i32_56","[rid]_60","string_76","Boss"
-0,"Demon",1323,1324,"[1333,1334]",1,[9415],"Metadata/Terrain/Doodads/Leagues/Hellscape/FactionDemonSet.ao",9377
-1,"Flesh",1325,1326,"[1331,1332]",14,[9419],"Metadata/Terrain/Doodads/Leagues/Hellscape/FactionFleshSet.ao",9398
-2,"Pale",1327,1328,"[1330,1329]",8,[9416],"Metadata/Terrain/Doodads/Leagues/Hellscape/FactionPaleSet.ao",9413
+0,"Demon",1329,1330,"[1339,1340]",1,[9626],"Metadata/Terrain/Doodads/Leagues/Hellscape/FactionDemonSet.ao",9583
+1,"Flesh",1331,1332,"[1337,1338]",14,[9630],"Metadata/Terrain/Doodads/Leagues/Hellscape/FactionFleshSet.ao",9606
+2,"Pale",1333,1334,"[1336,1335]",8,[9627],"Metadata/Terrain/Doodads/Leagues/Hellscape/FactionPaleSet.ao",9623

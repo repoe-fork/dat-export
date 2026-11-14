@@ -9,11 +9,9 @@ type HarvestCraftOptions @tags(list: ["crafting"]) {
   HASH16: u16
   Description: string @localized
   IsEnchant: bool
-  LifeforceType: i32
-  LifeforceCost: i32
-  SacredCost: i32
+  LifeforceTypes: [i32]
+  LifeforceCosts: [i32]
   IsProportionalToStackSize: bool
   NecropolisAchievements: [AchievementItems]
   GameMode: GameModes
-  RancourCost: i32
 }

@@ -1,0 +1,6 @@
+type AlternateTreeVersionKeystones {
+  Version: AlternateTreeVersions
+  _: i32
+  Conqueror: string @localized
+  _: i32
+}

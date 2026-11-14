@@ -53,4 +53,11 @@ type PassiveSkills {
   _: bool
   IsBrequelWomb: bool
   _: bool
+  _: i32
+  VariantType: PassiveSkillVariantTypes
+  AtlasSubTree: AtlasPassiveSkillSubTrees
+  _: bool
+  _: bool
+  _: bool
+  UIArt: PassiveSkillTreeUIArt
 }

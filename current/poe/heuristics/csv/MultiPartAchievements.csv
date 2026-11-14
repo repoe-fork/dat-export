@@ -245,3 +245,7 @@
 243,"KillVelkaWithoutBeingHitByAnchors",1,"",0,"",1,0
 244,"KillVelkaWithoutBeingHitByLightningWhip",1,"",0,"",1,0
 245,"KillVelkaWithoutBeingHitByCrashingBrine",1,"",0,"",1,0
+246,"KillCroneBossWithoutCorpseRot",1,"",0,"",1,0
+247,"KillCroneBossWithoutBlackfire",1,"",0,"",1,0
+248,"KillCroneBossWithoutCrowstorm",1,"",0,"",1,0
+249,"KillCroneBissWithoutBlackfireDetonations",1,"",0,"",1,0

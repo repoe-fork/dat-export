@@ -1,0 +1,9 @@
+type AuguryFactions {
+  Id: string @unique
+  _: i32
+  _: i32
+  _: i32
+  Icon: string
+  Name: string @localized
+  _: MiscAnimated
+}

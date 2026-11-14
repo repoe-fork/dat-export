@@ -1,0 +1,10 @@
+type CustomAddModCurrency {
+  BaseItemType: BaseItemTypes
+  ItemClasses: [ItemClasses]
+  BaseItemTypes: [BaseItemTypes]
+  Tags: [Tags]
+  _: bool
+  _: bool
+  Mod: Mods
+  _: i32
+}

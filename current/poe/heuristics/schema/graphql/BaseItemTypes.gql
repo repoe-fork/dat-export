@@ -18,7 +18,7 @@ type BaseItemTypes @tags(list: ["item:def", "item:droptable"]) {
   VendorRecipe_AchievementItems: [AchievementItems]
   "the inflection identifier used for i18n in related fields"
   Inflection: string @localized
-  Equip_AchievementItemsKey: AchievementItems
+  EquipAchievements: [AchievementItems]
   IsCorrupted: bool
   Identify_AchievementItems: [AchievementItems]
   IdentifyMagic_AchievementItems: [AchievementItems]
@@ -31,7 +31,6 @@ type BaseItemTypes @tags(list: ["item:def", "item:droptable"]) {
   Unmodifiable: bool
   Achievement1: [AchievementItems]
   Achievement2: [AchievementItems]
-  IgnoreQuantBonus: bool
   _: bool
   ShopTag: ShopTag
   _: [_] # All rows empty

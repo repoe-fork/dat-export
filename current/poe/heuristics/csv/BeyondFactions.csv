@@ -1,4 +1,4 @@
-"rownum","Id","Boss","FactionChanceStat","BuffTemplate"
-0,"Demon",9377,18956,633
-1,"Flesh",9398,18957,634
-2,"Pale",9413,18958,635
+"rownum","Id","Boss","FactionChanceStat","BuffTemplate","rid_56","rid_72"
+0,"Demon",9583,18764,635,"",""
+1,"Flesh",9606,18765,636,"",""
+2,"Pale",9623,18766,637,"",""

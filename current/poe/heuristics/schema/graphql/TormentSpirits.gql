@@ -13,4 +13,6 @@ type TormentSpirits {
   ModsKeys1: [Mods]
   PlayerPossessedMod: Mods
   Animation: MiscAnimated
+  _: rid
+  _: Mods
 }

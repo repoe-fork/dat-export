@@ -1,0 +1,4 @@
+type AuguryLifeScalingPerLevel {
+  Level: i32
+  Scaling: i32
+}

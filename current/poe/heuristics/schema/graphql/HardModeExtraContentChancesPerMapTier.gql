@@ -1,5 +1,0 @@
-# Added 3.22
-type HardModeExtraContentChancesPerMapTier {
-  Tier: i32
-  ContentChance: HardModeExtraContentChances @unique
-}

@@ -1,0 +1,11 @@
+type AuguryPinnacleCards {
+  Id: string @unique
+  Body1: string @localized
+  Art: string
+  _: rid
+  _: [rid]
+  _: rid
+  Name: string @localized
+  _: rid
+  Body2: string @localized
+}

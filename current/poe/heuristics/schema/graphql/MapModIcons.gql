@@ -1,0 +1,5 @@
+type MapModIcons {
+  Mod: Mods
+  Icon: string
+  Description: string @localized
+}

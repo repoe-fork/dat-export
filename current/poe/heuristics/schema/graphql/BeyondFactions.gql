@@ -4,4 +4,6 @@ type BeyondFactions {
   Boss: MonsterVarieties
   FactionChanceStat: Stats
   BuffTemplate: BuffTemplates
+  _: rid
+  _: rid
 }

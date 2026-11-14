@@ -112,5 +112,17 @@
       }
     },
     "size": 16
+  },
+  {
+    "name": "",
+    "offset": 81,
+    "unknownArray": false,
+    "unique": false,
+    "interval": false,
+    "type": {
+      "array": false,
+      "boolean": true
+    },
+    "size": 1
   }
 ]

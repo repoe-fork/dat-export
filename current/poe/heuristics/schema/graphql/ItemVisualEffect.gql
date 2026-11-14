@@ -14,7 +14,7 @@ type ItemVisualEffect {
   TwoHandedAxeEPKFile: string @file(ext: ".epk")
   ClawEPKFile: string @file(ext: ".epk")
   PETFile: string @file(ext: ".pet")
-  Shield: [string] @file(ext: ".epk")
+  Shield: string @file(ext: ".epk")
   _: bool
   _: string
 }

@@ -1,0 +1,12 @@
+type AuguryCards {
+  Id: string @unique
+  _: i32
+  _: i32
+  _: i32
+  _: rid
+  Name: string @localized
+  Art: string
+  _: NPCTextAudio
+  _: NPCTextAudio
+  _: i32
+}

@@ -538,7 +538,7 @@
 536,"HeistSpottedPatrol",2,2,1,"",250,0,2,250
 537,"HeistSpottedMiniBoss",2,2,1,"",250,0,2,250
 538,"HeistDisplayCase",3,4,1,1,100000,0,2,100000
-539,"HeistEscapeRoute",2,3,1,"",250,0,2,250
+539,"HeistEscapeRoute",2,3,1,1,100000,0,2,100000
 540,"HeistPathChest",2,2,1,1,100000,0,1,100000
 541,"RewardChestGeneric",3,3,1,1,100000,0,1,100000
 542,"RewardChestCurrency",3,3,1,1,100000,0,1,100000
@@ -698,3 +698,12 @@
 696,"BrinerotStores",2,2,"",1,150,0,2,150
 697,"LegionCocoonCrystal",2,2,1,"",250,0,2,250
 698,"ChartStorage",2,2,1,"",250,0,2,250
+699,"BeyondInitiator",2,2,"",1,250,0,2,250
+700,"BeyondRealmTransition",2,2,"",1,250,0,2,250
+701,"AuguryEncounter",2,2,"",1,250,0,2,250
+702,"DoubleCorruptDevice",2,2,1,"",250,0,2,250
+703,"AuguryEffigy",2,2,1,1,250,0,2,250
+704,"ExpeditionObelisk",2,2,1,"",250,0,2,250
+705,"AuguryBossObject",2,2,1,1,250,0,2,250
+706,"BetrayalCorpseSculpture",2,2,"",1,250,0,2,250
+707,"CorruptedPrecursorBeacon",2,2,"","",250,0,2,250
