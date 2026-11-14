@@ -1,3 +1,4 @@
+# Added 3.30
 type CustomAddModCurrency {
   BaseItemType: BaseItemTypes
   ItemClasses: [ItemClasses]

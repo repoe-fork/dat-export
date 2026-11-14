@@ -1,3 +1,4 @@
+# Added 3.30
 type AuguryCardDialogue {
   Id: string @unique
   _: rid

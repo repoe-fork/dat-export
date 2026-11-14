@@ -1,3 +1,4 @@
+# Added 3.30
 type AuguryRewardOutcomes {
   Id: string @unique
   Tier: i32

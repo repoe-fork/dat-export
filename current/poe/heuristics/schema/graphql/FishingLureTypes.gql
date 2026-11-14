@@ -1,3 +1,4 @@
+# Added 3.30
 type FishingLureTypes {
   _: i32
   Name: string @localized

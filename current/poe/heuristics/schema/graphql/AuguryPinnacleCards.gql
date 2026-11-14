@@ -1,3 +1,4 @@
+# Added 3.30
 type AuguryPinnacleCards {
   Id: string @unique
   Body1: string @localized

@@ -1,3 +1,4 @@
+# Added 3.30
 type EndgamePlayerHideoutApplyMods {
   Id: string @unique
   _: i16

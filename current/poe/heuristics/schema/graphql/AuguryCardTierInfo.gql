@@ -1,3 +1,4 @@
+# Added 3.30
 type AuguryCardTierInfo {
   Tier: i32
   Icon: string

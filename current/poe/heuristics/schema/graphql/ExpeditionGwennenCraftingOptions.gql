@@ -1,3 +1,4 @@
+# Added 3.30
 type ExpeditionGwennenCraftingOptions {
   Id: i32 @unique
   Deal: ExpeditionDeals

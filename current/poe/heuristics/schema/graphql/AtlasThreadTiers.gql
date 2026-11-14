@@ -1,3 +1,4 @@
+# Added 3.30
 type AtlasThreadTiers {
   ThreadType: AtlasThreadTypes
   Tier: i32

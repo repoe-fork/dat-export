@@ -1,3 +1,4 @@
+# Added 3.30
 type EndgamePlayerHideoutRewards {
   Id: string @unique
   _: i16

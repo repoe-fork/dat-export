@@ -1,3 +1,4 @@
+# Added 3.30
 type AtlasThreadDynamicInventorySlots {
   Id: string @unique
   ThreadType: AtlasThreadTypes

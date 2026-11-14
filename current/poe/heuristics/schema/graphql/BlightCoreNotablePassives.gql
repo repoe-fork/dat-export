@@ -1,3 +1,4 @@
+# Added 3.30
 type BlightCoreNotablePassives {
   Passive: PassiveSkills
   Stat: Stats

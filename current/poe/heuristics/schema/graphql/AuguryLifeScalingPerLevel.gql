@@ -1,3 +1,4 @@
+# Added 3.30
 type AuguryLifeScalingPerLevel {
   Level: i32
   Scaling: i32

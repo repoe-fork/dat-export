@@ -1,3 +1,4 @@
+# Added 3.30
 type AtlasPassiveSkillSubTrees {
   Id: string @unique
   UI_Image: string

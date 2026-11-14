@@ -1,3 +1,4 @@
+# Added 3.30
 type PassiveSkillVariants {
   Type: PassiveSkillVariantTypes
   Variant: PassiveSkills
