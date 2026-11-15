@@ -454,7 +454,7 @@
 452,"ArchnemesisDefender",2053,[],0,[],[],"",0,1,[],1,0,"",""
 453,"InfiniteHungerSideArenaDebuff",2023,"[6500,3500,-8]",0,[],[],"",0,1,[],1,0,"",""
 454,"shrine_greed_monster",2024,"[3500,0,0,0,-70,1]",0,[],[],275,0,1,[],1,0,"",""
-455,"shrine_greed_player",2024,"[0,0,50,15,20,1]",0,[],[],"",0,1,[],1,0,"",""
+455,"shrine_greed_player",2024,"[0,0,50,15,0,1]",0,[],[],"",0,1,[],1,0,"",""
 456,"NearbyStationaryEnemiesGainGraspingVineUnique",980,[],60,[3],"[1000,6]","",0,1,[],1,0,"",""
 457,"InfiniteHungerDrowningDebuff",2039,[9],0,[],[150],"",0,1,[],1,0,"",""
 458,"InfluenceStatConditionPresenceUniqueMonster",2050,[],0,[],[],"",0,1,[],1,0,1,""

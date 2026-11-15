@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1794606266,
+  "createdAt": 1794693319,
   "tables": [
     {
       "validFor": 1,
@@ -53861,7 +53861,7 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "Name",
           "description": null,
           "array": false,
           "type": "string",
@@ -53995,7 +53995,7 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "StatValue",
           "description": null,
           "array": false,
           "type": "i32",
@@ -54021,7 +54021,7 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "InternalVersion",
           "description": null,
           "array": false,
           "type": "i32",

@@ -1,4 +1,4 @@
-"rownum","Id","bool_8","bool_9","i32_10","i32_14","i32_18","i32_22","i32_26","i32_30","i32_34","string_38","string_38 (French)","string_38 (German)","string_38 (Japanese)","string_38 (Korean)","string_38 (Portuguese)","string_38 (Russian)","string_38 (Spanish)","string_38 (Thai)","string_38 (Traditional Chinese)"
+"rownum","Id","bool_8","bool_9","i32_10","i32_14","i32_18","i32_22","i32_26","i32_30","i32_34","Name","Name (French)","Name (German)","Name (Japanese)","Name (Korean)","Name (Portuguese)","Name (Russian)","Name (Spanish)","Name (Thai)","Name (Traditional Chinese)"
 0,"None","","",0,0,0,0,0,0,0,"","","","","","","","","",""
 1,"Vaal",1,1,0,0,0,0,0,0,100,"Vaal","Vaal","von den Vaal","ヴァール","바알","Vaal","ваал","los vaal","วาล์","瓦爾"
 2,"Karui","","",1,1,1,1,1,1,0,"Karui","Karui","von den Karui","カルイ","카루이","Karui","каруи","los karui","คารุย","卡魯"

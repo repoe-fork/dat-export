@@ -5866,7 +5866,7 @@
 5864,"CGEBloodSplashesBloodGroundPinnacle",[620],"[14841,358]","[18,10000]",1.3,0,0.048
 5865,"CGEAuguryScreecherShockedGround",[],"[10414,358]","[8,8000]",1,0,0
 5866,"CGEAuguryScreecherChilledGround",[],"[6319,358]","[13,8000]",1,0,0
-5867,"CGEAbyssalGround",[],"[14841,358]","[19,8000]",4.5,0,0.052
+5867,"CGEAbyssalGround",[],"[14841,358]","[19,8000]",2.2,0,0.0475
 5868,"CGEqwe_NEW_ENTRIES_GO_ABOVE_ME",[],[],[],1,0,0
 5869,"FrostboltMercenary","[501,4627]",[],[],2.8583,0,0.0473
 5870,"FrostboltMercenaryEncounter","[501,4627]",[],[],2.8583,0,0.042
@@ -11306,8 +11306,8 @@
 11304,"AuguryBloodDonutLow",[],[],[],1.6,0,0.05
 11305,"AuguryBloodDonutMed",[],[],[],1.6,0,0.05
 11306,"AuguryBloodDonutHigh",[],[],[],1.6,0,0.05
-11307,"AbyssalInnerDonut",[],[],[],1,0,0
-11308,"AbyssalOuterDonut",[],[],[],1,0,0
+11307,"AbyssalInnerDonut",[],[],[],1.85,0,0.05
+11308,"AbyssalOuterDonut",[],[],[],1.6,0,0.05
 11309,"SanctumVortexAura",[],[],[],1,0,0.05
 11310,"AncestralMoonAuraAllies",[],"[4684,140]","[35,25]",1,0,0
 11311,"AncestralMoonAuraEnemies",[],[8558],[20],1,0,0

@@ -15,7 +15,7 @@
     "size": 16
   },
   {
-    "name": "",
+    "name": "StatValue",
     "offset": 16,
     "unknownArray": false,
     "unique": false,
@@ -43,7 +43,7 @@
     "localized": true
   },
   {
-    "name": "",
+    "name": "InternalVersion",
     "offset": 28,
     "unknownArray": false,
     "unique": false,
