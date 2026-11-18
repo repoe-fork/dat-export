@@ -1,4 +1,4 @@
-"rownum","Id","Stat","MinionType","Name","Name (French)","Name (German)","Name (Japanese)","Name (Korean)","Name (Portuguese)","Name (Russian)","Name (Spanish)","Name (Thai)","Name (Traditional Chinese)"
+"rownum","Index","Stat","MinionType","Name","Name (French)","Name (German)","Name (Japanese)","Name (Korean)","Name (Portuguese)","Name (Russian)","Name (Spanish)","Name (Thai)","Name (Traditional Chinese)"
 0,0,21022,19,"Animated Weapons","Armes animées","Beseelte Waffen","アニメイトウェポン","기동된 무기","Armas Animadas","живого оружия","Armas animadas","อาวุธปลุกเสก","幻靈武器"
 1,1,21023,24,"Summoned Golems","Golems invoqués","Beschworene Golems","ゴーレム召喚","소환된 골렘","Golens Invocados","призванных големов","Gólems invocados","โกเลมอัญเชิญ","召喚魔像"
 2,2,21024,20,"Summoned Raging Spirits","Esprits enragés invoqués","Beschworene Flammenschädel","レイジングスピリット召喚","소환된 격노의 유령","Espíritos Furiosos Invocados","призванных неистовых духов","Espíritus encolerizados invocados","วิญญาณเกรี้ยวกราดอัญเชิญ","召喚憤怒狂靈"

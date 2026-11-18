@@ -1,6 +1,6 @@
 # Added 3.26
 type MinionDoublingStatTypes {
-  Id: i32 @unique
+  Index: i32 @unique
   Stat: Stats
   MinionType: MinionType
   Name: string @localized

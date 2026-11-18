@@ -1,6 +1,6 @@
 # Added 3.29
 type IndexableNonActiveSupportGems {
-  Index: i32
+  Index: i32 @unique
   SupportGem: SkillGems
   Name: string @localized
 }

@@ -1,5 +1,5 @@
 # Added 3.30
 type FishingHookTypes {
-  _: i32
+  Index: i32 @unique
   Name: string
 }

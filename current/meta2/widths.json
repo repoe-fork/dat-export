@@ -2915,10 +2915,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "338"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 338
     }
   ],
   "GeometryChannel": [
@@ -3023,40 +3019,24 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "297"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 297
     }
   ],
   "GrantedEffectsPerLevel": [
     {
       "version": "4.1.0.10.2",
       "row_width": "116"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 116
     }
   ],
   "GrantedEffectStatSets": [
     {
       "version": "4.1.0.10.2",
       "row_width": "101"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 101
     }
   ],
   "GrantedEffectStatSetsPerLevel": [
     {
       "version": "4.1.0.10.2",
       "row_width": "185"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 185
     }
   ],
   "GrantedSkillSocketNumbers": [
@@ -5109,10 +5089,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "1030"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 1030
     }
   ],
   "MonsterVarietiesArtVariations": [
@@ -5175,10 +5151,6 @@
     {
       "version": "4.4.0.1.3",
       "row_width": "180"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 180
     }
   ],
   "MultiPartAchievementAreas": [
@@ -5361,10 +5333,6 @@
     {
       "version": "4.5.0.2",
       "row_width": "423"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 423
     }
   ],
   "NPCTalkCategory": [
@@ -5901,10 +5869,6 @@
     {
       "version": "4.1.0.10.2",
       "row_width": "12"
-    },
-    {
-      "version": "0.5.5.10",
-      "row_width": 12
     }
   ],
   "QuestFlagVisuals": [

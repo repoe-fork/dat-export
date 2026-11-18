@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1794693319,
+  "createdAt": 1795017541,
   "tables": [
     {
       "validFor": 1,
@@ -44284,6 +44284,28 @@
     },
     {
       "validFor": 3,
+      "name": "MercenaryDisabledUniques",
+      "columns": [
+        {
+          "name": "UniqueName",
+          "description": null,
+          "array": false,
+          "type": "foreignrow",
+          "unique": false,
+          "localized": false,
+          "references": {
+            "table": "Words"
+          },
+          "until": null,
+          "file": null,
+          "files": null,
+          "interval": false
+        }
+      ],
+      "tags": []
+    },
+    {
+      "validFor": 3,
       "name": "ZanaInfluenceCostPerCurrency",
       "columns": [
         {
@@ -61971,7 +61993,7 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "InPresence",
           "description": null,
           "array": false,
           "type": "bool",
@@ -78866,11 +78888,11 @@
       "name": "FishingHookTypes",
       "columns": [
         {
-          "name": null,
+          "name": "Index",
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -78899,11 +78921,11 @@
       "name": "FishingLureTypes",
       "columns": [
         {
-          "name": null,
+          "name": "Index",
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -91219,7 +91241,7 @@
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -91267,7 +91289,7 @@
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -91358,7 +91380,7 @@
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -139377,11 +139399,11 @@
       "name": "ShaperApparitionAbility",
       "columns": [
         {
-          "name": null,
+          "name": "Index",
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -166190,11 +166212,11 @@
       "name": "MinionDoublingStatTypes",
       "columns": [
         {
-          "name": "Id",
+          "name": "Index",
           "description": null,
           "array": false,
           "type": "i32",
-          "unique": false,
+          "unique": true,
           "localized": false,
           "references": null,
           "until": null,
@@ -195339,10 +195361,10 @@
         "NECROPOLIS_MONSTER",
         "IDOL",
         "GRAFT",
-        null,
-        null,
-        null,
-        null,
+        "DEEPWATER_CHART",
+        "DEEPWATER_BORDER",
+        "MERCENARY",
+        "DUCAT_CRAFTED",
         "HARVEST_TREE",
         "LEGION_MONOLITH"
       ]
@@ -195384,10 +195406,11 @@
         null,
         "WEAPON_TREE",
         "WEAPON_TREE_RECOMBINED",
-        null,
+        "AZMERI_EMPOWERED_MONSTER",
         "NECROPOLIS_HAUNTED",
         "NECROPOLIS_DEVOTED",
-        "MEMORY_ALTAR"
+        "MEMORY_ALTAR",
+        "DEEPWATER_VOYAGE_PLANNER"
       ]
     },
     {

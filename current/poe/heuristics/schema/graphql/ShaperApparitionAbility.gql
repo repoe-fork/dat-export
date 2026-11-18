@@ -1,6 +1,6 @@
 # Added 3.30
 type ShaperApparitionAbility {
-  _: i32
+  Index: i32 @unique
   GrantedEffect: GrantedEffects
   Name: string @localized
 }

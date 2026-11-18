@@ -1,6 +1,6 @@
 # Added 3.22
 type IndexableSkillGems {
-  Index: i32
+  Index: i32 @unique
   SkillGem1: [SkillGems]
   Name1: string @localized
   SkillGem2: [SkillGems]

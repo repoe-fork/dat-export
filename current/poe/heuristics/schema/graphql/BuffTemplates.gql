@@ -12,6 +12,6 @@ type BuffTemplates {
   StatsKey: [Stats]
   _: i32
   _: i32
-  _: bool
+  InPresence: bool
   _: Stats
 }
