@@ -1,0 +1,4 @@
+type betrayaljobmonstervarieties {
+  _: rid @unique
+  _: [_]
+}

@@ -7,4 +7,6 @@ type AtlasThreadTiers {
   _: [_] # All rows empty
   _: [_] # All rows empty
   _: bool
+  _: i32 # All rows empty
+  _: i32 # All rows empty
 }
