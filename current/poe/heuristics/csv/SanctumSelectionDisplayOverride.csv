@@ -62,10 +62,10 @@
 60,"CurrencyChaosOrb2","","","","","","","","","","","","","","","","","","","","","",2,2,9
 61,"CurrencyChaosOrb3","","","","","","","","","","","","","","","","","","","","","",2,3,9
 62,"CurrencyChaosOrb5","","","","","","","","","","","","","","","","","","","","","",2,5,9
-63,"CurrencyOrbofBinding1","","","","","","","","","","","","","","","","","","","","","",236,1,10
-64,"CurrencyOrbofBinding2","","","","","","","","","","","","","","","","","","","","","",236,2,10
-65,"CurrencyOrbofBinding3","","","","","","","","","","","","","","","","","","","","","",236,3,10
-66,"CurrencyOrbofBinding5","","","","","","","","","","","","","","","","","","","","","",236,5,10
+63,"CurrencyOrbofBinding1","","","","","","","","","","","","","","","","","","","","","",238,1,10
+64,"CurrencyOrbofBinding2","","","","","","","","","","","","","","","","","","","","","",238,2,10
+65,"CurrencyOrbofBinding3","","","","","","","","","","","","","","","","","","","","","",238,3,10
+66,"CurrencyOrbofBinding5","","","","","","","","","","","","","","","","","","","","","",238,5,10
 67,"CurrencyOrbofRegret1","","","","","","","","","","","","","","","","","","","","","",9,1,11
 68,"CurrencyOrbofRegret2","","","","","","","","","","","","","","","","","","","","","",9,2,11
 69,"CurrencyOrbofRegret3","","","","","","","","","","","","","","","","","","","","","",9,3,11
@@ -80,28 +80,28 @@
 78,"CurrencyVaalOrb2","","","","","","","","","","","","","","","","","","","","","",41,2,14
 79,"CurrencyVaalOrb2Copy","","","","","","","","","","","","","","","","","","","","","",41,2,14
 80,"CurrencyVaalOrb4","","","","","","","","","","","","","","","","","","","","","",41,4,14
-81,"CurrencyOrbofHorizons1","","","","","","","","","","","","","","","","","","","","","",237,1,15
-82,"CurrencyOrbofHorizons2","","","","","","","","","","","","","","","","","","","","","",237,2,15
-83,"CurrencyOrbofHorizons4","","","","","","","","","","","","","","","","","","","","","",237,4,15
-84,"CurrencyInstillingOrb1","","","","","","","","","","","","","","","","","","","","","",4248,1,16
-85,"CurrencyInstillingOrb2","","","","","","","","","","","","","","","","","","","","","",4248,2,16
-86,"CurrencyInstillingOrb4","","","","","","","","","","","","","","","","","","","","","",4248,4,16
+81,"CurrencyOrbofHorizons1","","","","","","","","","","","","","","","","","","","","","",239,1,15
+82,"CurrencyOrbofHorizons2","","","","","","","","","","","","","","","","","","","","","",239,2,15
+83,"CurrencyOrbofHorizons4","","","","","","","","","","","","","","","","","","","","","",239,4,15
+84,"CurrencyInstillingOrb1","","","","","","","","","","","","","","","","","","","","","",4250,1,16
+85,"CurrencyInstillingOrb2","","","","","","","","","","","","","","","","","","","","","",4250,2,16
+86,"CurrencyInstillingOrb4","","","","","","","","","","","","","","","","","","","","","",4250,4,16
 87,"CurrencyRegalOrb1","","","","","","","","","","","","","","","","","","","","","",15,1,17
 88,"CurrencyRegalOrb2","","","","","","","","","","","","","","","","","","","","","",15,2,17
 89,"CurrencyRegalOrb4","","","","","","","","","","","","","","","","","","","","","",15,4,17
 90,"CurrencyExaltedOrb1","","","","","","","","","","","","","","","","","","","","","",14,1,26
 91,"CurrencyExaltedOrb2","","","","","","","","","","","","","","","","","","","","","",14,2,26
 92,"CurrencyExaltedOrb4","","","","","","","","","","","","","","","","","","","","","",14,4,26
-93,"CurrencyEnkindlingOrb1","","","","","","","","","","","","","","","","","","","","","",4247,1,18
-94,"CurrencyEnkindlingOrb2","","","","","","","","","","","","","","","","","","","","","",4247,2,18
-95,"CurrencyEnkindlingOrb4","","","","","","","","","","","","","","","","","","","","","",4247,4,18
+93,"CurrencyEnkindlingOrb1","","","","","","","","","","","","","","","","","","","","","",4249,1,18
+94,"CurrencyEnkindlingOrb2","","","","","","","","","","","","","","","","","","","","","",4249,2,18
+95,"CurrencyEnkindlingOrb4","","","","","","","","","","","","","","","","","","","","","",4249,4,18
 96,"CurrencyOrbofUnmaking1","","","","","","","","","","","","","","","","","","","","","",10,1,19
 97,"CurrencyOrbofUnmaking2","","","","","","","","","","","","","","","","","","","","","",10,2,19
 98,"CurrencyOrbofUnmaking4","","","","","","","","","","","","","","","","","","","","","",10,4,19
-99,"CurrencyAwakenedSextant3","","","","","","","","","","","","","","","","","","","","","",213,3,22
-100,"CurrencyStackedDeck1","","","","","","","","","","","","","","","","","","","","","",3259,1,21
-101,"CurrencyStackedDeck2","","","","","","","","","","","","","","","","","","","","","",3259,2,21
-102,"CurrencyStackedDeck4","","","","","","","","","","","","","","","","","","","","","",3259,4,21
+99,"CurrencyAwakenedSextant3","","","","","","","","","","","","","","","","","","","","","",214,3,22
+100,"CurrencyStackedDeck1","","","","","","","","","","","","","","","","","","","","","",3261,1,21
+101,"CurrencyStackedDeck2","","","","","","","","","","","","","","","","","","","","","",3261,2,21
+102,"CurrencyStackedDeck4","","","","","","","","","","","","","","","","","","","","","",3261,4,21
 103,"ExchangeMaxResolveRandomMajorBoon","","","","","","","","","","","Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/ExchangeMaxResolveRandomMajorBoon","","","","","","","","","","","",0,""
 104,"ExchangeMaxResolveRandomMinorBoon","","","","","","","","","","","Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/ExchangeMaxResolveRandomMinorBoon","","","","","","","","","","","",0,""
 105,"ExchangeMaxResolveTwoRandomMinorBoons","","","","","","","","","","","Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/ExchangeMaxResolveTwoRandomMinorBoons","","","","","","","","","","","",0,""
@@ -114,10 +114,10 @@
 112,"LoseRandomMinorAfflictionLoseRandomMinorBoon","","","","","","","","","","","Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/LoseRandomMinorAfflictionLoseRandomMinorBoon","","","","","","","","","","","",0,""
 113,"LoseSpecMinorAfflictionGainRandomMinorAffliction","","","","","","","","","","","Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/LoseSpecMinorAfflictionGainRandomMinorAffliction","","","","","","","","","","","",0,""
 114,"LoseSpecMinorAfflictionLoseSpecificMinorBoon","","","","","","","","","","","Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/LoseSpecMinorAfflictionLoseSpecificMinorBoon","","","","","","","","","","","",0,""
-115,"PurchaseRelic1x2","Censer Relic","Relique encensoir","Weihrauchfass-Relikt","香炉のレリック","향로 유물","Relíquia: Incensário","Курительница","Reliquia incensaria","กระถางธูปตกทอด","香爐聖物","","","","","","","","","","","",4772,0,""
-116,"PurchaseRelic1x3","Processional Relic","Relique de procession","Prozessionsbuch-Relikt","行進のレリック","행렬 유물","Relíquia: Procissão","Кадило","Reliquia procesional","ของประกอบพิธีตกทอด","詩歌聖物","","","","","","","","","","","",4773,0,""
-117,"PurchaseRelic1x4","Candlestick Relic","Relique chandelier","Kerzenständer-Relikt","燭台のレリック","촛대 유물","Relíquia: Vela","Подсвечник","Reliquia de candelero","เชิงเทียนตกทอด","燭台聖物","","","","","","","","","","","",4774,0,""
-118,"PurchaseRelic2x1","Urn Relic","Relique urne","Urnen-Relikt","壷のレリック","단지 유물","Relíquia: Urna","Урна","Reliquia de urna","ไหตกทอด","古甕聖物","","","","","","","","","","","",4775,0,""
-119,"PurchaseRelic2x2","Coffer Relic","Relique coffre","Truhen-Relikt","金庫のレリック","궤짝 유물","Relíquia: Arca","Ларец","Reliquia de cofre","หีบตกทอด","寶箱聖物","","","","","","","","","","","",4776,0,""
-120,"PurchaseRelic3x1","Tome Relic","Relique tome","Buch-Relikt","学術書のレリック","책 유물","Relíquia: Tomo","Фолиант","Reliquia de tomo","คัมภีร์ตกทอด","卷冊聖物","","","","","","","","","","","",4777,0,""
-121,"PurchaseRelic4x1","Papyrus Relic","Relique papyrus","Papyrus-Relikt","パピルスのレリック","파피루스 유물","Relíquia: Papiro","Папирус","Reliquia de papiro","กระดาษปาปิรุสตกทอด","草紙聖物","","","","","","","","","","","",4778,0,""
+115,"PurchaseRelic1x2","Censer Relic","Relique encensoir","Weihrauchfass-Relikt","香炉のレリック","향로 유물","Relíquia: Incensário","Курительница","Reliquia incensaria","กระถางธูปตกทอด","香爐聖物","","","","","","","","","","","",4774,0,""
+116,"PurchaseRelic1x3","Processional Relic","Relique de procession","Prozessionsbuch-Relikt","行進のレリック","행렬 유물","Relíquia: Procissão","Кадило","Reliquia procesional","ของประกอบพิธีตกทอด","詩歌聖物","","","","","","","","","","","",4775,0,""
+117,"PurchaseRelic1x4","Candlestick Relic","Relique chandelier","Kerzenständer-Relikt","燭台のレリック","촛대 유물","Relíquia: Vela","Подсвечник","Reliquia de candelero","เชิงเทียนตกทอด","燭台聖物","","","","","","","","","","","",4776,0,""
+118,"PurchaseRelic2x1","Urn Relic","Relique urne","Urnen-Relikt","壷のレリック","단지 유물","Relíquia: Urna","Урна","Reliquia de urna","ไหตกทอด","古甕聖物","","","","","","","","","","","",4777,0,""
+119,"PurchaseRelic2x2","Coffer Relic","Relique coffre","Truhen-Relikt","金庫のレリック","궤짝 유물","Relíquia: Arca","Ларец","Reliquia de cofre","หีบตกทอด","寶箱聖物","","","","","","","","","","","",4778,0,""
+120,"PurchaseRelic3x1","Tome Relic","Relique tome","Buch-Relikt","学術書のレリック","책 유물","Relíquia: Tomo","Фолиант","Reliquia de tomo","คัมภีร์ตกทอด","卷冊聖物","","","","","","","","","","","",4779,0,""
+121,"PurchaseRelic4x1","Papyrus Relic","Relique papyrus","Papyrus-Relikt","パピルスのレリック","파피루스 유물","Relíquia: Papiro","Папирус","Reliquia de papiro","กระดาษปาปิรุสตกทอด","草紙聖物","","","","","","","","","","","",4780,0,""

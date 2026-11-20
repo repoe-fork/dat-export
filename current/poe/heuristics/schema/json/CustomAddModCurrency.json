@@ -112,5 +112,47 @@
       }
     },
     "size": 4
+  },
+  {
+    "type": {
+      "array": false,
+      "integer": {
+        "unsigned": false,
+        "size": 4
+      }
+    },
+    "offset": 86,
+    "size": 4,
+    "unique": false
+  },
+  {
+    "type": {
+      "array": true,
+      "key": {
+        "foreign": true
+      }
+    },
+    "offset": 90,
+    "size": 16,
+    "unknownArray": true,
+    "unique": false
+  },
+  {
+    "type": {
+      "array": false,
+      "boolean": true
+    },
+    "offset": 106,
+    "size": 1,
+    "unique": false
+  },
+  {
+    "type": {
+      "array": false,
+      "boolean": true
+    },
+    "offset": 107,
+    "size": 1,
+    "unique": false
   }
 ]

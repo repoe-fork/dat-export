@@ -21719,7 +21719,7 @@
 21717,"brequel_currency_fruit_can_create_graft_currency","","","",4,"","","","","",2367235849,[],"","","",1,[],[]
 21718,"brequel_currency_fruit_can_create_mutated_currency","","","",4,"","","","","",3727805036,[],"","","",1,[],[]
 21719,"brequel_currency_fruit_graft_currency_chance_+%","","","",1,"","","","","",3252703993,[],"","","",1,[],[]
-21720,"brequel_currency_fruit_mutated_currency_chance_+%","","","",1,"","","","","",1920249740,[],"","","",1,[],[]
+21720,"brequel_currency_fruit_additional_mutated_currency_chance_%","","","",1,"","","","","",2050292456,[],"","","",1,[],[]
 21721,"brequel_currency_fruit_full_stack_chance_%","","","",1,"","","","","",2735351675,[],"","","",1,[],[]
 21722,"brequel_currency_fruit_gold_chance_%","","","",1,"","","","","",1692866953,[],"","","",1,[],[]
 21723,"brequel_currency_fruit_basic_currency_converted_to_shards","","","",4,"","","","","",3675758749,[],"","","",1,[],[]

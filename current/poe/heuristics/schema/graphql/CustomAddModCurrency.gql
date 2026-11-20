@@ -8,4 +8,8 @@ type CustomAddModCurrency {
   _: bool
   Mod: Mods
   _: i32
+  _: i32
+  _: [_]
+  _: bool
+  _: bool
 }

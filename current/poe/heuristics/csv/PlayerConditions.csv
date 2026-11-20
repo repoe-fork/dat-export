@@ -33,9 +33,9 @@
 31,"IsBleeding",[],"",1,"",[2085],"",1,[],""
 32,"HasQuicksandX10",[946],"",10,"",[],"",1,[],""
 33,"HasMortalCall",[110],"",1,"",[],"",1,[],""
-34,"HasSapphireRingEquipped",[],"",1,"",[],"",1,[756],""
-35,"HasTopazRingEquipped",[],"",1,"",[],"",1,[755],""
-36,"HasSapphireRingAndTopazRingEquipped",[],"",1,"",[],"",1,"[755,756]",1
+34,"HasSapphireRingEquipped",[],"",1,"",[],"",1,[758],""
+35,"HasTopazRingEquipped",[],"",1,"",[],"",1,[757],""
+36,"HasSapphireRingAndTopazRingEquipped",[],"",1,"",[],"",1,"[757,758]",1
 37,"IsBlinded",[],"",1,"",[972],"",1,[],""
 38,"IsTaunted",[],"",1,"",[3484],"",1,[],""
 39,"HasEmberstorm",[1651],"",1,"",[],"",1,[],""
