@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1795017541,
+  "createdAt": 1795638139,
   "tables": [
     {
       "validFor": 1,
@@ -110677,7 +110677,7 @@
           "interval": false
         },
         {
-          "name": null,
+          "name": "DisplayGrantedEffects",
           "description": null,
           "array": false,
           "type": "bool",

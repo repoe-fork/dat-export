@@ -80,7 +80,7 @@ type Mods @tags(list: ["crafting"]) {
   IsUnscalable: bool
   _: [GrantedEffects]
   _: [GrantedEffects]
-  _: bool
+  DisplayGrantedEffects: bool
   _: i32
   _: bool
 }

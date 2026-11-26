@@ -1176,7 +1176,7 @@
     "size": 16
   },
   {
-    "name": "",
+    "name": "DisplayGrantedEffects",
     "offset": 686,
     "unknownArray": false,
     "unique": false,
